@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Community (7 posts)
+### Community (8 posts)
 
+- [Manual Testing in Agile Teams: A Comprehensive Guide for 2025](posts/2025/2025-06-17-manual-testing-in-agile-teams-a-comprehensive-guide-for-2025.md) - Jun 17, 2025
 - [Manual vs Automated Testing Balance: Tools, Tips, and Industry Insights](posts/2025/2025-06-16-manual-vs-automated-testing-balance-tools-tips-and-industry-insights.md) - Jun 16, 2025
 - [Advanced Accessibility Testing Tools Techniques for Modern Development](posts/2025/2025-06-16-advanced-accessibility-testing-tools-techniques-for-modern-development.md) - Jun 16, 2025
 - [The Ultimate Guide to Manual Testing in Agile Teams](posts/2025/2025-06-16-the-ultimate-guide-to-manual-testing-in-agile-teams.md) - Jun 16, 2025
 - [Why Keyboard Navigation Testing Matters More Than Ever in 2025](posts/2025/2025-06-15-why-keyboard-navigation-testing-matters-more-than-ever-in-2025.md) - Jun 15, 2025
-- [Bug Reporting Best Practices Explained: Everything You Need to Know](posts/2025/2025-06-15-bug-reporting-best-practices-explained-everything-you-need-to-know.md) - Jun 15, 2025
-- ...and 2 more
+- ...and 3 more
 
 ### Engineering (35 posts)
 
