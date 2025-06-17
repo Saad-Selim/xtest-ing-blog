@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (36 posts)
+
+- [How to Implement Smoke Test Case Selection Successfully](posts/2025/2025-06-17-how-to-implement-smoke-test-case-selection-successfully.md) - Jun 17, 2025
+- [The Ultimate Guide to Smoke Testing vs Sanity Testing](posts/2025/2025-06-16-the-ultimate-guide-to-smoke-testing-vs-sanity-testing.md) - Jun 16, 2025
+- [Why Intelligent Test Case Selection Matters More Than Ever in 2025](posts/2025/2025-06-16-why-intelligent-test-case-selection-matters-more-than-ever-in-2025.md) - Jun 16, 2025
+- [Visual Regression Testing Tools: A Comprehensive Guide for 2025](posts/2025/2025-06-16-visual-regression-testing-tools-a-comprehensive-guide-for-2025.md) - Jun 16, 2025
+- [Unit Testing in Microservices: Best Practices and Real-World Examples](posts/2025/2025-06-16-unit-testing-in-microservices-best-practices-and-real-world-examples.md) - Jun 16, 2025
+- ...and 31 more
+
 ### Community (8 posts)
 
 - [Manual Testing in Agile Teams: A Comprehensive Guide for 2025](posts/2025/2025-06-17-manual-testing-in-agile-teams-a-comprehensive-guide-for-2025.md) - Jun 17, 2025
@@ -12,15 +21,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [The Ultimate Guide to Manual Testing in Agile Teams](posts/2025/2025-06-16-the-ultimate-guide-to-manual-testing-in-agile-teams.md) - Jun 16, 2025
 - [Why Keyboard Navigation Testing Matters More Than Ever in 2025](posts/2025/2025-06-15-why-keyboard-navigation-testing-matters-more-than-ever-in-2025.md) - Jun 15, 2025
 - ...and 3 more
-
-### Engineering (35 posts)
-
-- [The Ultimate Guide to Smoke Testing vs Sanity Testing](posts/2025/2025-06-16-the-ultimate-guide-to-smoke-testing-vs-sanity-testing.md) - Jun 16, 2025
-- [Why Intelligent Test Case Selection Matters More Than Ever in 2025](posts/2025/2025-06-16-why-intelligent-test-case-selection-matters-more-than-ever-in-2025.md) - Jun 16, 2025
-- [Visual Regression Testing Tools: A Comprehensive Guide for 2025](posts/2025/2025-06-16-visual-regression-testing-tools-a-comprehensive-guide-for-2025.md) - Jun 16, 2025
-- [Unit Testing in Microservices: Best Practices and Real-World Examples](posts/2025/2025-06-16-unit-testing-in-microservices-best-practices-and-real-world-examples.md) - Jun 16, 2025
-- [Cross-Browser E2E Testing: Best Practices and Real-World Examples](posts/2025/2025-06-16-cross-browser-e2e-testing-best-practices-and-real-world-examples.md) - Jun 16, 2025
-- ...and 30 more
 
 ### Security (8 posts)
 
