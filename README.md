@@ -4,23 +4,23 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (70 posts)
+### Engineering (69 posts)
 
+- [Natural Language Processing in Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-06-18-natural-language-processing-in-testing-common-pitfalls-and-how-to-avoid-them.md) - Jun 18, 2025
+- [Advanced Backward Compatibility Testing Techniques for Modern Development](posts/2025/2025-06-18-advanced-backward-compatibility-testing-techniques-for-modern-development.md) - Jun 18, 2025
 - [How to Implement Test Data Generation with AI Successfully](posts/2025/2025-06-18-how-to-implement-test-data-generation-with-ai-successfully.md) - Jun 18, 2025
 - [The Ultimate Guide to Production Sanity Testing](posts/2025/2025-06-18-the-ultimate-guide-to-production-sanity-testing.md) - Jun 18, 2025
 - [Quick Sanity Checks: Best Practices and Real-World Examples](posts/2025/2025-06-18-quick-sanity-checks-best-practices-and-real-world-examples.md) - Jun 18, 2025
-- [Mobile E2E Testing Strategies: A Comprehensive Guide for 2025](posts/2025/2025-06-18-mobile-e2e-testing-strategies-a-comprehensive-guide-for-2025.md) - Jun 18, 2025
-- [Test-Driven Development (TDD) Guide: A Comprehensive Guide for 2025](posts/2025/2025-06-18-test-driven-development-tdd-guide-a-comprehensive-guide-for-2025.md) - Jun 18, 2025
-- ...and 65 more
+- ...and 64 more
 
-### Security (16 posts)
+### Security (17 posts)
 
+- [Advanced Vulnerability Assessment in Modern Applications Techniques for Modern Development](posts/2025/2025-06-18-advanced-vulnerability-assessment-in-modern-applications-techniques-for-modern-development.md) - Jun 18, 2025
 - [Vulnerability Assessment in Modern Applications Explained: Everything You Need to Know](posts/2025/2025-06-18-vulnerability-assessment-in-modern-applications-explained-everything-you-need-to-know.md) - Jun 18, 2025
 - [The Ultimate Guide to Security in CI/CD Pipelines](posts/2025/2025-06-18-the-ultimate-guide-to-security-in-cicd-pipelines.md) - Jun 18, 2025
 - [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-06-18-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jun 18, 2025
 - [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-06-18-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jun 18, 2025
-- [The Ultimate Guide to Data Privacy Compliance Testing](posts/2025/2025-06-18-the-ultimate-guide-to-data-privacy-compliance-testing.md) - Jun 18, 2025
-- ...and 11 more
+- ...and 12 more
 
 ### Community (14 posts)
 
@@ -42,7 +42,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [The Future of Testing: AI, ML, and Intelligent Automation Explained: Everything You Need to Know](posts/2025/2025-06-12-the-future-of-testing-ai-ml-and-intelligent-automation-explained-everything-you-need-to-know.md) - Jun 12, 2025
 - [The Complete Guide to Modern Software Testing with AI and Automation: Tools, Tips, and Industry Insights](posts/2025/2025-06-11-the-complete-guide-to-modern-software-testing-with-ai-and-automation-tools-tips-and-industry-insights.md) - Jun 11, 2025
 - [The Future of Testing: AI, ML, and Intelligent Automation: Common Pitfalls and How to Avoid Them](posts/2025/2025-06-11-the-future-of-testing-ai-ml-and-intelligent-automation-common-pitfalls-and-how-to-avoid-them.md) - Jun 11, 2025
-- [Enterprise Testing at Scale: Strategies for Large Organizations: Best Practices and Real-World Examples](posts/2025/2025-06-11-enterprise-testing-at-scale-strategies-for-large-organizations-best-practices-and-real-world-examples.md) - Jun 11, 2025
 
 ## 🔗 Links
 
