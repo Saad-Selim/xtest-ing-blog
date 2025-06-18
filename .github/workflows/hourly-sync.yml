@@ -1,0 +1,93 @@
+name: Hourly Blog Sync
+
+on:
+  schedule:
+    # Run every hour at minute 5
+    - cron: "5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Sync from production
+        run: |
+          npm install axios turndown
+
+          # Download and run the sync script
+          curl -s https://raw.githubusercontent.com/Saad-Selim/xtest-ing-blog/master/.github/scripts/sync-production.js -o sync.js || cat > sync.js << 'ENDSCRIPT'
+          const axios = require('axios');
+          const fs = require('fs').promises;
+          const path = require('path');
+          const TurndownService = require('turndown');
+
+          const turndownService = new TurndownService({
+            headingStyle: 'atx',
+            codeBlockStyle: 'fenced'
+          });
+
+          async function sync() {
+            try {
+              const response = await axios.get('https://xtest.ing/api/blog/posts?limit=200');
+              const posts = response.data.posts;
+              console.log(`Found ${posts.length} posts`);
+              
+              const yearDir = path.join('posts', '2025');
+              await fs.mkdir(yearDir, { recursive: true });
+              
+              let newCount = 0;
+              for (const post of posts) {
+                const date = new Date(post.date);
+                const filename = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}-${post.slug}.md`;
+                const filepath = path.join(yearDir, filename);
+                
+                const markdown = post.content ? turndownService.turndown(post.content) : '';
+                const content = `---
+          title: "${post.title}"
+          slug: "${post.slug}"
+          date: ${date.toISOString()}
+          category: "${post.category}"
+          image: "${post.image || ''}"
+          ---
+
+          ${markdown}`;
+                
+                try {
+                  await fs.access(filepath);
+                } catch {
+                  await fs.writeFile(filepath, content);
+                  newCount++;
+                  console.log(`Created: ${filename}`);
+                }
+              }
+              
+              console.log(`Synced ${newCount} new posts`);
+              process.exit(newCount > 0 ? 0 : 78);
+            } catch (error) {
+              console.error('Error:', error.message);
+              process.exit(1);
+            }
+          }
+
+          sync();
+          ENDSCRIPT
+
+          node sync.js || echo "No new posts"
+
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add posts/
+          git diff --staged --quiet || (git commit -m "🔄 Hourly sync from production" && git push)
