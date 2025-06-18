@@ -21,12 +21,12 @@ jobs:
         with:
           node-version: "18"
 
+      - name: Install dependencies
+        run: npm install axios turndown
+
       - name: Sync from production
         run: |
-          npm install axios turndown
-
-          # Download and run the sync script
-          curl -s https://raw.githubusercontent.com/Saad-Selim/xtest-ing-blog/master/.github/scripts/sync-production.js -o sync.js || cat > sync.js << 'ENDSCRIPT'
+          cat > sync.js << 'EOF'
           const axios = require('axios');
           const fs = require('fs').promises;
           const path = require('path');
@@ -34,60 +34,173 @@ jobs:
 
           const turndownService = new TurndownService({
             headingStyle: 'atx',
-            codeBlockStyle: 'fenced'
+            codeBlockStyle: 'fenced',
+            bulletListMarker: '-'
           });
 
-          async function sync() {
+          async function syncFromProduction() {
             try {
+              console.log('🔄 Starting sync from production...');
+              
               const response = await axios.get('https://xtest.ing/api/blog/posts?limit=200');
               const posts = response.data.posts;
-              console.log(`Found ${posts.length} posts`);
+              console.log(`📊 Found ${posts.length} posts in production`);
               
-              const yearDir = path.join('posts', '2025');
-              await fs.mkdir(yearDir, { recursive: true });
+              const postsDir = path.join(process.cwd(), 'posts');
+              await fs.mkdir(postsDir, { recursive: true });
               
               let newCount = 0;
+              let updatedCount = 0;
+              
               for (const post of posts) {
                 const date = new Date(post.date);
-                const filename = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}-${post.slug}.md`;
+                const year = date.getFullYear();
+                const month = String(date.getMonth() + 1).padStart(2, '0');
+                const day = String(date.getDate()).padStart(2, '0');
+                
+                const yearDir = path.join(postsDir, String(year));
+                await fs.mkdir(yearDir, { recursive: true });
+                
+                const filename = `${year}-${month}-${day}-${post.slug}.md`;
                 const filepath = path.join(yearDir, filename);
                 
                 const markdown = post.content ? turndownService.turndown(post.content) : '';
-                const content = `---
-          title: "${post.title}"
-          slug: "${post.slug}"
-          date: ${date.toISOString()}
-          category: "${post.category}"
-          image: "${post.image || ''}"
-          ---
-
-          ${markdown}`;
                 
+                const frontmatter = [
+                  '---',
+                  `title: "${post.title.replace(/"/g, '\\"')}"`,
+                  `slug: "${post.slug}"`,
+                  `date: ${date.toISOString()}`,
+                  `category: "${post.category}"`,
+                  `image: "${post.image || 'https://xtest.ing/Cover.png'}"`,
+                  post.featured ? 'featured: true' : '',
+                  '---'
+                ].filter(Boolean).join('\n');
+                
+                const content = `${frontmatter}\n\n${markdown}`;
+                
+                let shouldWrite = true;
                 try {
-                  await fs.access(filepath);
+                  const existingContent = await fs.readFile(filepath, 'utf8');
+                  if (existingContent === content) {
+                    shouldWrite = false;
+                  } else {
+                    updatedCount++;
+                  }
                 } catch {
-                  await fs.writeFile(filepath, content);
                   newCount++;
-                  console.log(`Created: ${filename}`);
+                }
+                
+                if (shouldWrite) {
+                  await fs.writeFile(filepath, content);
+                  console.log(`${newCount > updatedCount ? '✅ Created' : '📝 Updated'}: ${filename}`);
                 }
               }
               
-              console.log(`Synced ${newCount} new posts`);
-              process.exit(newCount > 0 ? 0 : 78);
+              // Update README
+              const categories = {};
+              posts.forEach(post => {
+                if (!categories[post.category]) {
+                  categories[post.category] = [];
+                }
+                categories[post.category].push(post);
+              });
+              
+              const featuredPosts = posts.filter(p => p.featured).slice(0, 5);
+              const recentPosts = posts.slice(0, 10);
+              
+              let readme = `# Xtest Blog Posts
+
+Welcome to the Xtest blog repository! This repository contains all blog posts from [xtest.ing](https://xtest.ing/blog) in Markdown format.
+
+## 📊 Statistics
+
+- **Total Posts:** ${posts.length}
+- **Categories:** ${Object.keys(categories).length}
+- **Last Updated:** ${new Date().toISOString()}
+
+## 🌟 Featured Posts
+
+${featuredPosts.map(post => {
+  const date = new Date(post.date);
+  return `- [${post.title}](posts/${date.getFullYear()}/${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}-${post.slug}.md)`;
+}).join('\n')}
+
+## 📝 Recent Posts
+
+${recentPosts.map(post => {
+  const date = new Date(post.date);
+  return `- [${post.title}](posts/${date.getFullYear()}/${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}-${post.slug}.md) - ${post.category}`;
+}).join('\n')}
+
+## 📁 Categories
+
+${Object.entries(categories).map(([category, posts]) => 
+  `### ${category} (${posts.length} posts)`
+).join('\n\n')}
+
+## 🔄 Automation
+
+This repository is automatically synced with the production blog every hour using GitHub Actions.
+
+---
+
+Visit [xtest.ing](https://xtest.ing) for the full blog experience with our AI-powered testing platform!
+`;
+
+              await fs.writeFile(path.join(process.cwd(), 'README.md'), readme);
+              
+              console.log(`\n📊 Sync Summary:`);
+              console.log(`   New posts: ${newCount}`);
+              console.log(`   Updated posts: ${updatedCount}`);
+              console.log(`   Total posts: ${posts.length}`);
+              
+              if (newCount + updatedCount > 0) {
+                console.log('\n✅ Changes detected, will commit and push');
+              } else {
+                console.log('\n⏭️ No changes detected');
+              }
             } catch (error) {
-              console.error('Error:', error.message);
+              console.error('❌ Error syncing:', error.message);
               process.exit(1);
             }
           }
 
-          sync();
-          ENDSCRIPT
+          syncFromProduction();
+          EOF
 
-          node sync.js || echo "No new posts"
+          node sync.js
 
-      - name: Commit changes
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet HEAD; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add posts/
-          git diff --staged --quiet || (git commit -m "🔄 Hourly sync from production" && git push)
+          
+          # Add all changes
+          git add -A
+          
+          # Count new and modified files
+          NEW_COUNT=$(git diff --cached --name-status | grep "^A" | wc -l)
+          MODIFIED_COUNT=$(git diff --cached --name-status | grep "^M" | wc -l)
+          
+          # Create commit message
+          if [ $NEW_COUNT -gt 0 ] && [ $MODIFIED_COUNT -gt 0 ]; then
+            COMMIT_MSG="🔄 Sync: ${NEW_COUNT} new posts, ${MODIFIED_COUNT} updated"
+          elif [ $NEW_COUNT -gt 0 ]; then
+            COMMIT_MSG="✨ Add ${NEW_COUNT} new blog posts from production"
+          else
+            COMMIT_MSG="📝 Update ${MODIFIED_COUNT} blog posts"
+          fi
+          
+          git commit -m "$COMMIT_MSG"
+          git push
