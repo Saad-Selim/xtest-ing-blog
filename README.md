@@ -4,23 +4,23 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (38 posts)
+### Engineering (40 posts)
 
+- [Why Integration Testing in Cloud Environments Matters More Than Ever in 2025](posts/2025/2025-06-17-why-integration-testing-in-cloud-environments-matters-more-than-ever-in-2025.md) - Jun 17, 2025
+- [Computer Vision for Visual Testing: Tools, Tips, and Industry Insights](posts/2025/2025-06-17-computer-vision-for-visual-testing-tools-tips-and-industry-insights.md) - Jun 17, 2025
 - [Advanced Production Sanity Testing Techniques for Modern Development](posts/2025/2025-06-17-advanced-production-sanity-testing-techniques-for-modern-development.md) - Jun 17, 2025
 - [Why Natural Language Processing in Testing Matters More Than Ever in 2025](posts/2025/2025-06-17-why-natural-language-processing-in-testing-matters-more-than-ever-in-2025.md) - Jun 17, 2025
 - [How to Implement Smoke Test Case Selection Successfully](posts/2025/2025-06-17-how-to-implement-smoke-test-case-selection-successfully.md) - Jun 17, 2025
-- [The Ultimate Guide to Smoke Testing vs Sanity Testing](posts/2025/2025-06-16-the-ultimate-guide-to-smoke-testing-vs-sanity-testing.md) - Jun 16, 2025
-- [Why Intelligent Test Case Selection Matters More Than Ever in 2025](posts/2025/2025-06-16-why-intelligent-test-case-selection-matters-more-than-ever-in-2025.md) - Jun 16, 2025
-- ...and 33 more
+- ...and 35 more
 
-### Security (9 posts)
+### Security (10 posts)
 
+- [Mastering Security in CI/CD Pipelines: Expert Tips and Strategies](posts/2025/2025-06-17-mastering-security-in-cicd-pipelines-expert-tips-and-strategies.md) - Jun 17, 2025
 - [Security in CI/CD Pipelines: Common Pitfalls and How to Avoid Them](posts/2025/2025-06-17-security-in-cicd-pipelines-common-pitfalls-and-how-to-avoid-them.md) - Jun 17, 2025
 - [The Ultimate Guide to OWASP Top 10 Testing Strategies](posts/2025/2025-06-15-the-ultimate-guide-to-owasp-top-10-testing-strategies.md) - Jun 15, 2025
 - [The Ultimate Guide to Security in CI/CD Pipelines](posts/2025/2025-06-15-the-ultimate-guide-to-security-in-cicd-pipelines.md) - Jun 15, 2025
 - [API Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-06-15-api-security-testing-a-comprehensive-guide-for-2025.md) - Jun 15, 2025
-- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Common Pitfalls and How to Avoid Them](posts/2025/2025-06-14-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-common-pitfalls-and-how-to-avoid-them.md) - Jun 14, 2025
-- ...and 4 more
+- ...and 5 more
 
 ### Community (8 posts)
 
