@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (43 posts)
+### Engineering (44 posts)
 
+- [Machine Learning for Test Prioritization: Tools, Tips, and Industry Insights](posts/2025/2025-07-22-machine-learning-for-test-prioritization-tools-tips-and-industry-insights.md) - Jul 22, 2025
 - [Why Anomaly Detection in Test Results Matters More Than Ever in 2025](posts/2025/2025-07-22-why-anomaly-detection-in-test-results-matters-more-than-ever-in-2025.md) - Jul 22, 2025
+- [How to Implement Regression Testing in Agile Successfully](posts/2025/2025-07-22-how-to-implement-regression-testing-in-agile-successfully.md) - Jul 22, 2025
 - [Mastering Build Verification Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-build-verification-testing-expert-tips-and-strategies.md) - Jul 22, 2025
-- [How to Implement Microservices Integration Testing Successfully](posts/2025/2025-07-22-how-to-implement-microservices-integration-testing-successfully.md) - Jul 22, 2025
 - [Why The Complete Guide to Modern Software Testing with AI and Automation Matters More Than Ever in 2025](posts/2025/2025-07-22-why-the-complete-guide-to-modern-software-testing-with-ai-and-automation-matters-more-than-ever-in-2025.md) - Jul 22, 2025
-- [Performance Testing in CI/CD: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-performance-testing-in-cicd-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- ...and 38 more
+- ...and 39 more
 
 ### Security (11 posts)
 
