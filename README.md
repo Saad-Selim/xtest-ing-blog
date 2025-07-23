@@ -4,22 +4,22 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (50 posts)
+### Engineering (51 posts)
 
+- [Advanced Intelligent Test Case Selection Techniques for Modern Development](posts/2025/2025-07-23-advanced-intelligent-test-case-selection-techniques-for-modern-development.md) - Jul 23, 2025
 - [Self-Healing Test Automation Explained: Everything You Need to Know](posts/2025/2025-07-23-self-healing-test-automation-explained-everything-you-need-to-know.md) - Jul 23, 2025
 - [Advanced AI-Powered Test Generation Techniques for Modern Development](posts/2025/2025-07-23-advanced-ai-powered-test-generation-techniques-for-modern-development.md) - Jul 23, 2025
 - [Advanced ML Model Testing Strategies Techniques for Modern Development](posts/2025/2025-07-22-advanced-ml-model-testing-strategies-techniques-for-modern-development.md) - Jul 22, 2025
 - [Machine Learning for Test Prioritization Explained: Everything You Need to Know](posts/2025/2025-07-22-machine-learning-for-test-prioritization-explained-everything-you-need-to-know.md) - Jul 22, 2025
-- [The Ultimate Guide to Self-Healing Test Automation](posts/2025/2025-07-22-the-ultimate-guide-to-self-healing-test-automation.md) - Jul 22, 2025
-- ...and 45 more
+- ...and 46 more
 
 ### Security (11 posts)
 
+- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
 - [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
 - [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
-- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
 - ...and 6 more
 
 ### Community (3 posts)
