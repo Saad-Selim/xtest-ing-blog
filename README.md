@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (49 posts)
+### Engineering (50 posts)
 
+- [Self-Healing Test Automation Explained: Everything You Need to Know](posts/2025/2025-07-23-self-healing-test-automation-explained-everything-you-need-to-know.md) - Jul 23, 2025
 - [Advanced AI-Powered Test Generation Techniques for Modern Development](posts/2025/2025-07-23-advanced-ai-powered-test-generation-techniques-for-modern-development.md) - Jul 23, 2025
 - [Advanced ML Model Testing Strategies Techniques for Modern Development](posts/2025/2025-07-22-advanced-ml-model-testing-strategies-techniques-for-modern-development.md) - Jul 22, 2025
 - [Machine Learning for Test Prioritization Explained: Everything You Need to Know](posts/2025/2025-07-22-machine-learning-for-test-prioritization-explained-everything-you-need-to-know.md) - Jul 22, 2025
 - [The Ultimate Guide to Self-Healing Test Automation](posts/2025/2025-07-22-the-ultimate-guide-to-self-healing-test-automation.md) - Jul 22, 2025
-- [Natural Language Processing in Testing Explained: Everything You Need to Know](posts/2025/2025-07-22-natural-language-processing-in-testing-explained-everything-you-need-to-know.md) - Jul 22, 2025
-- ...and 44 more
+- ...and 45 more
 
 ### Security (11 posts)
 
