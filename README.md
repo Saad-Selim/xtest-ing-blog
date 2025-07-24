@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (55 posts)
+### Engineering (56 posts)
 
+- [The Ultimate Guide to Machine Learning for Test Prioritization](posts/2025/2025-07-24-the-ultimate-guide-to-machine-learning-for-test-prioritization.md) - Jul 24, 2025
 - [Computer Vision for Visual Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-24-computer-vision-for-visual-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 24, 2025
 - [Mastering Self-Healing Test Automation: Expert Tips and Strategies](posts/2025/2025-07-24-mastering-self-healing-test-automation-expert-tips-and-strategies.md) - Jul 24, 2025
 - [Mastering Computer Vision for Visual Testing: Expert Tips and Strategies](posts/2025/2025-07-23-mastering-computer-vision-for-visual-testing-expert-tips-and-strategies.md) - Jul 23, 2025
 - [Computer Vision for Visual Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-23-computer-vision-for-visual-testing-a-comprehensive-guide-for-2025.md) - Jul 23, 2025
-- [Advanced Intelligent Test Case Selection Techniques for Modern Development](posts/2025/2025-07-23-advanced-intelligent-test-case-selection-techniques-for-modern-development.md) - Jul 23, 2025
-- ...and 50 more
+- ...and 51 more
 
 ### Security (11 posts)
 
