@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (64 posts)
+### Engineering (65 posts)
 
+- [Test Data Generation with AI: Tools, Tips, and Industry Insights](posts/2025/2025-07-25-test-data-generation-with-ai-tools-tips-and-industry-insights.md) - Jul 25, 2025
 - [Self-Healing Test Automation: Tools, Tips, and Industry Insights](posts/2025/2025-07-25-self-healing-test-automation-tools-tips-and-industry-insights.md) - Jul 25, 2025
 - [Self-Healing Test Automation: A Comprehensive Guide for 2025](posts/2025/2025-07-25-self-healing-test-automation-a-comprehensive-guide-for-2025.md) - Jul 25, 2025
 - [The Ultimate Guide to AI-Powered Test Generation](posts/2025/2025-07-25-the-ultimate-guide-to-ai-powered-test-generation.md) - Jul 25, 2025
 - [Anomaly Detection in Test Results: Tools, Tips, and Industry Insights](posts/2025/2025-07-25-anomaly-detection-in-test-results-tools-tips-and-industry-insights.md) - Jul 25, 2025
-- [How to Implement Natural Language Processing in Testing Successfully](posts/2025/2025-07-25-how-to-implement-natural-language-processing-in-testing-successfully.md) - Jul 25, 2025
-- ...and 59 more
+- ...and 60 more
 
 ### Security (11 posts)
 
