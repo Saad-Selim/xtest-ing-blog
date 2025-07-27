@@ -4,20 +4,20 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (73 posts)
+### Engineering (74 posts)
 
+- [AI-Powered Test Generation Explained: Everything You Need to Know](posts/2025/2025-07-27-ai-powered-test-generation-explained-everything-you-need-to-know.md) - Jul 27, 2025
 - [Mastering Natural Language Processing in Testing: Expert Tips and Strategies](posts/2025/2025-07-27-mastering-natural-language-processing-in-testing-expert-tips-and-strategies.md) - Jul 27, 2025
 - [Advanced Natural Language Processing in Testing Techniques for Modern Development](posts/2025/2025-07-27-advanced-natural-language-processing-in-testing-techniques-for-modern-development.md) - Jul 27, 2025
 - [The Ultimate Guide to Anomaly Detection in Test Results](posts/2025/2025-07-27-the-ultimate-guide-to-anomaly-detection-in-test-results.md) - Jul 27, 2025
 - [How to Implement Test Data Generation with AI Successfully](posts/2025/2025-07-26-how-to-implement-test-data-generation-with-ai-successfully.md) - Jul 26, 2025
-- [Predictive Test Analytics: A Comprehensive Guide for 2025](posts/2025/2025-07-26-predictive-test-analytics-a-comprehensive-guide-for-2025.md) - Jul 26, 2025
-- ...and 68 more
+- ...and 69 more
 
 ### Security (11 posts)
 
-- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
 - [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
 - [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
 - [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
 - [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - ...and 6 more
