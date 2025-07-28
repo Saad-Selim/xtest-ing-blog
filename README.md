@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (77 posts)
+### Engineering (78 posts)
 
+- [Mastering AI-Powered Test Generation: Expert Tips and Strategies](posts/2025/2025-07-28-mastering-ai-powered-test-generation-expert-tips-and-strategies.md) - Jul 28, 2025
 - [Mastering Test Data Generation with AI: Expert Tips and Strategies](posts/2025/2025-07-28-mastering-test-data-generation-with-ai-expert-tips-and-strategies.md) - Jul 28, 2025
 - [Machine Learning for Test Prioritization: A Comprehensive Guide for 2025](posts/2025/2025-07-28-machine-learning-for-test-prioritization-a-comprehensive-guide-for-2025.md) - Jul 28, 2025
 - [How to Implement ML Model Testing Strategies Successfully](posts/2025/2025-07-27-how-to-implement-ml-model-testing-strategies-successfully.md) - Jul 27, 2025
 - [AI-Powered Test Generation Explained: Everything You Need to Know](posts/2025/2025-07-27-ai-powered-test-generation-explained-everything-you-need-to-know.md) - Jul 27, 2025
-- [Mastering Natural Language Processing in Testing: Expert Tips and Strategies](posts/2025/2025-07-27-mastering-natural-language-processing-in-testing-expert-tips-and-strategies.md) - Jul 27, 2025
-- ...and 72 more
+- ...and 73 more
 
 ### Security (11 posts)
 
