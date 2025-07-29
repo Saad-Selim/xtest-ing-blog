@@ -4,28 +4,28 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (81 posts)
+### Engineering (82 posts)
 
+- [Mastering ML Model Testing Strategies: Expert Tips and Strategies](posts/2025/2025-07-29-mastering-ml-model-testing-strategies-expert-tips-and-strategies.md) - Jul 29, 2025
 - [Advanced Computer Vision for Visual Testing Techniques for Modern Development](posts/2025/2025-07-29-advanced-computer-vision-for-visual-testing-techniques-for-modern-development.md) - Jul 29, 2025
 - [The Ultimate Guide to Test Data Generation with AI](posts/2025/2025-07-28-the-ultimate-guide-to-test-data-generation-with-ai.md) - Jul 28, 2025
 - [The Ultimate Guide to Predictive Test Analytics](posts/2025/2025-07-28-the-ultimate-guide-to-predictive-test-analytics.md) - Jul 28, 2025
 - [Mastering AI-Powered Test Generation: Expert Tips and Strategies](posts/2025/2025-07-28-mastering-ai-powered-test-generation-expert-tips-and-strategies.md) - Jul 28, 2025
-- [Mastering Test Data Generation with AI: Expert Tips and Strategies](posts/2025/2025-07-28-mastering-test-data-generation-with-ai-expert-tips-and-strategies.md) - Jul 28, 2025
-- ...and 76 more
+- ...and 77 more
 
 ### Security (11 posts)
 
-- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
+- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
 - [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
-- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
-- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
+- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
+- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
 - ...and 6 more
 
 ### Community (3 posts)
 
-- [Mastering Keyboard Navigation Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-keyboard-navigation-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - [WCAG 2.1 Compliance Testing Explained: Everything You Need to Know](posts/2025/2025-07-22-wcag-21-compliance-testing-explained-everything-you-need-to-know.md) - Jul 22, 2025
+- [Mastering Keyboard Navigation Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-keyboard-navigation-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - [Screen Reader Testing Guide: Best Practices and Real-World Examples](posts/2025/2025-07-18-screen-reader-testing-guide-best-practices-and-real-world-examples.md) - Jul 18, 2025
 
 ## ⭐ Featured Posts
