@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (91 posts)
+### Engineering (92 posts)
 
+- [Advanced Anomaly Detection in Test Results Techniques for Modern Development](posts/2025/2025-08-01-advanced-anomaly-detection-in-test-results-techniques-for-modern-development.md) - Aug 1, 2025
 - [How to Implement Predictive Test Analytics Successfully](posts/2025/2025-08-01-how-to-implement-predictive-test-analytics-successfully.md) - Aug 1, 2025
 - [Natural Language Processing in Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-08-01-natural-language-processing-in-testing-common-pitfalls-and-how-to-avoid-them.md) - Aug 1, 2025
 - [AI-Powered Test Generation: A Comprehensive Guide for 2025](posts/2025/2025-08-01-ai-powered-test-generation-a-comprehensive-guide-for-2025.md) - Aug 1, 2025
 - [ML Model Testing Strategies: A Comprehensive Guide for 2025](posts/2025/2025-07-31-ml-model-testing-strategies-a-comprehensive-guide-for-2025.md) - Jul 31, 2025
-- [Self-Healing Test Automation: Best Practices and Real-World Examples](posts/2025/2025-07-31-self-healing-test-automation-best-practices-and-real-world-examples.md) - Jul 31, 2025
-- ...and 86 more
+- ...and 87 more
 
 ### Security (11 posts)
 
