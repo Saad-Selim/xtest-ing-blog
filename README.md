@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (96 posts)
+### Engineering (97 posts)
 
+- [Advanced Machine Learning for Test Prioritization Techniques for Modern Development](posts/2025/2025-08-03-advanced-machine-learning-for-test-prioritization-techniques-for-modern-development.md) - Aug 3, 2025
 - [How to Implement AI-Powered Test Generation Successfully](posts/2025/2025-08-03-how-to-implement-ai-powered-test-generation-successfully.md) - Aug 3, 2025
 - [Test Data Generation with AI Explained: Everything You Need to Know](posts/2025/2025-08-02-test-data-generation-with-ai-explained-everything-you-need-to-know.md) - Aug 2, 2025
 - [Computer Vision for Visual Testing: Tools, Tips, and Industry Insights](posts/2025/2025-08-02-computer-vision-for-visual-testing-tools-tips-and-industry-insights.md) - Aug 2, 2025
 - [Test Data Generation with AI: Common Pitfalls and How to Avoid Them](posts/2025/2025-08-01-test-data-generation-with-ai-common-pitfalls-and-how-to-avoid-them.md) - Aug 1, 2025
-- [Advanced Anomaly Detection in Test Results Techniques for Modern Development](posts/2025/2025-08-01-advanced-anomaly-detection-in-test-results-techniques-for-modern-development.md) - Aug 1, 2025
-- ...and 91 more
+- ...and 92 more
 
 ### Security (11 posts)
 
