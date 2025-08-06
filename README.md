@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (102 posts)
+### Engineering (103 posts)
 
+- [Mastering Predictive Test Analytics: Expert Tips and Strategies](posts/2025/2025-08-06-mastering-predictive-test-analytics-expert-tips-and-strategies.md) - Aug 6, 2025
 - [Anomaly Detection in Test Results: Common Pitfalls and How to Avoid Them](posts/2025/2025-08-06-anomaly-detection-in-test-results-common-pitfalls-and-how-to-avoid-them.md) - Aug 6, 2025
 - [ML Model Testing Strategies: Common Pitfalls and How to Avoid Them](posts/2025/2025-08-05-ml-model-testing-strategies-common-pitfalls-and-how-to-avoid-them.md) - Aug 5, 2025
 - [Intelligent Test Case Selection: Tools, Tips, and Industry Insights](posts/2025/2025-08-05-intelligent-test-case-selection-tools-tips-and-industry-insights.md) - Aug 5, 2025
 - [Why Machine Learning for Test Prioritization Matters More Than Ever in 2025](posts/2025/2025-08-04-why-machine-learning-for-test-prioritization-matters-more-than-ever-in-2025.md) - Aug 4, 2025
-- [Why Intelligent Test Case Selection Matters More Than Ever in 2025](posts/2025/2025-08-03-why-intelligent-test-case-selection-matters-more-than-ever-in-2025.md) - Aug 3, 2025
-- ...and 97 more
+- ...and 98 more
 
 ### Security (11 posts)
 
