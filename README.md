@@ -4,22 +4,22 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (103 posts)
+### Engineering (104 posts)
 
+- [Computer Vision for Visual Testing Explained: Everything You Need to Know](posts/2025/2025-08-07-computer-vision-for-visual-testing-explained-everything-you-need-to-know.md) - Aug 7, 2025
 - [Mastering Predictive Test Analytics: Expert Tips and Strategies](posts/2025/2025-08-06-mastering-predictive-test-analytics-expert-tips-and-strategies.md) - Aug 6, 2025
 - [Anomaly Detection in Test Results: Common Pitfalls and How to Avoid Them](posts/2025/2025-08-06-anomaly-detection-in-test-results-common-pitfalls-and-how-to-avoid-them.md) - Aug 6, 2025
 - [ML Model Testing Strategies: Common Pitfalls and How to Avoid Them](posts/2025/2025-08-05-ml-model-testing-strategies-common-pitfalls-and-how-to-avoid-them.md) - Aug 5, 2025
 - [Intelligent Test Case Selection: Tools, Tips, and Industry Insights](posts/2025/2025-08-05-intelligent-test-case-selection-tools-tips-and-industry-insights.md) - Aug 5, 2025
-- [Why Machine Learning for Test Prioritization Matters More Than Ever in 2025](posts/2025/2025-08-04-why-machine-learning-for-test-prioritization-matters-more-than-ever-in-2025.md) - Aug 4, 2025
-- ...and 98 more
+- ...and 99 more
 
 ### Security (11 posts)
 
-- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
 - [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
 - [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - ...and 6 more
 
 ### Community (3 posts)
