@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (114 posts)
+### Engineering (115 posts)
 
+- [Machine Learning for Test Prioritization: Common Pitfalls and How to Avoid Them](posts/2025/2025-08-16-machine-learning-for-test-prioritization-common-pitfalls-and-how-to-avoid-them.md) - Aug 16, 2025
 - [How to Implement Machine Learning for Test Prioritization Successfully](posts/2025/2025-08-15-how-to-implement-machine-learning-for-test-prioritization-successfully.md) - Aug 15, 2025
 - [Natural Language Processing in Testing: Tools, Tips, and Industry Insights](posts/2025/2025-08-13-natural-language-processing-in-testing-tools-tips-and-industry-insights.md) - Aug 13, 2025
 - [Why Natural Language Processing in Testing Matters More Than Ever in 2025](posts/2025/2025-08-13-why-natural-language-processing-in-testing-matters-more-than-ever-in-2025.md) - Aug 13, 2025
 - [How to Implement Intelligent Test Case Selection Successfully](posts/2025/2025-08-12-how-to-implement-intelligent-test-case-selection-successfully.md) - Aug 12, 2025
-- [Anomaly Detection in Test Results: Best Practices and Real-World Examples](posts/2025/2025-08-12-anomaly-detection-in-test-results-best-practices-and-real-world-examples.md) - Aug 12, 2025
-- ...and 109 more
+- ...and 110 more
 
 ### Security (12 posts)
 
@@ -24,8 +24,8 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ### Community (3 posts)
 
-- [WCAG 2.1 Compliance Testing Explained: Everything You Need to Know](posts/2025/2025-07-22-wcag-21-compliance-testing-explained-everything-you-need-to-know.md) - Jul 22, 2025
 - [Mastering Keyboard Navigation Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-keyboard-navigation-testing-expert-tips-and-strategies.md) - Jul 22, 2025
+- [WCAG 2.1 Compliance Testing Explained: Everything You Need to Know](posts/2025/2025-07-22-wcag-21-compliance-testing-explained-everything-you-need-to-know.md) - Jul 22, 2025
 - [Screen Reader Testing Guide: Best Practices and Real-World Examples](posts/2025/2025-07-18-screen-reader-testing-guide-best-practices-and-real-world-examples.md) - Jul 18, 2025
 
 ## ⭐ Featured Posts
