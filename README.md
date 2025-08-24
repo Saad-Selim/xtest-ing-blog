@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (121 posts)
+### Engineering (122 posts)
 
+- [Intelligent Test Case Selection Explained: Everything You Need to Know](posts/2025/2025-08-24-intelligent-test-case-selection-explained-everything-you-need-to-know.md) - Aug 24, 2025
 - [Intelligent Test Case Selection: A Comprehensive Guide for 2025](posts/2025/2025-08-22-intelligent-test-case-selection-a-comprehensive-guide-for-2025.md) - Aug 22, 2025
 - [Why AI-Powered Test Generation Matters More Than Ever in 2025](posts/2025/2025-08-22-why-ai-powered-test-generation-matters-more-than-ever-in-2025.md) - Aug 22, 2025
 - [Computer Vision for Visual Testing: Best Practices and Real-World Examples](posts/2025/2025-08-22-computer-vision-for-visual-testing-best-practices-and-real-world-examples.md) - Aug 22, 2025
 - [Mastering Anomaly Detection in Test Results: Expert Tips and Strategies](posts/2025/2025-08-20-mastering-anomaly-detection-in-test-results-expert-tips-and-strategies.md) - Aug 20, 2025
-- [Natural Language Processing in Testing: A Comprehensive Guide for 2025](posts/2025/2025-08-19-natural-language-processing-in-testing-a-comprehensive-guide-for-2025.md) - Aug 19, 2025
-- ...and 116 more
+- ...and 117 more
 
 ### Security (12 posts)
 
