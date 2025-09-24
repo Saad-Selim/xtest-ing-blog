@@ -4,22 +4,22 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (129 posts)
+### Engineering (130 posts)
 
+- [Machine Learning for Test Prioritization: Best Practices and Real-World Examples](posts/2025/2025-09-24-machine-learning-for-test-prioritization-best-practices-and-real-world-examples.md) - Sep 24, 2025
 - [The Ultimate Guide to Computer Vision for Visual Testing](posts/2025/2025-09-17-the-ultimate-guide-to-computer-vision-for-visual-testing.md) - Sep 17, 2025
 - [Predictive Test Analytics: Best Practices and Real-World Examples](posts/2025/2025-09-14-predictive-test-analytics-best-practices-and-real-world-examples.md) - Sep 14, 2025
 - [The Ultimate Guide to ML Model Testing Strategies](posts/2025/2025-09-12-the-ultimate-guide-to-ml-model-testing-strategies.md) - Sep 12, 2025
 - [Self-Healing Test Automation: Common Pitfalls and How to Avoid Them](posts/2025/2025-09-01-self-healing-test-automation-common-pitfalls-and-how-to-avoid-them.md) - Sep 1, 2025
-- [Mastering Machine Learning for Test Prioritization: Expert Tips and Strategies](posts/2025/2025-08-31-mastering-machine-learning-for-test-prioritization-expert-tips-and-strategies.md) - Aug 31, 2025
-- ...and 124 more
+- ...and 125 more
 
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
-- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
+- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - ...and 7 more
 
 ### Community (3 posts)
