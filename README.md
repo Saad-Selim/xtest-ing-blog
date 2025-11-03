@@ -4,6 +4,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (4 posts)
+
+- [Why Manual vs Automated Testing Balance Matters More Than Ever in 2025](posts/2025/2025-11-03-why-manual-vs-automated-testing-balance-matters-more-than-ever-in-2025.md) - Nov 3, 2025
+- [Mastering Keyboard Navigation Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-keyboard-navigation-testing-expert-tips-and-strategies.md) - Jul 22, 2025
+- [WCAG 2.1 Compliance Testing Explained: Everything You Need to Know](posts/2025/2025-07-22-wcag-21-compliance-testing-explained-everything-you-need-to-know.md) - Jul 22, 2025
+- [Screen Reader Testing Guide: Best Practices and Real-World Examples](posts/2025/2025-07-18-screen-reader-testing-guide-best-practices-and-real-world-examples.md) - Jul 18, 2025
+
 ### Engineering (132 posts)
 
 - [Performance Testing in CI/CD Explained: Everything You Need to Know](posts/2025/2025-11-03-performance-testing-in-cicd-explained-everything-you-need-to-know.md) - Nov 3, 2025
@@ -21,12 +28,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
 - [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
 - ...and 7 more
-
-### Community (3 posts)
-
-- [Mastering Keyboard Navigation Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-keyboard-navigation-testing-expert-tips-and-strategies.md) - Jul 22, 2025
-- [WCAG 2.1 Compliance Testing Explained: Everything You Need to Know](posts/2025/2025-07-22-wcag-21-compliance-testing-explained-everything-you-need-to-know.md) - Jul 22, 2025
-- [Screen Reader Testing Guide: Best Practices and Real-World Examples](posts/2025/2025-07-18-screen-reader-testing-guide-best-practices-and-real-world-examples.md) - Jul 18, 2025
 
 ## ⭐ Featured Posts
 
