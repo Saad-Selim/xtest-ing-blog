@@ -4,21 +4,21 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (133 posts)
+
+- [Advanced Automated Smoke Test Suites Techniques for Modern Development](posts/2025/2025-11-03-advanced-automated-smoke-test-suites-techniques-for-modern-development.md) - Nov 3, 2025
+- [Performance Testing in CI/CD Explained: Everything You Need to Know](posts/2025/2025-11-03-performance-testing-in-cicd-explained-everything-you-need-to-know.md) - Nov 3, 2025
+- [The Ultimate Guide to Intelligent Test Case Selection](posts/2025/2025-10-19-the-ultimate-guide-to-intelligent-test-case-selection.md) - Oct 19, 2025
+- [Machine Learning for Test Prioritization: Best Practices and Real-World Examples](posts/2025/2025-09-24-machine-learning-for-test-prioritization-best-practices-and-real-world-examples.md) - Sep 24, 2025
+- [The Ultimate Guide to Computer Vision for Visual Testing](posts/2025/2025-09-17-the-ultimate-guide-to-computer-vision-for-visual-testing.md) - Sep 17, 2025
+- ...and 128 more
+
 ### Community (4 posts)
 
 - [Why Manual vs Automated Testing Balance Matters More Than Ever in 2025](posts/2025/2025-11-03-why-manual-vs-automated-testing-balance-matters-more-than-ever-in-2025.md) - Nov 3, 2025
 - [Mastering Keyboard Navigation Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-keyboard-navigation-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - [WCAG 2.1 Compliance Testing Explained: Everything You Need to Know](posts/2025/2025-07-22-wcag-21-compliance-testing-explained-everything-you-need-to-know.md) - Jul 22, 2025
 - [Screen Reader Testing Guide: Best Practices and Real-World Examples](posts/2025/2025-07-18-screen-reader-testing-guide-best-practices-and-real-world-examples.md) - Jul 18, 2025
-
-### Engineering (132 posts)
-
-- [Performance Testing in CI/CD Explained: Everything You Need to Know](posts/2025/2025-11-03-performance-testing-in-cicd-explained-everything-you-need-to-know.md) - Nov 3, 2025
-- [The Ultimate Guide to Intelligent Test Case Selection](posts/2025/2025-10-19-the-ultimate-guide-to-intelligent-test-case-selection.md) - Oct 19, 2025
-- [Machine Learning for Test Prioritization: Best Practices and Real-World Examples](posts/2025/2025-09-24-machine-learning-for-test-prioritization-best-practices-and-real-world-examples.md) - Sep 24, 2025
-- [The Ultimate Guide to Computer Vision for Visual Testing](posts/2025/2025-09-17-the-ultimate-guide-to-computer-vision-for-visual-testing.md) - Sep 17, 2025
-- [Predictive Test Analytics: Best Practices and Real-World Examples](posts/2025/2025-09-14-predictive-test-analytics-best-practices-and-real-world-examples.md) - Sep 14, 2025
-- ...and 127 more
 
 ### Security (12 posts)
 
