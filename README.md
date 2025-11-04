@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (139 posts)
+### Engineering (140 posts)
 
+- [Test-Driven Development (TDD) Guide Explained: Everything You Need to Know](posts/2025/2025-11-04-test-driven-development-tdd-guide-explained-everything-you-need-to-know.md) - Nov 4, 2025
 - [Release Sanity Testing: Tools, Tips, and Industry Insights](posts/2025/2025-11-04-release-sanity-testing-tools-tips-and-industry-insights.md) - Nov 4, 2025
 - [Test Automation ROI Calculation: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-04-test-automation-roi-calculation-common-pitfalls-and-how-to-avoid-them.md) - Nov 4, 2025
 - [Mastering Sanity Test Checklist: Expert Tips and Strategies](posts/2025/2025-11-04-mastering-sanity-test-checklist-expert-tips-and-strategies.md) - Nov 4, 2025
 - [Smoke Test Case Selection: Tools, Tips, and Industry Insights](posts/2025/2025-11-04-smoke-test-case-selection-tools-tips-and-industry-insights.md) - Nov 4, 2025
-- [Mastering Automated Smoke Test Suites: Expert Tips and Strategies](posts/2025/2025-11-04-mastering-automated-smoke-test-suites-expert-tips-and-strategies.md) - Nov 4, 2025
-- ...and 134 more
+- ...and 135 more
 
 ### Community (4 posts)
 
