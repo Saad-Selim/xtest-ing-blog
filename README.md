@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (146 posts)
+### Engineering (147 posts)
 
+- [Release Sanity Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-05-release-sanity-testing-common-pitfalls-and-how-to-avoid-them.md) - Nov 5, 2025
 - [Performance Testing Metrics: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-05-performance-testing-metrics-common-pitfalls-and-how-to-avoid-them.md) - Nov 5, 2025
 - [Advanced Cross-Browser Compatibility Testing Techniques for Modern Development](posts/2025/2025-11-05-advanced-cross-browser-compatibility-testing-techniques-for-modern-development.md) - Nov 5, 2025
 - [How to Implement Risk-Based Regression Testing Successfully](posts/2025/2025-11-05-how-to-implement-risk-based-regression-testing-successfully.md) - Nov 5, 2025
 - [Mastering API Version Compatibility: Expert Tips and Strategies](posts/2025/2025-11-05-mastering-api-version-compatibility-expert-tips-and-strategies.md) - Nov 5, 2025
-- [Advanced API Test Automation Strategies Techniques for Modern Development](posts/2025/2025-11-05-advanced-api-test-automation-strategies-techniques-for-modern-development.md) - Nov 5, 2025
-- ...and 141 more
+- ...and 142 more
 
 ### Community (7 posts)
 
@@ -28,7 +28,7 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
-- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
