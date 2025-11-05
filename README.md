@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (142 posts)
+
+- [Advanced API Test Automation Strategies Techniques for Modern Development](posts/2025/2025-11-05-advanced-api-test-automation-strategies-techniques-for-modern-development.md) - Nov 5, 2025
+- [Unit Testing Best Practices in 2025: A Comprehensive Guide for 2025](posts/2025/2025-11-04-unit-testing-best-practices-in-2025-a-comprehensive-guide-for-2025.md) - Nov 4, 2025
+- [Test-Driven Development (TDD) Guide Explained: Everything You Need to Know](posts/2025/2025-11-04-test-driven-development-tdd-guide-explained-everything-you-need-to-know.md) - Nov 4, 2025
+- [Release Sanity Testing: Tools, Tips, and Industry Insights](posts/2025/2025-11-04-release-sanity-testing-tools-tips-and-industry-insights.md) - Nov 4, 2025
+- [Test Automation ROI Calculation: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-04-test-automation-roi-calculation-common-pitfalls-and-how-to-avoid-them.md) - Nov 4, 2025
+- ...and 137 more
+
 ### Community (5 posts)
 
 - [Bug Reporting Best Practices: A Comprehensive Guide for 2025](posts/2025/2025-11-04-bug-reporting-best-practices-a-comprehensive-guide-for-2025.md) - Nov 4, 2025
@@ -11,15 +20,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [WCAG 2.1 Compliance Testing Explained: Everything You Need to Know](posts/2025/2025-07-22-wcag-21-compliance-testing-explained-everything-you-need-to-know.md) - Jul 22, 2025
 - [Mastering Keyboard Navigation Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-keyboard-navigation-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - [Screen Reader Testing Guide: Best Practices and Real-World Examples](posts/2025/2025-07-18-screen-reader-testing-guide-best-practices-and-real-world-examples.md) - Jul 18, 2025
-
-### Engineering (141 posts)
-
-- [Unit Testing Best Practices in 2025: A Comprehensive Guide for 2025](posts/2025/2025-11-04-unit-testing-best-practices-in-2025-a-comprehensive-guide-for-2025.md) - Nov 4, 2025
-- [Test-Driven Development (TDD) Guide Explained: Everything You Need to Know](posts/2025/2025-11-04-test-driven-development-tdd-guide-explained-everything-you-need-to-know.md) - Nov 4, 2025
-- [Release Sanity Testing: Tools, Tips, and Industry Insights](posts/2025/2025-11-04-release-sanity-testing-tools-tips-and-industry-insights.md) - Nov 4, 2025
-- [Test Automation ROI Calculation: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-04-test-automation-roi-calculation-common-pitfalls-and-how-to-avoid-them.md) - Nov 4, 2025
-- [Mastering Sanity Test Checklist: Expert Tips and Strategies](posts/2025/2025-11-04-mastering-sanity-test-checklist-expert-tips-and-strategies.md) - Nov 4, 2025
-- ...and 136 more
 
 ### Security (12 posts)
 
