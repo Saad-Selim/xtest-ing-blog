@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (6 posts)
+
+- [Why User Acceptance Testing Guide Matters More Than Ever in 2025](posts/2025/2025-11-05-why-user-acceptance-testing-guide-matters-more-than-ever-in-2025.md) - Nov 5, 2025
+- [Bug Reporting Best Practices: A Comprehensive Guide for 2025](posts/2025/2025-11-04-bug-reporting-best-practices-a-comprehensive-guide-for-2025.md) - Nov 4, 2025
+- [Why Manual vs Automated Testing Balance Matters More Than Ever in 2025](posts/2025/2025-11-03-why-manual-vs-automated-testing-balance-matters-more-than-ever-in-2025.md) - Nov 3, 2025
+- [WCAG 2.1 Compliance Testing Explained: Everything You Need to Know](posts/2025/2025-07-22-wcag-21-compliance-testing-explained-everything-you-need-to-know.md) - Jul 22, 2025
+- [Mastering Keyboard Navigation Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-keyboard-navigation-testing-expert-tips-and-strategies.md) - Jul 22, 2025
+- ...and 1 more
+
 ### Engineering (144 posts)
 
 - [How to Implement Risk-Based Regression Testing Successfully](posts/2025/2025-11-05-how-to-implement-risk-based-regression-testing-successfully.md) - Nov 5, 2025
@@ -13,21 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Test-Driven Development (TDD) Guide Explained: Everything You Need to Know](posts/2025/2025-11-04-test-driven-development-tdd-guide-explained-everything-you-need-to-know.md) - Nov 4, 2025
 - ...and 139 more
 
-### Community (5 posts)
-
-- [Bug Reporting Best Practices: A Comprehensive Guide for 2025](posts/2025/2025-11-04-bug-reporting-best-practices-a-comprehensive-guide-for-2025.md) - Nov 4, 2025
-- [Why Manual vs Automated Testing Balance Matters More Than Ever in 2025](posts/2025/2025-11-03-why-manual-vs-automated-testing-balance-matters-more-than-ever-in-2025.md) - Nov 3, 2025
-- [WCAG 2.1 Compliance Testing Explained: Everything You Need to Know](posts/2025/2025-07-22-wcag-21-compliance-testing-explained-everything-you-need-to-know.md) - Jul 22, 2025
-- [Mastering Keyboard Navigation Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-keyboard-navigation-testing-expert-tips-and-strategies.md) - Jul 22, 2025
-- [Screen Reader Testing Guide: Best Practices and Real-World Examples](posts/2025/2025-07-18-screen-reader-testing-guide-best-practices-and-real-world-examples.md) - Jul 18, 2025
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
+- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
 - [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
 - [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
-- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
