@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (145 posts)
+
+- [Advanced Cross-Browser Compatibility Testing Techniques for Modern Development](posts/2025/2025-11-05-advanced-cross-browser-compatibility-testing-techniques-for-modern-development.md) - Nov 5, 2025
+- [How to Implement Risk-Based Regression Testing Successfully](posts/2025/2025-11-05-how-to-implement-risk-based-regression-testing-successfully.md) - Nov 5, 2025
+- [Mastering API Version Compatibility: Expert Tips and Strategies](posts/2025/2025-11-05-mastering-api-version-compatibility-expert-tips-and-strategies.md) - Nov 5, 2025
+- [Advanced API Test Automation Strategies Techniques for Modern Development](posts/2025/2025-11-05-advanced-api-test-automation-strategies-techniques-for-modern-development.md) - Nov 5, 2025
+- [Unit Testing Best Practices in 2025: A Comprehensive Guide for 2025](posts/2025/2025-11-04-unit-testing-best-practices-in-2025-a-comprehensive-guide-for-2025.md) - Nov 4, 2025
+- ...and 140 more
+
 ### Community (7 posts)
 
 - [How to Implement Accessibility Testing Tools Successfully](posts/2025/2025-11-05-how-to-implement-accessibility-testing-tools-successfully.md) - Nov 5, 2025
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [WCAG 2.1 Compliance Testing Explained: Everything You Need to Know](posts/2025/2025-07-22-wcag-21-compliance-testing-explained-everything-you-need-to-know.md) - Jul 22, 2025
 - ...and 2 more
 
-### Engineering (144 posts)
-
-- [How to Implement Risk-Based Regression Testing Successfully](posts/2025/2025-11-05-how-to-implement-risk-based-regression-testing-successfully.md) - Nov 5, 2025
-- [Mastering API Version Compatibility: Expert Tips and Strategies](posts/2025/2025-11-05-mastering-api-version-compatibility-expert-tips-and-strategies.md) - Nov 5, 2025
-- [Advanced API Test Automation Strategies Techniques for Modern Development](posts/2025/2025-11-05-advanced-api-test-automation-strategies-techniques-for-modern-development.md) - Nov 5, 2025
-- [Unit Testing Best Practices in 2025: A Comprehensive Guide for 2025](posts/2025/2025-11-04-unit-testing-best-practices-in-2025-a-comprehensive-guide-for-2025.md) - Nov 4, 2025
-- [Test-Driven Development (TDD) Guide Explained: Everything You Need to Know](posts/2025/2025-11-04-test-driven-development-tdd-guide-explained-everything-you-need-to-know.md) - Nov 4, 2025
-- ...and 139 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
-- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
-- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
+- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
