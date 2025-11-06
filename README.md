@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (147 posts)
+### Engineering (148 posts)
 
+- [Advanced Risk-Based Regression Testing Techniques for Modern Development](posts/2025/2025-11-06-advanced-risk-based-regression-testing-techniques-for-modern-development.md) - Nov 6, 2025
 - [Release Sanity Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-05-release-sanity-testing-common-pitfalls-and-how-to-avoid-them.md) - Nov 5, 2025
 - [Performance Testing Metrics: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-05-performance-testing-metrics-common-pitfalls-and-how-to-avoid-them.md) - Nov 5, 2025
 - [Advanced Cross-Browser Compatibility Testing Techniques for Modern Development](posts/2025/2025-11-05-advanced-cross-browser-compatibility-testing-techniques-for-modern-development.md) - Nov 5, 2025
 - [How to Implement Risk-Based Regression Testing Successfully](posts/2025/2025-11-05-how-to-implement-risk-based-regression-testing-successfully.md) - Nov 5, 2025
-- [Mastering API Version Compatibility: Expert Tips and Strategies](posts/2025/2025-11-05-mastering-api-version-compatibility-expert-tips-and-strategies.md) - Nov 5, 2025
-- ...and 142 more
+- ...and 143 more
 
 ### Community (7 posts)
 
