@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (154 posts)
+### Engineering (155 posts)
 
+- [How to Implement Sanity Test Checklist Successfully](posts/2025/2025-11-07-how-to-implement-sanity-test-checklist-successfully.md) - Nov 7, 2025
 - [How to Implement Automated Smoke Test Suites Successfully](posts/2025/2025-11-07-how-to-implement-automated-smoke-test-suites-successfully.md) - Nov 7, 2025
 - [Optimizing E2E Test Suites: A Comprehensive Guide for 2025](posts/2025/2025-11-07-optimizing-e2e-test-suites-a-comprehensive-guide-for-2025.md) - Nov 7, 2025
 - [Optimizing E2E Test Suites: Tools, Tips, and Industry Insights](posts/2025/2025-11-06-optimizing-e2e-test-suites-tools-tips-and-industry-insights.md) - Nov 6, 2025
 - [Contract Testing with Pact: A Comprehensive Guide for 2025](posts/2025/2025-11-06-contract-testing-with-pact-a-comprehensive-guide-for-2025.md) - Nov 6, 2025
-- [E2E Testing Frameworks Comparison: Tools, Tips, and Industry Insights](posts/2025/2025-11-06-e2e-testing-frameworks-comparison-tools-tips-and-industry-insights.md) - Nov 6, 2025
-- ...and 149 more
+- ...and 150 more
 
 ### Community (9 posts)
 
