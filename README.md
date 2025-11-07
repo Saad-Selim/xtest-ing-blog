@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (155 posts)
+### Engineering (156 posts)
 
+- [Advanced Visual Regression Testing Tools Techniques for Modern Development](posts/2025/2025-11-07-advanced-visual-regression-testing-tools-techniques-for-modern-development.md) - Nov 7, 2025
 - [How to Implement Sanity Test Checklist Successfully](posts/2025/2025-11-07-how-to-implement-sanity-test-checklist-successfully.md) - Nov 7, 2025
 - [How to Implement Automated Smoke Test Suites Successfully](posts/2025/2025-11-07-how-to-implement-automated-smoke-test-suites-successfully.md) - Nov 7, 2025
 - [Optimizing E2E Test Suites: A Comprehensive Guide for 2025](posts/2025/2025-11-07-optimizing-e2e-test-suites-a-comprehensive-guide-for-2025.md) - Nov 7, 2025
 - [Optimizing E2E Test Suites: Tools, Tips, and Industry Insights](posts/2025/2025-11-06-optimizing-e2e-test-suites-tools-tips-and-industry-insights.md) - Nov 6, 2025
-- [Contract Testing with Pact: A Comprehensive Guide for 2025](posts/2025/2025-11-06-contract-testing-with-pact-a-comprehensive-guide-for-2025.md) - Nov 6, 2025
-- ...and 150 more
+- ...and 151 more
 
 ### Community (9 posts)
 
@@ -25,10 +25,10 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
-- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
+- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
 - [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
-- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
+- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
