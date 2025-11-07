@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (9 posts)
+
+- [Accessibility Testing Tools: A Comprehensive Guide for 2025](posts/2025/2025-11-07-accessibility-testing-tools-a-comprehensive-guide-for-2025.md) - Nov 7, 2025
+- [Automated Accessibility Testing Explained: Everything You Need to Know](posts/2025/2025-11-06-automated-accessibility-testing-explained-everything-you-need-to-know.md) - Nov 6, 2025
+- [How to Implement Accessibility Testing Tools Successfully](posts/2025/2025-11-05-how-to-implement-accessibility-testing-tools-successfully.md) - Nov 5, 2025
+- [Why User Acceptance Testing Guide Matters More Than Ever in 2025](posts/2025/2025-11-05-why-user-acceptance-testing-guide-matters-more-than-ever-in-2025.md) - Nov 5, 2025
+- [Bug Reporting Best Practices: A Comprehensive Guide for 2025](posts/2025/2025-11-04-bug-reporting-best-practices-a-comprehensive-guide-for-2025.md) - Nov 4, 2025
+- ...and 4 more
+
 ### Engineering (152 posts)
 
 - [Optimizing E2E Test Suites: Tools, Tips, and Industry Insights](posts/2025/2025-11-06-optimizing-e2e-test-suites-tools-tips-and-industry-insights.md) - Nov 6, 2025
@@ -12,15 +21,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Database Compatibility Testing: A Comprehensive Guide for 2025](posts/2025/2025-11-06-database-compatibility-testing-a-comprehensive-guide-for-2025.md) - Nov 6, 2025
 - [Advanced Risk-Based Regression Testing Techniques for Modern Development](posts/2025/2025-11-06-advanced-risk-based-regression-testing-techniques-for-modern-development.md) - Nov 6, 2025
 - ...and 147 more
-
-### Community (8 posts)
-
-- [Automated Accessibility Testing Explained: Everything You Need to Know](posts/2025/2025-11-06-automated-accessibility-testing-explained-everything-you-need-to-know.md) - Nov 6, 2025
-- [How to Implement Accessibility Testing Tools Successfully](posts/2025/2025-11-05-how-to-implement-accessibility-testing-tools-successfully.md) - Nov 5, 2025
-- [Why User Acceptance Testing Guide Matters More Than Ever in 2025](posts/2025/2025-11-05-why-user-acceptance-testing-guide-matters-more-than-ever-in-2025.md) - Nov 5, 2025
-- [Bug Reporting Best Practices: A Comprehensive Guide for 2025](posts/2025/2025-11-04-bug-reporting-best-practices-a-comprehensive-guide-for-2025.md) - Nov 4, 2025
-- [Why Manual vs Automated Testing Balance Matters More Than Ever in 2025](posts/2025/2025-11-03-why-manual-vs-automated-testing-balance-matters-more-than-ever-in-2025.md) - Nov 3, 2025
-- ...and 3 more
 
 ### Security (12 posts)
 
