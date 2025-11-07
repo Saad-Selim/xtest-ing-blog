@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (157 posts)
+### Engineering (158 posts)
 
+- [The Ultimate Guide to Smoke Testing Best Practices](posts/2025/2025-11-07-the-ultimate-guide-to-smoke-testing-best-practices.md) - Nov 7, 2025
 - [Mastering Release Sanity Testing: Expert Tips and Strategies](posts/2025/2025-11-07-mastering-release-sanity-testing-expert-tips-and-strategies.md) - Nov 7, 2025
 - [Advanced Visual Regression Testing Tools Techniques for Modern Development](posts/2025/2025-11-07-advanced-visual-regression-testing-tools-techniques-for-modern-development.md) - Nov 7, 2025
 - [How to Implement Sanity Test Checklist Successfully](posts/2025/2025-11-07-how-to-implement-sanity-test-checklist-successfully.md) - Nov 7, 2025
 - [How to Implement Automated Smoke Test Suites Successfully](posts/2025/2025-11-07-how-to-implement-automated-smoke-test-suites-successfully.md) - Nov 7, 2025
-- [Optimizing E2E Test Suites: A Comprehensive Guide for 2025](posts/2025/2025-11-07-optimizing-e2e-test-suites-a-comprehensive-guide-for-2025.md) - Nov 7, 2025
-- ...and 152 more
+- ...and 153 more
 
 ### Community (9 posts)
 
@@ -27,8 +27,8 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
 - [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
 - [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
+- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
 - [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
-- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
