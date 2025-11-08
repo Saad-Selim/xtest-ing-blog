@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (162 posts)
+### Engineering (163 posts)
 
+- [Mobile Device Compatibility Testing: A Comprehensive Guide for 2025](posts/2025/2025-11-08-mobile-device-compatibility-testing-a-comprehensive-guide-for-2025.md) - Nov 8, 2025
 - [How to Implement E2E Testing in Production Successfully](posts/2025/2025-11-08-how-to-implement-e2e-testing-in-production-successfully.md) - Nov 8, 2025
 - [Backward Compatibility Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-08-backward-compatibility-testing-common-pitfalls-and-how-to-avoid-them.md) - Nov 8, 2025
 - [Unit Testing Best Practices in 2025: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-08-unit-testing-best-practices-in-2025-common-pitfalls-and-how-to-avoid-them.md) - Nov 8, 2025
 - [Quick Sanity Checks Explained: Everything You Need to Know](posts/2025/2025-11-08-quick-sanity-checks-explained-everything-you-need-to-know.md) - Nov 8, 2025
-- [The Ultimate Guide to Smoke Testing Best Practices](posts/2025/2025-11-07-the-ultimate-guide-to-smoke-testing-best-practices.md) - Nov 7, 2025
-- ...and 157 more
+- ...and 158 more
 
 ### Community (10 posts)
 
@@ -27,8 +27,8 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
 - [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
-- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
 - [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
