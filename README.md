@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (165 posts)
+### Engineering (166 posts)
 
+- [How to Implement API Version Compatibility Successfully](posts/2025/2025-11-09-how-to-implement-api-version-compatibility-successfully.md) - Nov 9, 2025
 - [Why Smoke Test Case Selection Matters More Than Ever in 2025](posts/2025/2025-11-09-why-smoke-test-case-selection-matters-more-than-ever-in-2025.md) - Nov 9, 2025
 - [Unit Testing Anti-Patterns to Avoid: A Comprehensive Guide for 2025](posts/2025/2025-11-08-unit-testing-anti-patterns-to-avoid-a-comprehensive-guide-for-2025.md) - Nov 8, 2025
 - [Mobile Device Compatibility Testing: A Comprehensive Guide for 2025](posts/2025/2025-11-08-mobile-device-compatibility-testing-a-comprehensive-guide-for-2025.md) - Nov 8, 2025
 - [How to Implement E2E Testing in Production Successfully](posts/2025/2025-11-08-how-to-implement-e2e-testing-in-production-successfully.md) - Nov 8, 2025
-- [Backward Compatibility Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-08-backward-compatibility-testing-common-pitfalls-and-how-to-avoid-them.md) - Nov 8, 2025
-- ...and 160 more
+- ...and 161 more
 
 ### Community (10 posts)
 
