@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (173 posts)
+### Engineering (174 posts)
 
+- [Test Automation Framework Design: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-10-test-automation-framework-design-common-pitfalls-and-how-to-avoid-them.md) - Nov 10, 2025
 - [Mastering Test Automation Framework Design: Expert Tips and Strategies](posts/2025/2025-11-10-mastering-test-automation-framework-design-expert-tips-and-strategies.md) - Nov 10, 2025
 - [Why Smoke Testing in CI/CD Matters More Than Ever in 2025](posts/2025/2025-11-10-why-smoke-testing-in-cicd-matters-more-than-ever-in-2025.md) - Nov 10, 2025
 - [The Ultimate Guide to OS Compatibility Testing](posts/2025/2025-11-10-the-ultimate-guide-to-os-compatibility-testing.md) - Nov 10, 2025
 - [Regression Testing Metrics Explained: Everything You Need to Know](posts/2025/2025-11-09-regression-testing-metrics-explained-everything-you-need-to-know.md) - Nov 9, 2025
-- [Smoke Testing Best Practices: Tools, Tips, and Industry Insights](posts/2025/2025-11-09-smoke-testing-best-practices-tools-tips-and-industry-insights.md) - Nov 9, 2025
-- ...and 168 more
+- ...and 169 more
 
 ### Community (12 posts)
 
