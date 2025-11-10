@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (174 posts)
+### Engineering (175 posts)
 
+- [Mastering Stress Testing Strategies: Expert Tips and Strategies](posts/2025/2025-11-10-mastering-stress-testing-strategies-expert-tips-and-strategies.md) - Nov 10, 2025
 - [Test Automation Framework Design: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-10-test-automation-framework-design-common-pitfalls-and-how-to-avoid-them.md) - Nov 10, 2025
 - [Mastering Test Automation Framework Design: Expert Tips and Strategies](posts/2025/2025-11-10-mastering-test-automation-framework-design-expert-tips-and-strategies.md) - Nov 10, 2025
 - [Why Smoke Testing in CI/CD Matters More Than Ever in 2025](posts/2025/2025-11-10-why-smoke-testing-in-cicd-matters-more-than-ever-in-2025.md) - Nov 10, 2025
 - [The Ultimate Guide to OS Compatibility Testing](posts/2025/2025-11-10-the-ultimate-guide-to-os-compatibility-testing.md) - Nov 10, 2025
-- [Regression Testing Metrics Explained: Everything You Need to Know](posts/2025/2025-11-09-regression-testing-metrics-explained-everything-you-need-to-know.md) - Nov 9, 2025
-- ...and 169 more
+- ...and 170 more
 
 ### Community (12 posts)
 
@@ -25,10 +25,10 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
-- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
 - [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
+- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
+- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
