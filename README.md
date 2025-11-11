@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (179 posts)
+### Engineering (180 posts)
 
+- [Test Automation Framework Design: A Comprehensive Guide for 2025](posts/2025/2025-11-11-test-automation-framework-design-a-comprehensive-guide-for-2025.md) - Nov 11, 2025
 - [The Ultimate Guide to Smoke Testing vs Sanity Testing](posts/2025/2025-11-11-the-ultimate-guide-to-smoke-testing-vs-sanity-testing.md) - Nov 11, 2025
 - [Advanced Performance Testing in the Cloud Techniques for Modern Development](posts/2025/2025-11-11-advanced-performance-testing-in-the-cloud-techniques-for-modern-development.md) - Nov 11, 2025
 - [How to Implement Database Integration Testing Successfully](posts/2025/2025-11-11-how-to-implement-database-integration-testing-successfully.md) - Nov 11, 2025
 - [Advanced Smoke Test Case Selection Techniques for Modern Development](posts/2025/2025-11-11-advanced-smoke-test-case-selection-techniques-for-modern-development.md) - Nov 11, 2025
-- [Mastering Stress Testing Strategies: Expert Tips and Strategies](posts/2025/2025-11-10-mastering-stress-testing-strategies-expert-tips-and-strategies.md) - Nov 10, 2025
-- ...and 174 more
+- ...and 175 more
 
 ### Community (12 posts)
 
