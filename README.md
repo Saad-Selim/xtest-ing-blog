@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (183 posts)
+
+- [Smoke Testing in CI/CD: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-12-smoke-testing-in-cicd-common-pitfalls-and-how-to-avoid-them.md) - Nov 12, 2025
+- [Regression Testing Metrics: Tools, Tips, and Industry Insights](posts/2025/2025-11-12-regression-testing-metrics-tools-tips-and-industry-insights.md) - Nov 12, 2025
+- [Smoke Testing vs Sanity Testing: Tools, Tips, and Industry Insights](posts/2025/2025-11-11-smoke-testing-vs-sanity-testing-tools-tips-and-industry-insights.md) - Nov 11, 2025
+- [Test Automation Framework Design: A Comprehensive Guide for 2025](posts/2025/2025-11-11-test-automation-framework-design-a-comprehensive-guide-for-2025.md) - Nov 11, 2025
+- [The Ultimate Guide to Smoke Testing vs Sanity Testing](posts/2025/2025-11-11-the-ultimate-guide-to-smoke-testing-vs-sanity-testing.md) - Nov 11, 2025
+- ...and 178 more
+
 ### Community (13 posts)
 
 - [Color Contrast Testing: A Comprehensive Guide for 2025](posts/2025/2025-11-12-color-contrast-testing-a-comprehensive-guide-for-2025.md) - Nov 12, 2025
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Accessibility Testing Tools: A Comprehensive Guide for 2025](posts/2025/2025-11-07-accessibility-testing-tools-a-comprehensive-guide-for-2025.md) - Nov 7, 2025
 - ...and 8 more
 
-### Engineering (182 posts)
-
-- [Regression Testing Metrics: Tools, Tips, and Industry Insights](posts/2025/2025-11-12-regression-testing-metrics-tools-tips-and-industry-insights.md) - Nov 12, 2025
-- [Smoke Testing vs Sanity Testing: Tools, Tips, and Industry Insights](posts/2025/2025-11-11-smoke-testing-vs-sanity-testing-tools-tips-and-industry-insights.md) - Nov 11, 2025
-- [Test Automation Framework Design: A Comprehensive Guide for 2025](posts/2025/2025-11-11-test-automation-framework-design-a-comprehensive-guide-for-2025.md) - Nov 11, 2025
-- [The Ultimate Guide to Smoke Testing vs Sanity Testing](posts/2025/2025-11-11-the-ultimate-guide-to-smoke-testing-vs-sanity-testing.md) - Nov 11, 2025
-- [Advanced Performance Testing in the Cloud Techniques for Modern Development](posts/2025/2025-11-11-advanced-performance-testing-in-the-cloud-techniques-for-modern-development.md) - Nov 11, 2025
-- ...and 177 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
+- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
+- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
-- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
-- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
