@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (183 posts)
+### Engineering (184 posts)
 
+- [Mastering Regression Test Suite Optimization: Expert Tips and Strategies](posts/2025/2025-11-12-mastering-regression-test-suite-optimization-expert-tips-and-strategies.md) - Nov 12, 2025
 - [Smoke Testing in CI/CD: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-12-smoke-testing-in-cicd-common-pitfalls-and-how-to-avoid-them.md) - Nov 12, 2025
 - [Regression Testing Metrics: Tools, Tips, and Industry Insights](posts/2025/2025-11-12-regression-testing-metrics-tools-tips-and-industry-insights.md) - Nov 12, 2025
 - [Smoke Testing vs Sanity Testing: Tools, Tips, and Industry Insights](posts/2025/2025-11-11-smoke-testing-vs-sanity-testing-tools-tips-and-industry-insights.md) - Nov 11, 2025
 - [Test Automation Framework Design: A Comprehensive Guide for 2025](posts/2025/2025-11-11-test-automation-framework-design-a-comprehensive-guide-for-2025.md) - Nov 11, 2025
-- [The Ultimate Guide to Smoke Testing vs Sanity Testing](posts/2025/2025-11-11-the-ultimate-guide-to-smoke-testing-vs-sanity-testing.md) - Nov 11, 2025
-- ...and 178 more
+- ...and 179 more
 
 ### Community (13 posts)
 
