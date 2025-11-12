@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (187 posts)
+### Engineering (188 posts)
 
+- [Regression Testing in Agile Explained: Everything You Need to Know](posts/2025/2025-11-12-regression-testing-in-agile-explained-everything-you-need-to-know.md) - Nov 12, 2025
 - [The Ultimate Guide to E2E Testing in Production](posts/2025/2025-11-12-the-ultimate-guide-to-e2e-testing-in-production.md) - Nov 12, 2025
 - [Mastering Contract Testing with Pact: Expert Tips and Strategies](posts/2025/2025-11-12-mastering-contract-testing-with-pact-expert-tips-and-strategies.md) - Nov 12, 2025
 - [The Ultimate Guide to Regression Test Suite Optimization](posts/2025/2025-11-12-the-ultimate-guide-to-regression-test-suite-optimization.md) - Nov 12, 2025
 - [Mastering Regression Test Suite Optimization: Expert Tips and Strategies](posts/2025/2025-11-12-mastering-regression-test-suite-optimization-expert-tips-and-strategies.md) - Nov 12, 2025
-- [Smoke Testing in CI/CD: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-12-smoke-testing-in-cicd-common-pitfalls-and-how-to-avoid-them.md) - Nov 12, 2025
-- ...and 182 more
+- ...and 183 more
 
 ### Community (13 posts)
 
