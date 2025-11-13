@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (191 posts)
+### Engineering (192 posts)
 
+- [Mastering Performance Testing in the Cloud: Expert Tips and Strategies](posts/2025/2025-11-13-mastering-performance-testing-in-the-cloud-expert-tips-and-strategies.md) - Nov 13, 2025
 - [JMeter vs Gatling vs K6: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-13-jmeter-vs-gatling-vs-k6-common-pitfalls-and-how-to-avoid-them.md) - Nov 13, 2025
 - [Why Regression Testing Metrics Matters More Than Ever in 2025](posts/2025/2025-11-13-why-regression-testing-metrics-matters-more-than-ever-in-2025.md) - Nov 13, 2025
 - [Mobile Device Compatibility Testing Explained: Everything You Need to Know](posts/2025/2025-11-13-mobile-device-compatibility-testing-explained-everything-you-need-to-know.md) - Nov 13, 2025
 - [Regression Testing in Agile Explained: Everything You Need to Know](posts/2025/2025-11-12-regression-testing-in-agile-explained-everything-you-need-to-know.md) - Nov 12, 2025
-- [The Ultimate Guide to E2E Testing in Production](posts/2025/2025-11-12-the-ultimate-guide-to-e2e-testing-in-production.md) - Nov 12, 2025
-- ...and 186 more
+- ...and 187 more
 
 ### Community (14 posts)
 
