@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (194 posts)
+### Engineering (195 posts)
 
+- [How to Implement Mock vs Stub vs Spy: When to Use What Successfully](posts/2025/2025-11-14-how-to-implement-mock-vs-stub-vs-spy-when-to-use-what-successfully.md) - Nov 14, 2025
 - [Smoke Testing vs Sanity Testing: A Comprehensive Guide for 2025](posts/2025/2025-11-14-smoke-testing-vs-sanity-testing-a-comprehensive-guide-for-2025.md) - Nov 14, 2025
 - [Cross-Browser E2E Testing Explained: Everything You Need to Know](posts/2025/2025-11-14-cross-browser-e2e-testing-explained-everything-you-need-to-know.md) - Nov 14, 2025
 - [Mastering Performance Testing in the Cloud: Expert Tips and Strategies](posts/2025/2025-11-13-mastering-performance-testing-in-the-cloud-expert-tips-and-strategies.md) - Nov 13, 2025
 - [JMeter vs Gatling vs K6: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-13-jmeter-vs-gatling-vs-k6-common-pitfalls-and-how-to-avoid-them.md) - Nov 13, 2025
-- [Why Regression Testing Metrics Matters More Than Ever in 2025](posts/2025/2025-11-13-why-regression-testing-metrics-matters-more-than-ever-in-2025.md) - Nov 13, 2025
-- ...and 189 more
+- ...and 190 more
 
 ### Community (14 posts)
 
