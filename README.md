@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (196 posts)
+### Engineering (197 posts)
 
+- [How to Implement Performance Testing Metrics Successfully](posts/2025/2025-11-14-how-to-implement-performance-testing-metrics-successfully.md) - Nov 14, 2025
 - [The Ultimate Guide to Selenium vs Playwright vs Cypress](posts/2025/2025-11-14-the-ultimate-guide-to-selenium-vs-playwright-vs-cypress.md) - Nov 14, 2025
 - [How to Implement Mock vs Stub vs Spy: When to Use What Successfully](posts/2025/2025-11-14-how-to-implement-mock-vs-stub-vs-spy-when-to-use-what-successfully.md) - Nov 14, 2025
 - [Smoke Testing vs Sanity Testing: A Comprehensive Guide for 2025](posts/2025/2025-11-14-smoke-testing-vs-sanity-testing-a-comprehensive-guide-for-2025.md) - Nov 14, 2025
 - [Cross-Browser E2E Testing Explained: Everything You Need to Know](posts/2025/2025-11-14-cross-browser-e2e-testing-explained-everything-you-need-to-know.md) - Nov 14, 2025
-- [Mastering Performance Testing in the Cloud: Expert Tips and Strategies](posts/2025/2025-11-13-mastering-performance-testing-in-the-cloud-expert-tips-and-strategies.md) - Nov 13, 2025
-- ...and 191 more
+- ...and 192 more
 
 ### Community (14 posts)
 
