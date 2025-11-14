@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (198 posts)
+### Engineering (199 posts)
 
+- [Advanced Quick Sanity Checks Techniques for Modern Development](posts/2025/2025-11-14-advanced-quick-sanity-checks-techniques-for-modern-development.md) - Nov 14, 2025
 - [Sanity Testing Automation Explained: Everything You Need to Know](posts/2025/2025-11-14-sanity-testing-automation-explained-everything-you-need-to-know.md) - Nov 14, 2025
 - [How to Implement Performance Testing Metrics Successfully](posts/2025/2025-11-14-how-to-implement-performance-testing-metrics-successfully.md) - Nov 14, 2025
 - [The Ultimate Guide to Selenium vs Playwright vs Cypress](posts/2025/2025-11-14-the-ultimate-guide-to-selenium-vs-playwright-vs-cypress.md) - Nov 14, 2025
 - [How to Implement Mock vs Stub vs Spy: When to Use What Successfully](posts/2025/2025-11-14-how-to-implement-mock-vs-stub-vs-spy-when-to-use-what-successfully.md) - Nov 14, 2025
-- [Smoke Testing vs Sanity Testing: A Comprehensive Guide for 2025](posts/2025/2025-11-14-smoke-testing-vs-sanity-testing-a-comprehensive-guide-for-2025.md) - Nov 14, 2025
-- ...and 193 more
+- ...and 194 more
 
 ### Community (14 posts)
 
@@ -25,10 +25,10 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
-- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
-- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
+- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
+- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
