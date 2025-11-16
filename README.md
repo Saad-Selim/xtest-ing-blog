@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (202 posts)
+### Engineering (203 posts)
 
+- [Sanity Test Checklist Explained: Everything You Need to Know](posts/2025/2025-11-16-sanity-test-checklist-explained-everything-you-need-to-know.md) - Nov 16, 2025
 - [Mastering Performance Testing Metrics: Expert Tips and Strategies](posts/2025/2025-11-15-mastering-performance-testing-metrics-expert-tips-and-strategies.md) - Nov 15, 2025
 - [API Test Automation Strategies Explained: Everything You Need to Know](posts/2025/2025-11-15-api-test-automation-strategies-explained-everything-you-need-to-know.md) - Nov 15, 2025
 - [Mastering Service Virtualization for Testing: Expert Tips and Strategies](posts/2025/2025-11-15-mastering-service-virtualization-for-testing-expert-tips-and-strategies.md) - Nov 15, 2025
 - [Advanced Quick Sanity Checks Techniques for Modern Development](posts/2025/2025-11-14-advanced-quick-sanity-checks-techniques-for-modern-development.md) - Nov 14, 2025
-- [Sanity Testing Automation Explained: Everything You Need to Know](posts/2025/2025-11-14-sanity-testing-automation-explained-everything-you-need-to-know.md) - Nov 14, 2025
-- ...and 197 more
+- ...and 198 more
 
 ### Community (16 posts)
 
