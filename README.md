@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (207 posts)
+### Engineering (208 posts)
 
+- [Why Regression Test Suite Optimization Matters More Than Ever in 2025](posts/2025/2025-11-16-why-regression-test-suite-optimization-matters-more-than-ever-in-2025.md) - Nov 16, 2025
 - [API Version Compatibility: Best Practices and Real-World Examples](posts/2025/2025-11-16-api-version-compatibility-best-practices-and-real-world-examples.md) - Nov 16, 2025
 - [Cross-Browser E2E Testing: A Comprehensive Guide for 2025](posts/2025/2025-11-16-cross-browser-e2e-testing-a-comprehensive-guide-for-2025.md) - Nov 16, 2025
 - [Quick Sanity Checks: Best Practices and Real-World Examples](posts/2025/2025-11-16-quick-sanity-checks-best-practices-and-real-world-examples.md) - Nov 16, 2025
 - [Cross-Browser Compatibility Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-16-cross-browser-compatibility-testing-common-pitfalls-and-how-to-avoid-them.md) - Nov 16, 2025
-- [Sanity Test Checklist Explained: Everything You Need to Know](posts/2025/2025-11-16-sanity-test-checklist-explained-everything-you-need-to-know.md) - Nov 16, 2025
-- ...and 202 more
+- ...and 203 more
 
 ### Community (16 posts)
 
