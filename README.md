@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (214 posts)
+
+- [Why Sanity Testing Strategies Matters More Than Ever in 2025](posts/2025/2025-11-17-why-sanity-testing-strategies-matters-more-than-ever-in-2025.md) - Nov 17, 2025
+- [Test Automation ROI Calculation: Best Practices and Real-World Examples](posts/2025/2025-11-17-test-automation-roi-calculation-best-practices-and-real-world-examples.md) - Nov 17, 2025
+- [JMeter vs Gatling vs K6: Best Practices and Real-World Examples](posts/2025/2025-11-17-jmeter-vs-gatling-vs-k6-best-practices-and-real-world-examples.md) - Nov 17, 2025
+- [The Ultimate Guide to Visual Regression Testing Tools](posts/2025/2025-11-17-the-ultimate-guide-to-visual-regression-testing-tools.md) - Nov 17, 2025
+- [JMeter vs Gatling vs K6: Tools, Tips, and Industry Insights](posts/2025/2025-11-17-jmeter-vs-gatling-vs-k6-tools-tips-and-industry-insights.md) - Nov 17, 2025
+- ...and 209 more
+
 ### Community (17 posts)
 
 - [User Acceptance Testing Guide Explained: Everything You Need to Know](posts/2025/2025-11-17-user-acceptance-testing-guide-explained-everything-you-need-to-know.md) - Nov 17, 2025
@@ -12,15 +21,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Advanced Accessibility Testing Tools Techniques for Modern Development](posts/2025/2025-11-13-advanced-accessibility-testing-tools-techniques-for-modern-development.md) - Nov 13, 2025
 - [Color Contrast Testing: A Comprehensive Guide for 2025](posts/2025/2025-11-12-color-contrast-testing-a-comprehensive-guide-for-2025.md) - Nov 12, 2025
 - ...and 12 more
-
-### Engineering (213 posts)
-
-- [Test Automation ROI Calculation: Best Practices and Real-World Examples](posts/2025/2025-11-17-test-automation-roi-calculation-best-practices-and-real-world-examples.md) - Nov 17, 2025
-- [JMeter vs Gatling vs K6: Best Practices and Real-World Examples](posts/2025/2025-11-17-jmeter-vs-gatling-vs-k6-best-practices-and-real-world-examples.md) - Nov 17, 2025
-- [The Ultimate Guide to Visual Regression Testing Tools](posts/2025/2025-11-17-the-ultimate-guide-to-visual-regression-testing-tools.md) - Nov 17, 2025
-- [JMeter vs Gatling vs K6: Tools, Tips, and Industry Insights](posts/2025/2025-11-17-jmeter-vs-gatling-vs-k6-tools-tips-and-industry-insights.md) - Nov 17, 2025
-- [Smoke Testing vs Sanity Testing: Best Practices and Real-World Examples](posts/2025/2025-11-16-smoke-testing-vs-sanity-testing-best-practices-and-real-world-examples.md) - Nov 16, 2025
-- ...and 208 more
 
 ### Security (12 posts)
 
