@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (215 posts)
+### Engineering (216 posts)
 
+- [Advanced Smoke Testing Best Practices Techniques for Modern Development](posts/2025/2025-11-18-advanced-smoke-testing-best-practices-techniques-for-modern-development.md) - Nov 18, 2025
 - [The Ultimate Guide to Service Virtualization for Testing](posts/2025/2025-11-17-the-ultimate-guide-to-service-virtualization-for-testing.md) - Nov 17, 2025
 - [Why Sanity Testing Strategies Matters More Than Ever in 2025](posts/2025/2025-11-17-why-sanity-testing-strategies-matters-more-than-ever-in-2025.md) - Nov 17, 2025
 - [Test Automation ROI Calculation: Best Practices and Real-World Examples](posts/2025/2025-11-17-test-automation-roi-calculation-best-practices-and-real-world-examples.md) - Nov 17, 2025
 - [JMeter vs Gatling vs K6: Best Practices and Real-World Examples](posts/2025/2025-11-17-jmeter-vs-gatling-vs-k6-best-practices-and-real-world-examples.md) - Nov 17, 2025
-- [The Ultimate Guide to Visual Regression Testing Tools](posts/2025/2025-11-17-the-ultimate-guide-to-visual-regression-testing-tools.md) - Nov 17, 2025
-- ...and 210 more
+- ...and 211 more
 
 ### Community (17 posts)
 
