@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (218 posts)
+### Engineering (219 posts)
 
+- [Regression Testing in Agile: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-18-regression-testing-in-agile-common-pitfalls-and-how-to-avoid-them.md) - Nov 18, 2025
 - [How to Implement API Test Automation Strategies Successfully](posts/2025/2025-11-18-how-to-implement-api-test-automation-strategies-successfully.md) - Nov 18, 2025
 - [Regression Test Suite Optimization Explained: Everything You Need to Know](posts/2025/2025-11-18-regression-test-suite-optimization-explained-everything-you-need-to-know.md) - Nov 18, 2025
 - [Advanced Smoke Testing Best Practices Techniques for Modern Development](posts/2025/2025-11-18-advanced-smoke-testing-best-practices-techniques-for-modern-development.md) - Nov 18, 2025
 - [The Ultimate Guide to Service Virtualization for Testing](posts/2025/2025-11-17-the-ultimate-guide-to-service-virtualization-for-testing.md) - Nov 17, 2025
-- [Why Sanity Testing Strategies Matters More Than Ever in 2025](posts/2025/2025-11-17-why-sanity-testing-strategies-matters-more-than-ever-in-2025.md) - Nov 17, 2025
-- ...and 213 more
+- ...and 214 more
 
 ### Community (17 posts)
 
@@ -25,10 +25,10 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
-- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
-- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
 - [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
+- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
