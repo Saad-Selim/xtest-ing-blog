@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (226 posts)
+
+- [Why Smoke Testing vs Sanity Testing Matters More Than Ever in 2025](posts/2025/2025-11-19-why-smoke-testing-vs-sanity-testing-matters-more-than-ever-in-2025.md) - Nov 19, 2025
+- [The Ultimate Guide to Unit Testing in Microservices](posts/2025/2025-11-19-the-ultimate-guide-to-unit-testing-in-microservices.md) - Nov 19, 2025
+- [How to Implement Smoke Testing Best Practices Successfully](posts/2025/2025-11-19-how-to-implement-smoke-testing-best-practices-successfully.md) - Nov 19, 2025
+- [Mastering Unit Testing in Microservices: Expert Tips and Strategies](posts/2025/2025-11-19-mastering-unit-testing-in-microservices-expert-tips-and-strategies.md) - Nov 19, 2025
+- [Unit Testing in Microservices: Tools, Tips, and Industry Insights](posts/2025/2025-11-18-unit-testing-in-microservices-tools-tips-and-industry-insights.md) - Nov 18, 2025
+- ...and 221 more
+
 ### Community (20 posts)
 
 - [The Ultimate Guide to Color Contrast Testing](posts/2025/2025-11-19-the-ultimate-guide-to-color-contrast-testing.md) - Nov 19, 2025
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Bug Reporting Best Practices: Best Practices and Real-World Examples](posts/2025/2025-11-15-bug-reporting-best-practices-best-practices-and-real-world-examples.md) - Nov 15, 2025
 - ...and 15 more
 
-### Engineering (225 posts)
-
-- [The Ultimate Guide to Unit Testing in Microservices](posts/2025/2025-11-19-the-ultimate-guide-to-unit-testing-in-microservices.md) - Nov 19, 2025
-- [How to Implement Smoke Testing Best Practices Successfully](posts/2025/2025-11-19-how-to-implement-smoke-testing-best-practices-successfully.md) - Nov 19, 2025
-- [Mastering Unit Testing in Microservices: Expert Tips and Strategies](posts/2025/2025-11-19-mastering-unit-testing-in-microservices-expert-tips-and-strategies.md) - Nov 19, 2025
-- [Unit Testing in Microservices: Tools, Tips, and Industry Insights](posts/2025/2025-11-18-unit-testing-in-microservices-tools-tips-and-industry-insights.md) - Nov 18, 2025
-- [Build Verification Testing: A Comprehensive Guide for 2025](posts/2025/2025-11-18-build-verification-testing-a-comprehensive-guide-for-2025.md) - Nov 18, 2025
-- ...and 220 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
 - [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
 - [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
-- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
