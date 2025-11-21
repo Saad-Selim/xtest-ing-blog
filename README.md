@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (236 posts)
+### Engineering (237 posts)
 
+- [API Test Automation Strategies: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-21-api-test-automation-strategies-common-pitfalls-and-how-to-avoid-them.md) - Nov 21, 2025
 - [Code Coverage Metrics That Matter: Tools, Tips, and Industry Insights](posts/2025/2025-11-21-code-coverage-metrics-that-matter-tools-tips-and-industry-insights.md) - Nov 21, 2025
 - [Database Integration Testing Explained: Everything You Need to Know](posts/2025/2025-11-21-database-integration-testing-explained-everything-you-need-to-know.md) - Nov 21, 2025
 - [Advanced Test-Driven Development (TDD) Guide Techniques for Modern Development](posts/2025/2025-11-21-advanced-test-driven-development-tdd-guide-techniques-for-modern-development.md) - Nov 21, 2025
 - [The Ultimate Guide to Database Compatibility Testing](posts/2025/2025-11-21-the-ultimate-guide-to-database-compatibility-testing.md) - Nov 21, 2025
-- [Mastering API Integration Testing Strategies: Expert Tips and Strategies](posts/2025/2025-11-20-mastering-api-integration-testing-strategies-expert-tips-and-strategies.md) - Nov 20, 2025
-- ...and 231 more
+- ...and 232 more
 
 ### Community (20 posts)
 
