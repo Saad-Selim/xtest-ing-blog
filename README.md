@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (244 posts)
+### Engineering (245 posts)
 
+- [Why Load Testing Best Practices Matters More Than Ever in 2025](posts/2025/2025-11-22-why-load-testing-best-practices-matters-more-than-ever-in-2025.md) - Nov 22, 2025
 - [Mastering OS Compatibility Testing: Expert Tips and Strategies](posts/2025/2025-11-22-mastering-os-compatibility-testing-expert-tips-and-strategies.md) - Nov 22, 2025
 - [Mastering Database Integration Testing: Expert Tips and Strategies](posts/2025/2025-11-22-mastering-database-integration-testing-expert-tips-and-strategies.md) - Nov 22, 2025
 - [Mobile Test Automation with Appium: Best Practices and Real-World Examples](posts/2025/2025-11-22-mobile-test-automation-with-appium-best-practices-and-real-world-examples.md) - Nov 22, 2025
 - [Test Automation ROI Calculation: A Comprehensive Guide for 2025](posts/2025/2025-11-22-test-automation-roi-calculation-a-comprehensive-guide-for-2025.md) - Nov 22, 2025
-- [Mobile E2E Testing Strategies: A Comprehensive Guide for 2025](posts/2025/2025-11-22-mobile-e2e-testing-strategies-a-comprehensive-guide-for-2025.md) - Nov 22, 2025
-- ...and 239 more
+- ...and 240 more
 
 ### Community (21 posts)
 
@@ -28,7 +28,7 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
 - [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
-- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
