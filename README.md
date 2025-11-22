@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (243 posts)
+### Engineering (244 posts)
 
+- [Mastering OS Compatibility Testing: Expert Tips and Strategies](posts/2025/2025-11-22-mastering-os-compatibility-testing-expert-tips-and-strategies.md) - Nov 22, 2025
 - [Mastering Database Integration Testing: Expert Tips and Strategies](posts/2025/2025-11-22-mastering-database-integration-testing-expert-tips-and-strategies.md) - Nov 22, 2025
 - [Mobile Test Automation with Appium: Best Practices and Real-World Examples](posts/2025/2025-11-22-mobile-test-automation-with-appium-best-practices-and-real-world-examples.md) - Nov 22, 2025
 - [Test Automation ROI Calculation: A Comprehensive Guide for 2025](posts/2025/2025-11-22-test-automation-roi-calculation-a-comprehensive-guide-for-2025.md) - Nov 22, 2025
 - [Mobile E2E Testing Strategies: A Comprehensive Guide for 2025](posts/2025/2025-11-22-mobile-e2e-testing-strategies-a-comprehensive-guide-for-2025.md) - Nov 22, 2025
-- [Selenium vs Playwright vs Cypress: Best Practices and Real-World Examples](posts/2025/2025-11-21-selenium-vs-playwright-vs-cypress-best-practices-and-real-world-examples.md) - Nov 21, 2025
-- ...and 238 more
+- ...and 239 more
 
 ### Community (21 posts)
 
