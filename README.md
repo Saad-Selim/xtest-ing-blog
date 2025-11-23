@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (246 posts)
+
+- [Advanced Code Coverage Metrics That Matter Techniques for Modern Development](posts/2025/2025-11-23-advanced-code-coverage-metrics-that-matter-techniques-for-modern-development.md) - Nov 23, 2025
+- [Why Load Testing Best Practices Matters More Than Ever in 2025](posts/2025/2025-11-22-why-load-testing-best-practices-matters-more-than-ever-in-2025.md) - Nov 22, 2025
+- [Mastering OS Compatibility Testing: Expert Tips and Strategies](posts/2025/2025-11-22-mastering-os-compatibility-testing-expert-tips-and-strategies.md) - Nov 22, 2025
+- [Mastering Database Integration Testing: Expert Tips and Strategies](posts/2025/2025-11-22-mastering-database-integration-testing-expert-tips-and-strategies.md) - Nov 22, 2025
+- [Mobile Test Automation with Appium: Best Practices and Real-World Examples](posts/2025/2025-11-22-mobile-test-automation-with-appium-best-practices-and-real-world-examples.md) - Nov 22, 2025
+- ...and 241 more
+
 ### Community (22 posts)
 
 - [Manual vs Automated Testing Balance: Best Practices and Real-World Examples](posts/2025/2025-11-23-manual-vs-automated-testing-balance-best-practices-and-real-world-examples.md) - Nov 23, 2025
@@ -12,15 +21,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [The Ultimate Guide to Screen Reader Testing Guide](posts/2025/2025-11-19-the-ultimate-guide-to-screen-reader-testing-guide.md) - Nov 19, 2025
 - [The Ultimate Guide to Usability Testing Methods](posts/2025/2025-11-18-the-ultimate-guide-to-usability-testing-methods.md) - Nov 18, 2025
 - ...and 17 more
-
-### Engineering (245 posts)
-
-- [Why Load Testing Best Practices Matters More Than Ever in 2025](posts/2025/2025-11-22-why-load-testing-best-practices-matters-more-than-ever-in-2025.md) - Nov 22, 2025
-- [Mastering OS Compatibility Testing: Expert Tips and Strategies](posts/2025/2025-11-22-mastering-os-compatibility-testing-expert-tips-and-strategies.md) - Nov 22, 2025
-- [Mastering Database Integration Testing: Expert Tips and Strategies](posts/2025/2025-11-22-mastering-database-integration-testing-expert-tips-and-strategies.md) - Nov 22, 2025
-- [Mobile Test Automation with Appium: Best Practices and Real-World Examples](posts/2025/2025-11-22-mobile-test-automation-with-appium-best-practices-and-real-world-examples.md) - Nov 22, 2025
-- [Test Automation ROI Calculation: A Comprehensive Guide for 2025](posts/2025/2025-11-22-test-automation-roi-calculation-a-comprehensive-guide-for-2025.md) - Nov 22, 2025
-- ...and 240 more
 
 ### Security (12 posts)
 
