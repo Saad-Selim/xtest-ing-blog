@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (22 posts)
+
+- [Manual vs Automated Testing Balance: Best Practices and Real-World Examples](posts/2025/2025-11-23-manual-vs-automated-testing-balance-best-practices-and-real-world-examples.md) - Nov 23, 2025
+- [Bug Reporting Best Practices: Tools, Tips, and Industry Insights](posts/2025/2025-11-22-bug-reporting-best-practices-tools-tips-and-industry-insights.md) - Nov 22, 2025
+- [The Ultimate Guide to Color Contrast Testing](posts/2025/2025-11-19-the-ultimate-guide-to-color-contrast-testing.md) - Nov 19, 2025
+- [The Ultimate Guide to Screen Reader Testing Guide](posts/2025/2025-11-19-the-ultimate-guide-to-screen-reader-testing-guide.md) - Nov 19, 2025
+- [The Ultimate Guide to Usability Testing Methods](posts/2025/2025-11-18-the-ultimate-guide-to-usability-testing-methods.md) - Nov 18, 2025
+- ...and 17 more
+
 ### Engineering (245 posts)
 
 - [Why Load Testing Best Practices Matters More Than Ever in 2025](posts/2025/2025-11-22-why-load-testing-best-practices-matters-more-than-ever-in-2025.md) - Nov 22, 2025
@@ -12,15 +21,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Mobile Test Automation with Appium: Best Practices and Real-World Examples](posts/2025/2025-11-22-mobile-test-automation-with-appium-best-practices-and-real-world-examples.md) - Nov 22, 2025
 - [Test Automation ROI Calculation: A Comprehensive Guide for 2025](posts/2025/2025-11-22-test-automation-roi-calculation-a-comprehensive-guide-for-2025.md) - Nov 22, 2025
 - ...and 240 more
-
-### Community (21 posts)
-
-- [Bug Reporting Best Practices: Tools, Tips, and Industry Insights](posts/2025/2025-11-22-bug-reporting-best-practices-tools-tips-and-industry-insights.md) - Nov 22, 2025
-- [The Ultimate Guide to Color Contrast Testing](posts/2025/2025-11-19-the-ultimate-guide-to-color-contrast-testing.md) - Nov 19, 2025
-- [The Ultimate Guide to Screen Reader Testing Guide](posts/2025/2025-11-19-the-ultimate-guide-to-screen-reader-testing-guide.md) - Nov 19, 2025
-- [The Ultimate Guide to Usability Testing Methods](posts/2025/2025-11-18-the-ultimate-guide-to-usability-testing-methods.md) - Nov 18, 2025
-- [User Acceptance Testing Guide Explained: Everything You Need to Know](posts/2025/2025-11-17-user-acceptance-testing-guide-explained-everything-you-need-to-know.md) - Nov 17, 2025
-- ...and 16 more
 
 ### Security (12 posts)
 
