@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (252 posts)
+
+- [Backward Compatibility Testing Explained: Everything You Need to Know](posts/2025/2025-11-24-backward-compatibility-testing-explained-everything-you-need-to-know.md) - Nov 24, 2025
+- [Risk-Based Regression Testing: Tools, Tips, and Industry Insights](posts/2025/2025-11-24-risk-based-regression-testing-tools-tips-and-industry-insights.md) - Nov 24, 2025
+- [Selenium vs Playwright vs Cypress: Tools, Tips, and Industry Insights](posts/2025/2025-11-23-selenium-vs-playwright-vs-cypress-tools-tips-and-industry-insights.md) - Nov 23, 2025
+- [Automated Regression Testing: Tools, Tips, and Industry Insights](posts/2025/2025-11-23-automated-regression-testing-tools-tips-and-industry-insights.md) - Nov 23, 2025
+- [E2E Testing in Production: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-23-e2e-testing-in-production-common-pitfalls-and-how-to-avoid-them.md) - Nov 23, 2025
+- ...and 247 more
+
 ### Community (25 posts)
 
 - [The Ultimate Guide to Manual Testing in Agile Teams](posts/2025/2025-11-24-the-ultimate-guide-to-manual-testing-in-agile-teams.md) - Nov 24, 2025
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Bug Reporting Best Practices: Tools, Tips, and Industry Insights](posts/2025/2025-11-22-bug-reporting-best-practices-tools-tips-and-industry-insights.md) - Nov 22, 2025
 - ...and 20 more
 
-### Engineering (251 posts)
-
-- [Risk-Based Regression Testing: Tools, Tips, and Industry Insights](posts/2025/2025-11-24-risk-based-regression-testing-tools-tips-and-industry-insights.md) - Nov 24, 2025
-- [Selenium vs Playwright vs Cypress: Tools, Tips, and Industry Insights](posts/2025/2025-11-23-selenium-vs-playwright-vs-cypress-tools-tips-and-industry-insights.md) - Nov 23, 2025
-- [Automated Regression Testing: Tools, Tips, and Industry Insights](posts/2025/2025-11-23-automated-regression-testing-tools-tips-and-industry-insights.md) - Nov 23, 2025
-- [E2E Testing in Production: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-23-e2e-testing-in-production-common-pitfalls-and-how-to-avoid-them.md) - Nov 23, 2025
-- [How to Implement Load Testing Best Practices Successfully](posts/2025/2025-11-23-how-to-implement-load-testing-best-practices-successfully.md) - Nov 23, 2025
-- ...and 246 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
 - [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
 - [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
-- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
+- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
