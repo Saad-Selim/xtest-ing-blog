@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (254 posts)
+### Engineering (255 posts)
 
+- [Mastering Visual Regression Testing: Expert Tips and Strategies](posts/2025/2025-11-25-mastering-visual-regression-testing-expert-tips-and-strategies.md) - Nov 25, 2025
 - [Sanity Testing Automation: A Comprehensive Guide for 2025](posts/2025/2025-11-25-sanity-testing-automation-a-comprehensive-guide-for-2025.md) - Nov 25, 2025
 - [Why Database Integration Testing Matters More Than Ever in 2025](posts/2025/2025-11-24-why-database-integration-testing-matters-more-than-ever-in-2025.md) - Nov 24, 2025
 - [Backward Compatibility Testing Explained: Everything You Need to Know](posts/2025/2025-11-24-backward-compatibility-testing-explained-everything-you-need-to-know.md) - Nov 24, 2025
 - [Risk-Based Regression Testing: Tools, Tips, and Industry Insights](posts/2025/2025-11-24-risk-based-regression-testing-tools-tips-and-industry-insights.md) - Nov 24, 2025
-- [Selenium vs Playwright vs Cypress: Tools, Tips, and Industry Insights](posts/2025/2025-11-23-selenium-vs-playwright-vs-cypress-tools-tips-and-industry-insights.md) - Nov 23, 2025
-- ...and 249 more
+- ...and 250 more
 
 ### Community (26 posts)
 
