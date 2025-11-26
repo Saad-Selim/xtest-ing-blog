@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (259 posts)
+
+- [How to Implement JMeter vs Gatling vs K6 Successfully](posts/2025/2025-11-26-how-to-implement-jmeter-vs-gatling-vs-k6-successfully.md) - Nov 26, 2025
+- [Mastering Cross-Browser Compatibility Testing: Expert Tips and Strategies](posts/2025/2025-11-26-mastering-cross-browser-compatibility-testing-expert-tips-and-strategies.md) - Nov 26, 2025
+- [Mobile Device Compatibility Testing: Tools, Tips, and Industry Insights](posts/2025/2025-11-25-mobile-device-compatibility-testing-tools-tips-and-industry-insights.md) - Nov 25, 2025
+- [How to Implement Sanity Testing Automation Successfully](posts/2025/2025-11-25-how-to-implement-sanity-testing-automation-successfully.md) - Nov 25, 2025
+- [Mastering Visual Regression Testing: Expert Tips and Strategies](posts/2025/2025-11-25-mastering-visual-regression-testing-expert-tips-and-strategies.md) - Nov 25, 2025
+- ...and 254 more
+
 ### Community (27 posts)
 
 - [Exploratory Testing Techniques: Best Practices and Real-World Examples](posts/2025/2025-11-26-exploratory-testing-techniques-best-practices-and-real-world-examples.md) - Nov 26, 2025
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [How to Implement Keyboard Navigation Testing Successfully](posts/2025/2025-11-23-how-to-implement-keyboard-navigation-testing-successfully.md) - Nov 23, 2025
 - ...and 22 more
 
-### Engineering (258 posts)
-
-- [Mastering Cross-Browser Compatibility Testing: Expert Tips and Strategies](posts/2025/2025-11-26-mastering-cross-browser-compatibility-testing-expert-tips-and-strategies.md) - Nov 26, 2025
-- [Mobile Device Compatibility Testing: Tools, Tips, and Industry Insights](posts/2025/2025-11-25-mobile-device-compatibility-testing-tools-tips-and-industry-insights.md) - Nov 25, 2025
-- [How to Implement Sanity Testing Automation Successfully](posts/2025/2025-11-25-how-to-implement-sanity-testing-automation-successfully.md) - Nov 25, 2025
-- [Mastering Visual Regression Testing: Expert Tips and Strategies](posts/2025/2025-11-25-mastering-visual-regression-testing-expert-tips-and-strategies.md) - Nov 25, 2025
-- [Sanity Testing Automation: A Comprehensive Guide for 2025](posts/2025/2025-11-25-sanity-testing-automation-a-comprehensive-guide-for-2025.md) - Nov 25, 2025
-- ...and 253 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
+- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
+- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
-- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
-- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
-- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
