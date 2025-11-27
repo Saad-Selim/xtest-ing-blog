@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (263 posts)
+### Engineering (264 posts)
 
+- [Database Compatibility Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-27-database-compatibility-testing-common-pitfalls-and-how-to-avoid-them.md) - Nov 27, 2025
 - [The Ultimate Guide to Test-Driven Development (TDD) Guide](posts/2025/2025-11-27-the-ultimate-guide-to-test-driven-development-tdd-guide.md) - Nov 27, 2025
 - [Unit Testing Anti-Patterns to Avoid: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-27-unit-testing-anti-patterns-to-avoid-common-pitfalls-and-how-to-avoid-them.md) - Nov 27, 2025
 - [Smoke Test Case Selection: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-26-smoke-test-case-selection-common-pitfalls-and-how-to-avoid-them.md) - Nov 26, 2025
 - [The Ultimate Guide to API Version Compatibility](posts/2025/2025-11-26-the-ultimate-guide-to-api-version-compatibility.md) - Nov 26, 2025
-- [How to Implement JMeter vs Gatling vs K6 Successfully](posts/2025/2025-11-26-how-to-implement-jmeter-vs-gatling-vs-k6-successfully.md) - Nov 26, 2025
-- ...and 258 more
+- ...and 259 more
 
 ### Community (29 posts)
 
