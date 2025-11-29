@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (268 posts)
+
+- [Mobile Test Automation with Appium: A Comprehensive Guide for 2025](posts/2025/2025-11-29-mobile-test-automation-with-appium-a-comprehensive-guide-for-2025.md) - Nov 29, 2025
+- [How to Implement Release Sanity Testing Successfully](posts/2025/2025-11-28-how-to-implement-release-sanity-testing-successfully.md) - Nov 28, 2025
+- [Optimizing E2E Test Suites: Best Practices and Real-World Examples](posts/2025/2025-11-28-optimizing-e2e-test-suites-best-practices-and-real-world-examples.md) - Nov 28, 2025
+- [How to Implement Stress Testing Strategies Successfully](posts/2025/2025-11-28-how-to-implement-stress-testing-strategies-successfully.md) - Nov 28, 2025
+- [Database Compatibility Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-27-database-compatibility-testing-common-pitfalls-and-how-to-avoid-them.md) - Nov 27, 2025
+- ...and 263 more
+
 ### Community (31 posts)
 
 - [Screen Reader Testing Guide Explained: Everything You Need to Know](posts/2025/2025-11-28-screen-reader-testing-guide-explained-everything-you-need-to-know.md) - Nov 28, 2025
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Exploratory Testing Techniques: Best Practices and Real-World Examples](posts/2025/2025-11-26-exploratory-testing-techniques-best-practices-and-real-world-examples.md) - Nov 26, 2025
 - ...and 26 more
 
-### Engineering (267 posts)
-
-- [How to Implement Release Sanity Testing Successfully](posts/2025/2025-11-28-how-to-implement-release-sanity-testing-successfully.md) - Nov 28, 2025
-- [Optimizing E2E Test Suites: Best Practices and Real-World Examples](posts/2025/2025-11-28-optimizing-e2e-test-suites-best-practices-and-real-world-examples.md) - Nov 28, 2025
-- [How to Implement Stress Testing Strategies Successfully](posts/2025/2025-11-28-how-to-implement-stress-testing-strategies-successfully.md) - Nov 28, 2025
-- [Database Compatibility Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-27-database-compatibility-testing-common-pitfalls-and-how-to-avoid-them.md) - Nov 27, 2025
-- [The Ultimate Guide to Test-Driven Development (TDD) Guide](posts/2025/2025-11-27-the-ultimate-guide-to-test-driven-development-tdd-guide.md) - Nov 27, 2025
-- ...and 262 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
-- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
-- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
-- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
+- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
+- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
+- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
