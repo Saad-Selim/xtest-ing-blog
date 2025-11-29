@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (273 posts)
+### Engineering (274 posts)
 
+- [Performance Testing Metrics: Best Practices and Real-World Examples](posts/2025/2025-11-29-performance-testing-metrics-best-practices-and-real-world-examples.md) - Nov 29, 2025
 - [Cross-Browser Compatibility Testing: A Comprehensive Guide for 2025](posts/2025/2025-11-29-cross-browser-compatibility-testing-a-comprehensive-guide-for-2025.md) - Nov 29, 2025
 - [Mastering Load Testing Best Practices: Expert Tips and Strategies](posts/2025/2025-11-29-mastering-load-testing-best-practices-expert-tips-and-strategies.md) - Nov 29, 2025
 - [The Ultimate Guide to API Test Automation Strategies](posts/2025/2025-11-29-the-ultimate-guide-to-api-test-automation-strategies.md) - Nov 29, 2025
 - [Sanity Test Checklist: Tools, Tips, and Industry Insights](posts/2025/2025-11-29-sanity-test-checklist-tools-tips-and-industry-insights.md) - Nov 29, 2025
-- [Mastering Smoke Testing vs Sanity Testing: Expert Tips and Strategies](posts/2025/2025-11-29-mastering-smoke-testing-vs-sanity-testing-expert-tips-and-strategies.md) - Nov 29, 2025
-- ...and 268 more
+- ...and 269 more
 
 ### Community (31 posts)
 
@@ -25,9 +25,9 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
 - [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
+- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
+- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - ...and 7 more
 
