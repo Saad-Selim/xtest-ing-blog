@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (275 posts)
+
+- [The Ultimate Guide to Sanity Testing Strategies](posts/2025/2025-11-30-the-ultimate-guide-to-sanity-testing-strategies.md) - Nov 30, 2025
+- [Performance Testing Metrics: Best Practices and Real-World Examples](posts/2025/2025-11-29-performance-testing-metrics-best-practices-and-real-world-examples.md) - Nov 29, 2025
+- [Cross-Browser Compatibility Testing: A Comprehensive Guide for 2025](posts/2025/2025-11-29-cross-browser-compatibility-testing-a-comprehensive-guide-for-2025.md) - Nov 29, 2025
+- [Mastering Load Testing Best Practices: Expert Tips and Strategies](posts/2025/2025-11-29-mastering-load-testing-best-practices-expert-tips-and-strategies.md) - Nov 29, 2025
+- [The Ultimate Guide to API Test Automation Strategies](posts/2025/2025-11-29-the-ultimate-guide-to-api-test-automation-strategies.md) - Nov 29, 2025
+- ...and 270 more
+
 ### Community (32 posts)
 
 - [Mastering WCAG 2.1 Compliance Testing: Expert Tips and Strategies](posts/2025/2025-11-30-mastering-wcag-21-compliance-testing-expert-tips-and-strategies.md) - Nov 30, 2025
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Screen Reader Testing Guide: Common Pitfalls and How to Avoid Them](posts/2025/2025-11-27-screen-reader-testing-guide-common-pitfalls-and-how-to-avoid-them.md) - Nov 27, 2025
 - ...and 27 more
 
-### Engineering (274 posts)
-
-- [Performance Testing Metrics: Best Practices and Real-World Examples](posts/2025/2025-11-29-performance-testing-metrics-best-practices-and-real-world-examples.md) - Nov 29, 2025
-- [Cross-Browser Compatibility Testing: A Comprehensive Guide for 2025](posts/2025/2025-11-29-cross-browser-compatibility-testing-a-comprehensive-guide-for-2025.md) - Nov 29, 2025
-- [Mastering Load Testing Best Practices: Expert Tips and Strategies](posts/2025/2025-11-29-mastering-load-testing-best-practices-expert-tips-and-strategies.md) - Nov 29, 2025
-- [The Ultimate Guide to API Test Automation Strategies](posts/2025/2025-11-29-the-ultimate-guide-to-api-test-automation-strategies.md) - Nov 29, 2025
-- [Sanity Test Checklist: Tools, Tips, and Industry Insights](posts/2025/2025-11-29-sanity-test-checklist-tools-tips-and-industry-insights.md) - Nov 29, 2025
-- ...and 269 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
 - [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
-- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
-- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
-- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
+- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
+- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
