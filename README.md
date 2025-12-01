@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (279 posts)
+### Engineering (280 posts)
 
+- [Test Automation Framework Design Explained: Everything You Need to Know](posts/2025/2025-12-01-test-automation-framework-design-explained-everything-you-need-to-know.md) - Dec 1, 2025
 - [Why Sanity Test Checklist Matters More Than Ever in 2025](posts/2025/2025-12-01-why-sanity-test-checklist-matters-more-than-ever-in-2025.md) - Dec 1, 2025
 - [Test-Driven Development (TDD) Guide: Tools, Tips, and Industry Insights](posts/2025/2025-12-01-test-driven-development-tdd-guide-tools-tips-and-industry-insights.md) - Dec 1, 2025
 - [Why E2E Testing in Production Matters More Than Ever in 2025](posts/2025/2025-11-30-why-e2e-testing-in-production-matters-more-than-ever-in-2025.md) - Nov 30, 2025
 - [Advanced Load Testing Best Practices Techniques for Modern Development](posts/2025/2025-11-30-advanced-load-testing-best-practices-techniques-for-modern-development.md) - Nov 30, 2025
-- [The Ultimate Guide to Sanity Testing Strategies](posts/2025/2025-11-30-the-ultimate-guide-to-sanity-testing-strategies.md) - Nov 30, 2025
-- ...and 274 more
+- ...and 275 more
 
 ### Community (33 posts)
 
