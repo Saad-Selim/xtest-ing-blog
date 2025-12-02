@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (283 posts)
+### Engineering (284 posts)
 
+- [Mastering Selenium vs Playwright vs Cypress: Expert Tips and Strategies](posts/2025/2025-12-02-mastering-selenium-vs-playwright-vs-cypress-expert-tips-and-strategies.md) - Dec 2, 2025
 - [How to Implement Unit Testing Best Practices in 2025 Successfully](posts/2025/2025-12-02-how-to-implement-unit-testing-best-practices-in-2025-successfully.md) - Dec 2, 2025
 - [Cross-Browser Compatibility Testing: Tools, Tips, and Industry Insights](posts/2025/2025-12-02-cross-browser-compatibility-testing-tools-tips-and-industry-insights.md) - Dec 2, 2025
 - [How to Implement Test Automation Framework Design Successfully](posts/2025/2025-12-02-how-to-implement-test-automation-framework-design-successfully.md) - Dec 2, 2025
 - [Test Automation Framework Design Explained: Everything You Need to Know](posts/2025/2025-12-01-test-automation-framework-design-explained-everything-you-need-to-know.md) - Dec 1, 2025
-- [Why Sanity Test Checklist Matters More Than Ever in 2025](posts/2025/2025-12-01-why-sanity-test-checklist-matters-more-than-ever-in-2025.md) - Dec 1, 2025
-- ...and 278 more
+- ...and 279 more
 
 ### Community (33 posts)
 
