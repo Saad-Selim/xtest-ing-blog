@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (289 posts)
+### Engineering (290 posts)
 
+- [How to Implement Build Verification Testing Successfully](posts/2025/2025-12-03-how-to-implement-build-verification-testing-successfully.md) - Dec 3, 2025
 - [Advanced OS Compatibility Testing Techniques for Modern Development](posts/2025/2025-12-03-advanced-os-compatibility-testing-techniques-for-modern-development.md) - Dec 3, 2025
 - [Advanced Regression Testing in Agile Techniques for Modern Development](posts/2025/2025-12-03-advanced-regression-testing-in-agile-techniques-for-modern-development.md) - Dec 3, 2025
 - [Advanced Backward Compatibility Testing Techniques for Modern Development](posts/2025/2025-12-03-advanced-backward-compatibility-testing-techniques-for-modern-development.md) - Dec 3, 2025
 - [Backward Compatibility Testing: Best Practices and Real-World Examples](posts/2025/2025-12-03-backward-compatibility-testing-best-practices-and-real-world-examples.md) - Dec 3, 2025
-- [Mastering Unit Testing Best Practices in 2025: Expert Tips and Strategies](posts/2025/2025-12-02-mastering-unit-testing-best-practices-in-2025-expert-tips-and-strategies.md) - Dec 2, 2025
-- ...and 284 more
+- ...and 285 more
 
 ### Community (33 posts)
 
