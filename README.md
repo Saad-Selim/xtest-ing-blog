@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (287 posts)
+### Engineering (288 posts)
 
+- [Advanced Regression Testing in Agile Techniques for Modern Development](posts/2025/2025-12-03-advanced-regression-testing-in-agile-techniques-for-modern-development.md) - Dec 3, 2025
 - [Advanced Backward Compatibility Testing Techniques for Modern Development](posts/2025/2025-12-03-advanced-backward-compatibility-testing-techniques-for-modern-development.md) - Dec 3, 2025
 - [Backward Compatibility Testing: Best Practices and Real-World Examples](posts/2025/2025-12-03-backward-compatibility-testing-best-practices-and-real-world-examples.md) - Dec 3, 2025
 - [Mastering Unit Testing Best Practices in 2025: Expert Tips and Strategies](posts/2025/2025-12-02-mastering-unit-testing-best-practices-in-2025-expert-tips-and-strategies.md) - Dec 2, 2025
 - [Mastering Selenium vs Playwright vs Cypress: Expert Tips and Strategies](posts/2025/2025-12-02-mastering-selenium-vs-playwright-vs-cypress-expert-tips-and-strategies.md) - Dec 2, 2025
-- [How to Implement Unit Testing Best Practices in 2025 Successfully](posts/2025/2025-12-02-how-to-implement-unit-testing-best-practices-in-2025-successfully.md) - Dec 2, 2025
-- ...and 282 more
+- ...and 283 more
 
 ### Community (33 posts)
 
