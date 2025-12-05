@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (37 posts)
+
+- [Automated Accessibility Testing: Best Practices and Real-World Examples](posts/2025/2025-12-05-automated-accessibility-testing-best-practices-and-real-world-examples.md) - Dec 5, 2025
+- [Advanced Automated Accessibility Testing Techniques for Modern Development](posts/2025/2025-12-05-advanced-automated-accessibility-testing-techniques-for-modern-development.md) - Dec 5, 2025
+- [Advanced Exploratory Testing Techniques Techniques for Modern Development](posts/2025/2025-12-04-advanced-exploratory-testing-techniques-techniques-for-modern-development.md) - Dec 4, 2025
+- [The Ultimate Guide to Manual vs Automated Testing Balance](posts/2025/2025-12-04-the-ultimate-guide-to-manual-vs-automated-testing-balance.md) - Dec 4, 2025
+- [How to Implement Usability Testing Methods Successfully](posts/2025/2025-12-01-how-to-implement-usability-testing-methods-successfully.md) - Dec 1, 2025
+- ...and 32 more
+
 ### Engineering (298 posts)
 
 - [Release Sanity Testing: A Comprehensive Guide for 2025](posts/2025/2025-12-05-release-sanity-testing-a-comprehensive-guide-for-2025.md) - Dec 5, 2025
@@ -12,15 +21,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [E2E Testing Frameworks Comparison: Best Practices and Real-World Examples](posts/2025/2025-12-04-e2e-testing-frameworks-comparison-best-practices-and-real-world-examples.md) - Dec 4, 2025
 - [Why API Test Automation Strategies Matters More Than Ever in 2025](posts/2025/2025-12-04-why-api-test-automation-strategies-matters-more-than-ever-in-2025.md) - Dec 4, 2025
 - ...and 293 more
-
-### Community (36 posts)
-
-- [Advanced Automated Accessibility Testing Techniques for Modern Development](posts/2025/2025-12-05-advanced-automated-accessibility-testing-techniques-for-modern-development.md) - Dec 5, 2025
-- [Advanced Exploratory Testing Techniques Techniques for Modern Development](posts/2025/2025-12-04-advanced-exploratory-testing-techniques-techniques-for-modern-development.md) - Dec 4, 2025
-- [The Ultimate Guide to Manual vs Automated Testing Balance](posts/2025/2025-12-04-the-ultimate-guide-to-manual-vs-automated-testing-balance.md) - Dec 4, 2025
-- [How to Implement Usability Testing Methods Successfully](posts/2025/2025-12-01-how-to-implement-usability-testing-methods-successfully.md) - Dec 1, 2025
-- [Mastering WCAG 2.1 Compliance Testing: Expert Tips and Strategies](posts/2025/2025-11-30-mastering-wcag-21-compliance-testing-expert-tips-and-strategies.md) - Nov 30, 2025
-- ...and 31 more
 
 ### Security (12 posts)
 
