@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (301 posts)
+### Engineering (302 posts)
 
+- [E2E Testing Frameworks Comparison Explained: Everything You Need to Know](posts/2025/2025-12-06-e2e-testing-frameworks-comparison-explained-everything-you-need-to-know.md) - Dec 6, 2025
 - [Why Regression Testing in Agile Matters More Than Ever in 2025](posts/2025/2025-12-06-why-regression-testing-in-agile-matters-more-than-ever-in-2025.md) - Dec 6, 2025
 - [The Ultimate Guide to Sanity Testing Automation](posts/2025/2025-12-05-the-ultimate-guide-to-sanity-testing-automation.md) - Dec 5, 2025
 - [Advanced Automated Regression Testing Techniques for Modern Development](posts/2025/2025-12-05-advanced-automated-regression-testing-techniques-for-modern-development.md) - Dec 5, 2025
 - [Release Sanity Testing: A Comprehensive Guide for 2025](posts/2025/2025-12-05-release-sanity-testing-a-comprehensive-guide-for-2025.md) - Dec 5, 2025
-- [Automated Regression Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-12-04-automated-regression-testing-common-pitfalls-and-how-to-avoid-them.md) - Dec 4, 2025
-- ...and 296 more
+- ...and 297 more
 
 ### Community (37 posts)
 
