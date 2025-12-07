@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (40 posts)
+
+- [Accessibility Testing Tools Explained: Everything You Need to Know](posts/2025/2025-12-07-accessibility-testing-tools-explained-everything-you-need-to-know.md) - Dec 7, 2025
+- [Manual vs Automated Testing Balance: Tools, Tips, and Industry Insights](posts/2025/2025-12-07-manual-vs-automated-testing-balance-tools-tips-and-industry-insights.md) - Dec 7, 2025
+- [Mastering Exploratory Testing Techniques: Expert Tips and Strategies](posts/2025/2025-12-06-mastering-exploratory-testing-techniques-expert-tips-and-strategies.md) - Dec 6, 2025
+- [Automated Accessibility Testing: Best Practices and Real-World Examples](posts/2025/2025-12-05-automated-accessibility-testing-best-practices-and-real-world-examples.md) - Dec 5, 2025
+- [Advanced Automated Accessibility Testing Techniques for Modern Development](posts/2025/2025-12-05-advanced-automated-accessibility-testing-techniques-for-modern-development.md) - Dec 5, 2025
+- ...and 35 more
+
 ### Engineering (306 posts)
 
 - [Mastering Continuous Testing Implementation: Expert Tips and Strategies](posts/2025/2025-12-07-mastering-continuous-testing-implementation-expert-tips-and-strategies.md) - Dec 7, 2025
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [E2E Testing Frameworks Comparison Explained: Everything You Need to Know](posts/2025/2025-12-06-e2e-testing-frameworks-comparison-explained-everything-you-need-to-know.md) - Dec 6, 2025
 - ...and 301 more
 
-### Community (39 posts)
-
-- [Manual vs Automated Testing Balance: Tools, Tips, and Industry Insights](posts/2025/2025-12-07-manual-vs-automated-testing-balance-tools-tips-and-industry-insights.md) - Dec 7, 2025
-- [Mastering Exploratory Testing Techniques: Expert Tips and Strategies](posts/2025/2025-12-06-mastering-exploratory-testing-techniques-expert-tips-and-strategies.md) - Dec 6, 2025
-- [Automated Accessibility Testing: Best Practices and Real-World Examples](posts/2025/2025-12-05-automated-accessibility-testing-best-practices-and-real-world-examples.md) - Dec 5, 2025
-- [Advanced Automated Accessibility Testing Techniques for Modern Development](posts/2025/2025-12-05-advanced-automated-accessibility-testing-techniques-for-modern-development.md) - Dec 5, 2025
-- [Advanced Exploratory Testing Techniques Techniques for Modern Development](posts/2025/2025-12-04-advanced-exploratory-testing-techniques-techniques-for-modern-development.md) - Dec 4, 2025
-- ...and 34 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
 - [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
-- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
 - [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
+- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
+- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
