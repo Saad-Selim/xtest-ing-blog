@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (42 posts)
+
+- [Mastering Usability Testing Methods: Expert Tips and Strategies](posts/2025/2025-12-08-mastering-usability-testing-methods-expert-tips-and-strategies.md) - Dec 8, 2025
+- [Advanced User Acceptance Testing Guide Techniques for Modern Development](posts/2025/2025-12-08-advanced-user-acceptance-testing-guide-techniques-for-modern-development.md) - Dec 8, 2025
+- [Accessibility Testing Tools Explained: Everything You Need to Know](posts/2025/2025-12-07-accessibility-testing-tools-explained-everything-you-need-to-know.md) - Dec 7, 2025
+- [Manual vs Automated Testing Balance: Tools, Tips, and Industry Insights](posts/2025/2025-12-07-manual-vs-automated-testing-balance-tools-tips-and-industry-insights.md) - Dec 7, 2025
+- [Mastering Exploratory Testing Techniques: Expert Tips and Strategies](posts/2025/2025-12-06-mastering-exploratory-testing-techniques-expert-tips-and-strategies.md) - Dec 6, 2025
+- ...and 37 more
+
 ### Engineering (307 posts)
 
 - [Why Release Sanity Testing Matters More Than Ever in 2025](posts/2025/2025-12-08-why-release-sanity-testing-matters-more-than-ever-in-2025.md) - Dec 8, 2025
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Advanced Test Automation ROI Calculation Techniques for Modern Development](posts/2025/2025-12-06-advanced-test-automation-roi-calculation-techniques-for-modern-development.md) - Dec 6, 2025
 - ...and 302 more
 
-### Community (41 posts)
-
-- [Advanced User Acceptance Testing Guide Techniques for Modern Development](posts/2025/2025-12-08-advanced-user-acceptance-testing-guide-techniques-for-modern-development.md) - Dec 8, 2025
-- [Accessibility Testing Tools Explained: Everything You Need to Know](posts/2025/2025-12-07-accessibility-testing-tools-explained-everything-you-need-to-know.md) - Dec 7, 2025
-- [Manual vs Automated Testing Balance: Tools, Tips, and Industry Insights](posts/2025/2025-12-07-manual-vs-automated-testing-balance-tools-tips-and-industry-insights.md) - Dec 7, 2025
-- [Mastering Exploratory Testing Techniques: Expert Tips and Strategies](posts/2025/2025-12-06-mastering-exploratory-testing-techniques-expert-tips-and-strategies.md) - Dec 6, 2025
-- [Automated Accessibility Testing: Best Practices and Real-World Examples](posts/2025/2025-12-05-automated-accessibility-testing-best-practices-and-real-world-examples.md) - Dec 5, 2025
-- ...and 36 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
-- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
-- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
-- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
+- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
+- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
+- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
