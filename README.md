@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Community (40 posts)
+### Community (41 posts)
 
+- [Advanced User Acceptance Testing Guide Techniques for Modern Development](posts/2025/2025-12-08-advanced-user-acceptance-testing-guide-techniques-for-modern-development.md) - Dec 8, 2025
 - [Accessibility Testing Tools Explained: Everything You Need to Know](posts/2025/2025-12-07-accessibility-testing-tools-explained-everything-you-need-to-know.md) - Dec 7, 2025
 - [Manual vs Automated Testing Balance: Tools, Tips, and Industry Insights](posts/2025/2025-12-07-manual-vs-automated-testing-balance-tools-tips-and-industry-insights.md) - Dec 7, 2025
 - [Mastering Exploratory Testing Techniques: Expert Tips and Strategies](posts/2025/2025-12-06-mastering-exploratory-testing-techniques-expert-tips-and-strategies.md) - Dec 6, 2025
 - [Automated Accessibility Testing: Best Practices and Real-World Examples](posts/2025/2025-12-05-automated-accessibility-testing-best-practices-and-real-world-examples.md) - Dec 5, 2025
-- [Advanced Automated Accessibility Testing Techniques for Modern Development](posts/2025/2025-12-05-advanced-automated-accessibility-testing-techniques-for-modern-development.md) - Dec 5, 2025
-- ...and 35 more
+- ...and 36 more
 
 ### Engineering (306 posts)
 
