@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (43 posts)
+
+- [Mastering Screen Reader Testing Guide: Expert Tips and Strategies](posts/2025/2025-12-09-mastering-screen-reader-testing-guide-expert-tips-and-strategies.md) - Dec 9, 2025
+- [Mastering Usability Testing Methods: Expert Tips and Strategies](posts/2025/2025-12-08-mastering-usability-testing-methods-expert-tips-and-strategies.md) - Dec 8, 2025
+- [Advanced User Acceptance Testing Guide Techniques for Modern Development](posts/2025/2025-12-08-advanced-user-acceptance-testing-guide-techniques-for-modern-development.md) - Dec 8, 2025
+- [Accessibility Testing Tools Explained: Everything You Need to Know](posts/2025/2025-12-07-accessibility-testing-tools-explained-everything-you-need-to-know.md) - Dec 7, 2025
+- [Manual vs Automated Testing Balance: Tools, Tips, and Industry Insights](posts/2025/2025-12-07-manual-vs-automated-testing-balance-tools-tips-and-industry-insights.md) - Dec 7, 2025
+- ...and 38 more
+
 ### Engineering (312 posts)
 
 - [Regression Testing Metrics: Best Practices and Real-World Examples](posts/2025/2025-12-09-regression-testing-metrics-best-practices-and-real-world-examples.md) - Dec 9, 2025
@@ -12,15 +21,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Load Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-12-08-load-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Dec 8, 2025
 - [How to Implement Selenium vs Playwright vs Cypress Successfully](posts/2025/2025-12-08-how-to-implement-selenium-vs-playwright-vs-cypress-successfully.md) - Dec 8, 2025
 - ...and 307 more
-
-### Community (42 posts)
-
-- [Mastering Usability Testing Methods: Expert Tips and Strategies](posts/2025/2025-12-08-mastering-usability-testing-methods-expert-tips-and-strategies.md) - Dec 8, 2025
-- [Advanced User Acceptance Testing Guide Techniques for Modern Development](posts/2025/2025-12-08-advanced-user-acceptance-testing-guide-techniques-for-modern-development.md) - Dec 8, 2025
-- [Accessibility Testing Tools Explained: Everything You Need to Know](posts/2025/2025-12-07-accessibility-testing-tools-explained-everything-you-need-to-know.md) - Dec 7, 2025
-- [Manual vs Automated Testing Balance: Tools, Tips, and Industry Insights](posts/2025/2025-12-07-manual-vs-automated-testing-balance-tools-tips-and-industry-insights.md) - Dec 7, 2025
-- [Mastering Exploratory Testing Techniques: Expert Tips and Strategies](posts/2025/2025-12-06-mastering-exploratory-testing-techniques-expert-tips-and-strategies.md) - Dec 6, 2025
-- ...and 37 more
 
 ### Security (12 posts)
 
