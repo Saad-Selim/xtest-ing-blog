@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (310 posts)
+### Engineering (311 posts)
 
+- [Integration Testing in Cloud Environments: Tools, Tips, and Industry Insights](posts/2025/2025-12-09-integration-testing-in-cloud-environments-tools-tips-and-industry-insights.md) - Dec 9, 2025
 - [Microservices Integration Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-12-08-microservices-integration-testing-common-pitfalls-and-how-to-avoid-them.md) - Dec 8, 2025
 - [Load Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-12-08-load-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Dec 8, 2025
 - [How to Implement Selenium vs Playwright vs Cypress Successfully](posts/2025/2025-12-08-how-to-implement-selenium-vs-playwright-vs-cypress-successfully.md) - Dec 8, 2025
 - [Why Release Sanity Testing Matters More Than Ever in 2025](posts/2025/2025-12-08-why-release-sanity-testing-matters-more-than-ever-in-2025.md) - Dec 8, 2025
-- [Mastering Continuous Testing Implementation: Expert Tips and Strategies](posts/2025/2025-12-07-mastering-continuous-testing-implementation-expert-tips-and-strategies.md) - Dec 7, 2025
-- ...and 305 more
+- ...and 306 more
 
 ### Community (42 posts)
 
