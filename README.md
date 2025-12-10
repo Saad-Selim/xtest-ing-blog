@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (316 posts)
+### Engineering (317 posts)
 
+- [Mastering Regression Testing in Agile: Expert Tips and Strategies](posts/2025/2025-12-10-mastering-regression-testing-in-agile-expert-tips-and-strategies.md) - Dec 10, 2025
 - [Why Unit Testing Anti-Patterns to Avoid Matters More Than Ever in 2025](posts/2025/2025-12-10-why-unit-testing-anti-patterns-to-avoid-matters-more-than-ever-in-2025.md) - Dec 10, 2025
 - [Load Testing Best Practices: Best Practices and Real-World Examples](posts/2025/2025-12-10-load-testing-best-practices-best-practices-and-real-world-examples.md) - Dec 10, 2025
 - [Advanced Stress Testing Strategies Techniques for Modern Development](posts/2025/2025-12-10-advanced-stress-testing-strategies-techniques-for-modern-development.md) - Dec 10, 2025
 - [Smoke Testing vs Sanity Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-12-09-smoke-testing-vs-sanity-testing-common-pitfalls-and-how-to-avoid-them.md) - Dec 9, 2025
-- [Regression Testing Metrics: Best Practices and Real-World Examples](posts/2025/2025-12-09-regression-testing-metrics-best-practices-and-real-world-examples.md) - Dec 9, 2025
-- ...and 311 more
+- ...and 312 more
 
 ### Community (43 posts)
 
