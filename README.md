@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (45 posts)
+
+- [Screen Reader Testing Guide: Tools, Tips, and Industry Insights](posts/2025/2025-12-12-screen-reader-testing-guide-tools-tips-and-industry-insights.md) - Dec 12, 2025
+- [How to Implement Manual vs Automated Testing Balance Successfully](posts/2025/2025-12-11-how-to-implement-manual-vs-automated-testing-balance-successfully.md) - Dec 11, 2025
+- [Mastering Screen Reader Testing Guide: Expert Tips and Strategies](posts/2025/2025-12-09-mastering-screen-reader-testing-guide-expert-tips-and-strategies.md) - Dec 9, 2025
+- [Mastering Usability Testing Methods: Expert Tips and Strategies](posts/2025/2025-12-08-mastering-usability-testing-methods-expert-tips-and-strategies.md) - Dec 8, 2025
+- [Advanced User Acceptance Testing Guide Techniques for Modern Development](posts/2025/2025-12-08-advanced-user-acceptance-testing-guide-techniques-for-modern-development.md) - Dec 8, 2025
+- ...and 40 more
+
 ### Engineering (320 posts)
 
 - [The Ultimate Guide to Build Verification Testing](posts/2025/2025-12-11-the-ultimate-guide-to-build-verification-testing.md) - Dec 11, 2025
@@ -12,15 +21,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Mastering Regression Testing in Agile: Expert Tips and Strategies](posts/2025/2025-12-10-mastering-regression-testing-in-agile-expert-tips-and-strategies.md) - Dec 10, 2025
 - [Why Unit Testing Anti-Patterns to Avoid Matters More Than Ever in 2025](posts/2025/2025-12-10-why-unit-testing-anti-patterns-to-avoid-matters-more-than-ever-in-2025.md) - Dec 10, 2025
 - ...and 315 more
-
-### Community (44 posts)
-
-- [How to Implement Manual vs Automated Testing Balance Successfully](posts/2025/2025-12-11-how-to-implement-manual-vs-automated-testing-balance-successfully.md) - Dec 11, 2025
-- [Mastering Screen Reader Testing Guide: Expert Tips and Strategies](posts/2025/2025-12-09-mastering-screen-reader-testing-guide-expert-tips-and-strategies.md) - Dec 9, 2025
-- [Mastering Usability Testing Methods: Expert Tips and Strategies](posts/2025/2025-12-08-mastering-usability-testing-methods-expert-tips-and-strategies.md) - Dec 8, 2025
-- [Advanced User Acceptance Testing Guide Techniques for Modern Development](posts/2025/2025-12-08-advanced-user-acceptance-testing-guide-techniques-for-modern-development.md) - Dec 8, 2025
-- [Accessibility Testing Tools Explained: Everything You Need to Know](posts/2025/2025-12-07-accessibility-testing-tools-explained-everything-you-need-to-know.md) - Dec 7, 2025
-- ...and 39 more
 
 ### Security (12 posts)
 
