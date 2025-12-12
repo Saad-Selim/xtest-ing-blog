@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (322 posts)
+### Engineering (323 posts)
 
+- [Test Automation ROI Calculation: Tools, Tips, and Industry Insights](posts/2025/2025-12-12-test-automation-roi-calculation-tools-tips-and-industry-insights.md) - Dec 12, 2025
 - [Unit Testing in Microservices Explained: Everything You Need to Know](posts/2025/2025-12-12-unit-testing-in-microservices-explained-everything-you-need-to-know.md) - Dec 12, 2025
 - [Selenium vs Playwright vs Cypress: Common Pitfalls and How to Avoid Them](posts/2025/2025-12-12-selenium-vs-playwright-vs-cypress-common-pitfalls-and-how-to-avoid-them.md) - Dec 12, 2025
 - [The Ultimate Guide to Build Verification Testing](posts/2025/2025-12-11-the-ultimate-guide-to-build-verification-testing.md) - Dec 11, 2025
 - [How to Implement Visual Regression Testing Successfully](posts/2025/2025-12-11-how-to-implement-visual-regression-testing-successfully.md) - Dec 11, 2025
-- [Integration Testing in Cloud Environments: Common Pitfalls and How to Avoid Them](posts/2025/2025-12-11-integration-testing-in-cloud-environments-common-pitfalls-and-how-to-avoid-them.md) - Dec 11, 2025
-- ...and 317 more
+- ...and 318 more
 
 ### Community (45 posts)
 
