@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Community (49 posts)
+### Community (50 posts)
 
+- [Manual vs Automated Testing Balance: A Comprehensive Guide for 2025](posts/2025/2025-12-14-manual-vs-automated-testing-balance-a-comprehensive-guide-for-2025.md) - Dec 14, 2025
 - [Why Automated Accessibility Testing Matters More Than Ever in 2025](posts/2025/2025-12-14-why-automated-accessibility-testing-matters-more-than-ever-in-2025.md) - Dec 14, 2025
 - [The Ultimate Guide to Bug Reporting Best Practices](posts/2025/2025-12-13-the-ultimate-guide-to-bug-reporting-best-practices.md) - Dec 13, 2025
 - [Bug Reporting Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-12-13-bug-reporting-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Dec 13, 2025
 - [WCAG 2.1 Compliance Testing: Best Practices and Real-World Examples](posts/2025/2025-12-12-wcag-21-compliance-testing-best-practices-and-real-world-examples.md) - Dec 12, 2025
-- [Screen Reader Testing Guide: Tools, Tips, and Industry Insights](posts/2025/2025-12-12-screen-reader-testing-guide-tools-tips-and-industry-insights.md) - Dec 12, 2025
-- ...and 44 more
+- ...and 45 more
 
 ### Engineering (325 posts)
 
