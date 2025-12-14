@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (326 posts)
+
+- [Unit Testing in Microservices: Common Pitfalls and How to Avoid Them](posts/2025/2025-12-14-unit-testing-in-microservices-common-pitfalls-and-how-to-avoid-them.md) - Dec 14, 2025
+- [Advanced Mobile Test Automation with Appium Techniques for Modern Development](posts/2025/2025-12-14-advanced-mobile-test-automation-with-appium-techniques-for-modern-development.md) - Dec 14, 2025
+- [The Ultimate Guide to Backward Compatibility Testing](posts/2025/2025-12-12-the-ultimate-guide-to-backward-compatibility-testing.md) - Dec 12, 2025
+- [Test Automation ROI Calculation: Tools, Tips, and Industry Insights](posts/2025/2025-12-12-test-automation-roi-calculation-tools-tips-and-industry-insights.md) - Dec 12, 2025
+- [Unit Testing in Microservices Explained: Everything You Need to Know](posts/2025/2025-12-12-unit-testing-in-microservices-explained-everything-you-need-to-know.md) - Dec 12, 2025
+- ...and 321 more
+
 ### Community (50 posts)
 
 - [Manual vs Automated Testing Balance: A Comprehensive Guide for 2025](posts/2025/2025-12-14-manual-vs-automated-testing-balance-a-comprehensive-guide-for-2025.md) - Dec 14, 2025
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [WCAG 2.1 Compliance Testing: Best Practices and Real-World Examples](posts/2025/2025-12-12-wcag-21-compliance-testing-best-practices-and-real-world-examples.md) - Dec 12, 2025
 - ...and 45 more
 
-### Engineering (325 posts)
-
-- [Advanced Mobile Test Automation with Appium Techniques for Modern Development](posts/2025/2025-12-14-advanced-mobile-test-automation-with-appium-techniques-for-modern-development.md) - Dec 14, 2025
-- [The Ultimate Guide to Backward Compatibility Testing](posts/2025/2025-12-12-the-ultimate-guide-to-backward-compatibility-testing.md) - Dec 12, 2025
-- [Test Automation ROI Calculation: Tools, Tips, and Industry Insights](posts/2025/2025-12-12-test-automation-roi-calculation-tools-tips-and-industry-insights.md) - Dec 12, 2025
-- [Unit Testing in Microservices Explained: Everything You Need to Know](posts/2025/2025-12-12-unit-testing-in-microservices-explained-everything-you-need-to-know.md) - Dec 12, 2025
-- [Selenium vs Playwright vs Cypress: Common Pitfalls and How to Avoid Them](posts/2025/2025-12-12-selenium-vs-playwright-vs-cypress-common-pitfalls-and-how-to-avoid-them.md) - Dec 12, 2025
-- ...and 320 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
-- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
-- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
+- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
