@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (328 posts)
+### Engineering (329 posts)
 
+- [Mastering Smoke Testing in CI/CD: Expert Tips and Strategies](posts/2025/2025-12-16-mastering-smoke-testing-in-cicd-expert-tips-and-strategies.md) - Dec 16, 2025
 - [Unit Testing Anti-Patterns to Avoid Explained: Everything You Need to Know](posts/2025/2025-12-15-unit-testing-anti-patterns-to-avoid-explained-everything-you-need-to-know.md) - Dec 15, 2025
 - [Why Risk-Based Regression Testing Matters More Than Ever in 2025](posts/2025/2025-12-15-why-risk-based-regression-testing-matters-more-than-ever-in-2025.md) - Dec 15, 2025
 - [Unit Testing in Microservices: Common Pitfalls and How to Avoid Them](posts/2025/2025-12-14-unit-testing-in-microservices-common-pitfalls-and-how-to-avoid-them.md) - Dec 14, 2025
 - [Advanced Mobile Test Automation with Appium Techniques for Modern Development](posts/2025/2025-12-14-advanced-mobile-test-automation-with-appium-techniques-for-modern-development.md) - Dec 14, 2025
-- [The Ultimate Guide to Backward Compatibility Testing](posts/2025/2025-12-12-the-ultimate-guide-to-backward-compatibility-testing.md) - Dec 12, 2025
-- ...and 323 more
+- ...and 324 more
 
 ### Community (51 posts)
 
