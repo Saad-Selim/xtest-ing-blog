@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (333 posts)
+### Engineering (334 posts)
 
+- [JMeter vs Gatling vs K6 Explained: Everything You Need to Know](posts/2025/2025-12-17-jmeter-vs-gatling-vs-k6-explained-everything-you-need-to-know.md) - Dec 17, 2025
 - [Advanced API Version Compatibility Techniques for Modern Development](posts/2025/2025-12-17-advanced-api-version-compatibility-techniques-for-modern-development.md) - Dec 17, 2025
 - [Automated Smoke Test Suites: A Comprehensive Guide for 2025](posts/2025/2025-12-17-automated-smoke-test-suites-a-comprehensive-guide-for-2025.md) - Dec 17, 2025
 - [How to Implement Visual Regression Testing Tools Successfully](posts/2025/2025-12-16-how-to-implement-visual-regression-testing-tools-successfully.md) - Dec 16, 2025
 - [Test-Driven Development (TDD) Guide: A Comprehensive Guide for 2025](posts/2025/2025-12-16-test-driven-development-tdd-guide-a-comprehensive-guide-for-2025.md) - Dec 16, 2025
-- [Mastering Smoke Testing in CI/CD: Expert Tips and Strategies](posts/2025/2025-12-16-mastering-smoke-testing-in-cicd-expert-tips-and-strategies.md) - Dec 16, 2025
-- ...and 328 more
+- ...and 329 more
 
 ### Community (55 posts)
 
