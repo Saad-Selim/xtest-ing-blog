@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (337 posts)
+### Engineering (338 posts)
 
+- [The Ultimate Guide to Cross-Browser Compatibility Testing](posts/2025/2025-12-18-the-ultimate-guide-to-cross-browser-compatibility-testing.md) - Dec 18, 2025
 - [The Ultimate Guide to Automated Smoke Test Suites](posts/2025/2025-12-18-the-ultimate-guide-to-automated-smoke-test-suites.md) - Dec 18, 2025
 - [Mock vs Stub vs Spy: When to Use What: Tools, Tips, and Industry Insights](posts/2025/2025-12-18-mock-vs-stub-vs-spy-when-to-use-what-tools-tips-and-industry-insights.md) - Dec 18, 2025
 - [Unit Testing Anti-Patterns to Avoid: Best Practices and Real-World Examples](posts/2025/2025-12-17-unit-testing-anti-patterns-to-avoid-best-practices-and-real-world-examples.md) - Dec 17, 2025
 - [JMeter vs Gatling vs K6 Explained: Everything You Need to Know](posts/2025/2025-12-17-jmeter-vs-gatling-vs-k6-explained-everything-you-need-to-know.md) - Dec 17, 2025
-- [Advanced API Version Compatibility Techniques for Modern Development](posts/2025/2025-12-17-advanced-api-version-compatibility-techniques-for-modern-development.md) - Dec 17, 2025
-- ...and 332 more
+- ...and 333 more
 
 ### Community (55 posts)
 
