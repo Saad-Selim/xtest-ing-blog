@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (347 posts)
+
+- [Unit Testing in Microservices: A Comprehensive Guide for 2025](posts/2025/2025-12-21-unit-testing-in-microservices-a-comprehensive-guide-for-2025.md) - Dec 21, 2025
+- [The Ultimate Guide to Stress Testing Strategies](posts/2025/2025-12-20-the-ultimate-guide-to-stress-testing-strategies.md) - Dec 20, 2025
+- [The Ultimate Guide to Contract Testing with Pact](posts/2025/2025-12-20-the-ultimate-guide-to-contract-testing-with-pact.md) - Dec 20, 2025
+- [Performance Testing in CI/CD: Tools, Tips, and Industry Insights](posts/2025/2025-12-20-performance-testing-in-cicd-tools-tips-and-industry-insights.md) - Dec 20, 2025
+- [Why Stress Testing Strategies Matters More Than Ever in 2025](posts/2025/2025-12-20-why-stress-testing-strategies-matters-more-than-ever-in-2025.md) - Dec 20, 2025
+- ...and 342 more
+
 ### Community (60 posts)
 
 - [Mastering Accessibility Testing Tools: Expert Tips and Strategies](posts/2025/2025-12-21-mastering-accessibility-testing-tools-expert-tips-and-strategies.md) - Dec 21, 2025
@@ -12,15 +21,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Keyboard Navigation Testing: Tools, Tips, and Industry Insights](posts/2025/2025-12-19-keyboard-navigation-testing-tools-tips-and-industry-insights.md) - Dec 19, 2025
 - [Exploratory Testing Techniques: A Comprehensive Guide for 2025](posts/2025/2025-12-18-exploratory-testing-techniques-a-comprehensive-guide-for-2025.md) - Dec 18, 2025
 - ...and 55 more
-
-### Engineering (346 posts)
-
-- [The Ultimate Guide to Stress Testing Strategies](posts/2025/2025-12-20-the-ultimate-guide-to-stress-testing-strategies.md) - Dec 20, 2025
-- [The Ultimate Guide to Contract Testing with Pact](posts/2025/2025-12-20-the-ultimate-guide-to-contract-testing-with-pact.md) - Dec 20, 2025
-- [Performance Testing in CI/CD: Tools, Tips, and Industry Insights](posts/2025/2025-12-20-performance-testing-in-cicd-tools-tips-and-industry-insights.md) - Dec 20, 2025
-- [Why Stress Testing Strategies Matters More Than Ever in 2025](posts/2025/2025-12-20-why-stress-testing-strategies-matters-more-than-ever-in-2025.md) - Dec 20, 2025
-- [Regression Test Suite Optimization: Best Practices and Real-World Examples](posts/2025/2025-12-19-regression-test-suite-optimization-best-practices-and-real-world-examples.md) - Dec 19, 2025
-- ...and 341 more
 
 ### Security (12 posts)
 
