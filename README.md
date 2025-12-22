@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (348 posts)
+### Engineering (349 posts)
 
+- [Automated Smoke Test Suites: Best Practices and Real-World Examples](posts/2025/2025-12-22-automated-smoke-test-suites-best-practices-and-real-world-examples.md) - Dec 22, 2025
 - [Mastering Optimizing E2E Test Suites: Expert Tips and Strategies](posts/2025/2025-12-22-mastering-optimizing-e2e-test-suites-expert-tips-and-strategies.md) - Dec 22, 2025
 - [Unit Testing in Microservices: A Comprehensive Guide for 2025](posts/2025/2025-12-21-unit-testing-in-microservices-a-comprehensive-guide-for-2025.md) - Dec 21, 2025
 - [The Ultimate Guide to Stress Testing Strategies](posts/2025/2025-12-20-the-ultimate-guide-to-stress-testing-strategies.md) - Dec 20, 2025
 - [The Ultimate Guide to Contract Testing with Pact](posts/2025/2025-12-20-the-ultimate-guide-to-contract-testing-with-pact.md) - Dec 20, 2025
-- [Performance Testing in CI/CD: Tools, Tips, and Industry Insights](posts/2025/2025-12-20-performance-testing-in-cicd-tools-tips-and-industry-insights.md) - Dec 20, 2025
-- ...and 343 more
+- ...and 344 more
 
 ### Community (60 posts)
 
