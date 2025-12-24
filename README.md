@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (355 posts)
+### Engineering (356 posts)
 
+- [Advanced E2E Testing Frameworks Comparison Techniques for Modern Development](posts/2025/2025-12-24-advanced-e2e-testing-frameworks-comparison-techniques-for-modern-development.md) - Dec 24, 2025
 - [Mastering E2E Testing Frameworks Comparison: Expert Tips and Strategies](posts/2025/2025-12-24-mastering-e2e-testing-frameworks-comparison-expert-tips-and-strategies.md) - Dec 24, 2025
 - [Cross-Browser E2E Testing: Tools, Tips, and Industry Insights](posts/2025/2025-12-23-cross-browser-e2e-testing-tools-tips-and-industry-insights.md) - Dec 23, 2025
 - [Regression Testing Metrics: A Comprehensive Guide for 2025](posts/2025/2025-12-23-regression-testing-metrics-a-comprehensive-guide-for-2025.md) - Dec 23, 2025
 - [Mastering Production Sanity Testing: Expert Tips and Strategies](posts/2025/2025-12-23-mastering-production-sanity-testing-expert-tips-and-strategies.md) - Dec 23, 2025
-- [OS Compatibility Testing: Best Practices and Real-World Examples](posts/2025/2025-12-23-os-compatibility-testing-best-practices-and-real-world-examples.md) - Dec 23, 2025
-- ...and 350 more
+- ...and 351 more
 
 ### Community (61 posts)
 
