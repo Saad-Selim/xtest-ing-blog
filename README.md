@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (63 posts)
+
+- [The Ultimate Guide to WCAG 2.1 Compliance Testing](posts/2025/2025-12-25-the-ultimate-guide-to-wcag-21-compliance-testing.md) - Dec 25, 2025
+- [WCAG 2.1 Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-12-25-wcag-21-compliance-testing-a-comprehensive-guide-for-2025.md) - Dec 25, 2025
+- [Exploratory Testing Techniques: Tools, Tips, and Industry Insights](posts/2025/2025-12-24-exploratory-testing-techniques-tools-tips-and-industry-insights.md) - Dec 24, 2025
+- [Mastering Accessibility Testing Tools: Expert Tips and Strategies](posts/2025/2025-12-21-mastering-accessibility-testing-tools-expert-tips-and-strategies.md) - Dec 21, 2025
+- [Advanced Manual vs Automated Testing Balance Techniques for Modern Development](posts/2025/2025-12-21-advanced-manual-vs-automated-testing-balance-techniques-for-modern-development.md) - Dec 21, 2025
+- ...and 58 more
+
 ### Engineering (362 posts)
 
 - [How to Implement Test-Driven Development (TDD) Guide Successfully](posts/2025/2025-12-25-how-to-implement-test-driven-development-tdd-guide-successfully.md) - Dec 25, 2025
@@ -12,15 +21,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Mobile Test Automation with Appium Explained: Everything You Need to Know](posts/2025/2025-12-25-mobile-test-automation-with-appium-explained-everything-you-need-to-know.md) - Dec 25, 2025
 - [Smoke Testing Best Practices: Best Practices and Real-World Examples](posts/2025/2025-12-24-smoke-testing-best-practices-best-practices-and-real-world-examples.md) - Dec 24, 2025
 - ...and 357 more
-
-### Community (62 posts)
-
-- [WCAG 2.1 Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-12-25-wcag-21-compliance-testing-a-comprehensive-guide-for-2025.md) - Dec 25, 2025
-- [Exploratory Testing Techniques: Tools, Tips, and Industry Insights](posts/2025/2025-12-24-exploratory-testing-techniques-tools-tips-and-industry-insights.md) - Dec 24, 2025
-- [Mastering Accessibility Testing Tools: Expert Tips and Strategies](posts/2025/2025-12-21-mastering-accessibility-testing-tools-expert-tips-and-strategies.md) - Dec 21, 2025
-- [Advanced Manual vs Automated Testing Balance Techniques for Modern Development](posts/2025/2025-12-21-advanced-manual-vs-automated-testing-balance-techniques-for-modern-development.md) - Dec 21, 2025
-- [Mastering Color Contrast Testing: Expert Tips and Strategies](posts/2025/2025-12-20-mastering-color-contrast-testing-expert-tips-and-strategies.md) - Dec 20, 2025
-- ...and 57 more
 
 ### Security (12 posts)
 
