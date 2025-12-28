@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (64 posts)
+
+- [How to Implement Manual Testing in Agile Teams Successfully](posts/2025/2025-12-28-how-to-implement-manual-testing-in-agile-teams-successfully.md) - Dec 28, 2025
+- [The Ultimate Guide to WCAG 2.1 Compliance Testing](posts/2025/2025-12-25-the-ultimate-guide-to-wcag-21-compliance-testing.md) - Dec 25, 2025
+- [WCAG 2.1 Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-12-25-wcag-21-compliance-testing-a-comprehensive-guide-for-2025.md) - Dec 25, 2025
+- [Exploratory Testing Techniques: Tools, Tips, and Industry Insights](posts/2025/2025-12-24-exploratory-testing-techniques-tools-tips-and-industry-insights.md) - Dec 24, 2025
+- [Mastering Accessibility Testing Tools: Expert Tips and Strategies](posts/2025/2025-12-21-mastering-accessibility-testing-tools-expert-tips-and-strategies.md) - Dec 21, 2025
+- ...and 59 more
+
 ### Engineering (368 posts)
 
 - [Load Testing Best Practices: Tools, Tips, and Industry Insights](posts/2025/2025-12-27-load-testing-best-practices-tools-tips-and-industry-insights.md) - Dec 27, 2025
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Why Performance Testing in the Cloud Matters More Than Ever in 2025](posts/2025/2025-12-26-why-performance-testing-in-the-cloud-matters-more-than-ever-in-2025.md) - Dec 26, 2025
 - ...and 363 more
 
-### Community (63 posts)
-
-- [The Ultimate Guide to WCAG 2.1 Compliance Testing](posts/2025/2025-12-25-the-ultimate-guide-to-wcag-21-compliance-testing.md) - Dec 25, 2025
-- [WCAG 2.1 Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-12-25-wcag-21-compliance-testing-a-comprehensive-guide-for-2025.md) - Dec 25, 2025
-- [Exploratory Testing Techniques: Tools, Tips, and Industry Insights](posts/2025/2025-12-24-exploratory-testing-techniques-tools-tips-and-industry-insights.md) - Dec 24, 2025
-- [Mastering Accessibility Testing Tools: Expert Tips and Strategies](posts/2025/2025-12-21-mastering-accessibility-testing-tools-expert-tips-and-strategies.md) - Dec 21, 2025
-- [Advanced Manual vs Automated Testing Balance Techniques for Modern Development](posts/2025/2025-12-21-advanced-manual-vs-automated-testing-balance-techniques-for-modern-development.md) - Dec 21, 2025
-- ...and 58 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
-- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
-- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
-- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
+- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
+- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
