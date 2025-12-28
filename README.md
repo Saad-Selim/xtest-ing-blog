@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (369 posts)
+### Engineering (370 posts)
 
+- [Regression Testing in Agile: Best Practices and Real-World Examples](posts/2025/2025-12-28-regression-testing-in-agile-best-practices-and-real-world-examples.md) - Dec 28, 2025
 - [How to Implement Sanity Testing Strategies Successfully](posts/2025/2025-12-28-how-to-implement-sanity-testing-strategies-successfully.md) - Dec 28, 2025
 - [Load Testing Best Practices: Tools, Tips, and Industry Insights](posts/2025/2025-12-27-load-testing-best-practices-tools-tips-and-industry-insights.md) - Dec 27, 2025
 - [Mastering Sanity Testing Automation: Expert Tips and Strategies](posts/2025/2025-12-27-mastering-sanity-testing-automation-expert-tips-and-strategies.md) - Dec 27, 2025
 - [Mastering Mock vs Stub vs Spy: When to Use What: Expert Tips and Strategies](posts/2025/2025-12-26-mastering-mock-vs-stub-vs-spy-when-to-use-what-expert-tips-and-strategies.md) - Dec 26, 2025
-- [API Version Compatibility Explained: Everything You Need to Know](posts/2025/2025-12-26-api-version-compatibility-explained-everything-you-need-to-know.md) - Dec 26, 2025
-- ...and 364 more
+- ...and 365 more
 
 ### Community (65 posts)
 
