@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (385 posts)
+
+- [Visual Regression Testing Tools: A Comprehensive Guide for 2026](posts/2026/2026-01-01-visual-regression-testing-tools-a-comprehensive-guide-for-2026.md) - Jan 1, 2026
+- [Mastering Test Automation ROI Calculation: Expert Tips and Strategies](posts/2026/2026-01-01-mastering-test-automation-roi-calculation-expert-tips-and-strategies.md) - Jan 1, 2026
+- [Smoke Testing vs Sanity Testing Explained: Everything You Need to Know](posts/2026/2026-01-01-smoke-testing-vs-sanity-testing-explained-everything-you-need-to-know.md) - Jan 1, 2026
+- [Why Cross-Browser E2E Testing Matters More Than Ever in 2026](posts/2026/2026-01-01-why-cross-browser-e2e-testing-matters-more-than-ever-in-2026.md) - Jan 1, 2026
+- [How to Implement Backward Compatibility Testing Successfully](posts/2025/2025-12-31-how-to-implement-backward-compatibility-testing-successfully.md) - Dec 31, 2025
+- ...and 380 more
+
 ### Community (68 posts)
 
 - [Advanced Bug Reporting Best Practices Techniques for Modern Development](posts/2026/2026-01-01-advanced-bug-reporting-best-practices-techniques-for-modern-development.md) - Jan 1, 2026
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [How to Implement Manual Testing in Agile Teams Successfully](posts/2025/2025-12-28-how-to-implement-manual-testing-in-agile-teams-successfully.md) - Dec 28, 2025
 - ...and 63 more
 
-### Engineering (384 posts)
-
-- [Mastering Test Automation ROI Calculation: Expert Tips and Strategies](posts/2026/2026-01-01-mastering-test-automation-roi-calculation-expert-tips-and-strategies.md) - Jan 1, 2026
-- [Smoke Testing vs Sanity Testing Explained: Everything You Need to Know](posts/2026/2026-01-01-smoke-testing-vs-sanity-testing-explained-everything-you-need-to-know.md) - Jan 1, 2026
-- [Why Cross-Browser E2E Testing Matters More Than Ever in 2026](posts/2026/2026-01-01-why-cross-browser-e2e-testing-matters-more-than-ever-in-2026.md) - Jan 1, 2026
-- [How to Implement Backward Compatibility Testing Successfully](posts/2025/2025-12-31-how-to-implement-backward-compatibility-testing-successfully.md) - Dec 31, 2025
-- [Database Integration Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-12-31-database-integration-testing-common-pitfalls-and-how-to-avoid-them.md) - Dec 31, 2025
-- ...and 379 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
+- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
 - [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
 - [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
-- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
