@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (383 posts)
+### Engineering (384 posts)
 
+- [Mastering Test Automation ROI Calculation: Expert Tips and Strategies](posts/2026/2026-01-01-mastering-test-automation-roi-calculation-expert-tips-and-strategies.md) - Jan 1, 2026
 - [Smoke Testing vs Sanity Testing Explained: Everything You Need to Know](posts/2026/2026-01-01-smoke-testing-vs-sanity-testing-explained-everything-you-need-to-know.md) - Jan 1, 2026
 - [Why Cross-Browser E2E Testing Matters More Than Ever in 2026](posts/2026/2026-01-01-why-cross-browser-e2e-testing-matters-more-than-ever-in-2026.md) - Jan 1, 2026
 - [How to Implement Backward Compatibility Testing Successfully](posts/2025/2025-12-31-how-to-implement-backward-compatibility-testing-successfully.md) - Dec 31, 2025
 - [Database Integration Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-12-31-database-integration-testing-common-pitfalls-and-how-to-avoid-them.md) - Dec 31, 2025
-- [Mobile Test Automation with Appium: Common Pitfalls and How to Avoid Them](posts/2025/2025-12-31-mobile-test-automation-with-appium-common-pitfalls-and-how-to-avoid-them.md) - Dec 31, 2025
-- ...and 378 more
+- ...and 379 more
 
 ### Community (67 posts)
 
