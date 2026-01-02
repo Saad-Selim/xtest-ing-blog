@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (386 posts)
+### Engineering (387 posts)
 
+- [Smoke Test Case Selection Explained: Everything You Need to Know](posts/2026/2026-01-02-smoke-test-case-selection-explained-everything-you-need-to-know.md) - Jan 2, 2026
 - [Mobile E2E Testing Strategies: A Comprehensive Guide for 2026](posts/2026/2026-01-02-mobile-e2e-testing-strategies-a-comprehensive-guide-for-2026.md) - Jan 2, 2026
 - [Visual Regression Testing Tools: A Comprehensive Guide for 2026](posts/2026/2026-01-01-visual-regression-testing-tools-a-comprehensive-guide-for-2026.md) - Jan 1, 2026
 - [Mastering Test Automation ROI Calculation: Expert Tips and Strategies](posts/2026/2026-01-01-mastering-test-automation-roi-calculation-expert-tips-and-strategies.md) - Jan 1, 2026
 - [Smoke Testing vs Sanity Testing Explained: Everything You Need to Know](posts/2026/2026-01-01-smoke-testing-vs-sanity-testing-explained-everything-you-need-to-know.md) - Jan 1, 2026
-- [Why Cross-Browser E2E Testing Matters More Than Ever in 2026](posts/2026/2026-01-01-why-cross-browser-e2e-testing-matters-more-than-ever-in-2026.md) - Jan 1, 2026
-- ...and 381 more
+- ...and 382 more
 
 ### Community (68 posts)
 
