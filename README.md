@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (395 posts)
+### Engineering (396 posts)
 
+- [Why Test-Driven Development (TDD) Guide Matters More Than Ever in 2026](posts/2026/2026-01-03-why-test-driven-development-tdd-guide-matters-more-than-ever-in-2026.md) - Jan 3, 2026
 - [Database Compatibility Testing: A Comprehensive Guide for 2026](posts/2026/2026-01-03-database-compatibility-testing-a-comprehensive-guide-for-2026.md) - Jan 3, 2026
 - [API Test Automation Strategies: Best Practices and Real-World Examples](posts/2026/2026-01-03-api-test-automation-strategies-best-practices-and-real-world-examples.md) - Jan 3, 2026
 - [The Ultimate Guide to Continuous Testing Implementation](posts/2026/2026-01-03-the-ultimate-guide-to-continuous-testing-implementation.md) - Jan 3, 2026
 - [Automated Smoke Test Suites: Tools, Tips, and Industry Insights](posts/2026/2026-01-03-automated-smoke-test-suites-tools-tips-and-industry-insights.md) - Jan 3, 2026
-- [Why Quick Sanity Checks Matters More Than Ever in 2026](posts/2026/2026-01-03-why-quick-sanity-checks-matters-more-than-ever-in-2026.md) - Jan 3, 2026
-- ...and 390 more
+- ...and 391 more
 
 ### Community (68 posts)
 
