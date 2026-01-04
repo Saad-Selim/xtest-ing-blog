@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (398 posts)
+### Engineering (399 posts)
 
+- [Service Virtualization for Testing: Tools, Tips, and Industry Insights](posts/2026/2026-01-04-service-virtualization-for-testing-tools-tips-and-industry-insights.md) - Jan 4, 2026
 - [Advanced Contract Testing with Pact Techniques for Modern Development](posts/2026/2026-01-04-advanced-contract-testing-with-pact-techniques-for-modern-development.md) - Jan 4, 2026
 - [Advanced Unit Testing in Microservices Techniques for Modern Development](posts/2026/2026-01-04-advanced-unit-testing-in-microservices-techniques-for-modern-development.md) - Jan 4, 2026
 - [Why Test-Driven Development (TDD) Guide Matters More Than Ever in 2026](posts/2026/2026-01-03-why-test-driven-development-tdd-guide-matters-more-than-ever-in-2026.md) - Jan 3, 2026
 - [Database Compatibility Testing: A Comprehensive Guide for 2026](posts/2026/2026-01-03-database-compatibility-testing-a-comprehensive-guide-for-2026.md) - Jan 3, 2026
-- [API Test Automation Strategies: Best Practices and Real-World Examples](posts/2026/2026-01-03-api-test-automation-strategies-best-practices-and-real-world-examples.md) - Jan 3, 2026
-- ...and 393 more
+- ...and 394 more
 
 ### Community (68 posts)
 
