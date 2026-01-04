@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (401 posts)
+### Engineering (402 posts)
 
+- [Performance Testing in the Cloud: Best Practices and Real-World Examples](posts/2026/2026-01-04-performance-testing-in-the-cloud-best-practices-and-real-world-examples.md) - Jan 4, 2026
 - [Stress Testing Strategies: A Comprehensive Guide for 2026](posts/2026/2026-01-04-stress-testing-strategies-a-comprehensive-guide-for-2026.md) - Jan 4, 2026
 - [Contract Testing with Pact Explained: Everything You Need to Know](posts/2026/2026-01-04-contract-testing-with-pact-explained-everything-you-need-to-know.md) - Jan 4, 2026
 - [Service Virtualization for Testing: Tools, Tips, and Industry Insights](posts/2026/2026-01-04-service-virtualization-for-testing-tools-tips-and-industry-insights.md) - Jan 4, 2026
 - [Advanced Contract Testing with Pact Techniques for Modern Development](posts/2026/2026-01-04-advanced-contract-testing-with-pact-techniques-for-modern-development.md) - Jan 4, 2026
-- [Advanced Unit Testing in Microservices Techniques for Modern Development](posts/2026/2026-01-04-advanced-unit-testing-in-microservices-techniques-for-modern-development.md) - Jan 4, 2026
-- ...and 396 more
+- ...and 397 more
 
 ### Community (68 posts)
 
@@ -25,10 +25,10 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
-- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
+- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
-- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
+- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
