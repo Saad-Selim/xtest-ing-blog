@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (404 posts)
+
+- [The Ultimate Guide to Unit Testing Anti-Patterns to Avoid](posts/2026/2026-01-05-the-ultimate-guide-to-unit-testing-anti-patterns-to-avoid.md) - Jan 5, 2026
+- [How to Implement Optimizing E2E Test Suites Successfully](posts/2026/2026-01-05-how-to-implement-optimizing-e2e-test-suites-successfully.md) - Jan 5, 2026
+- [Performance Testing in the Cloud: Best Practices and Real-World Examples](posts/2026/2026-01-04-performance-testing-in-the-cloud-best-practices-and-real-world-examples.md) - Jan 4, 2026
+- [Stress Testing Strategies: A Comprehensive Guide for 2026](posts/2026/2026-01-04-stress-testing-strategies-a-comprehensive-guide-for-2026.md) - Jan 4, 2026
+- [Contract Testing with Pact Explained: Everything You Need to Know](posts/2026/2026-01-04-contract-testing-with-pact-explained-everything-you-need-to-know.md) - Jan 4, 2026
+- ...and 399 more
+
 ### Community (69 posts)
 
 - [Mastering Bug Reporting Best Practices: Expert Tips and Strategies](posts/2026/2026-01-05-mastering-bug-reporting-best-practices-expert-tips-and-strategies.md) - Jan 5, 2026
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Why Accessibility Testing Tools Matters More Than Ever in 2025](posts/2025/2025-12-28-why-accessibility-testing-tools-matters-more-than-ever-in-2025.md) - Dec 28, 2025
 - ...and 64 more
 
-### Engineering (403 posts)
-
-- [How to Implement Optimizing E2E Test Suites Successfully](posts/2026/2026-01-05-how-to-implement-optimizing-e2e-test-suites-successfully.md) - Jan 5, 2026
-- [Performance Testing in the Cloud: Best Practices and Real-World Examples](posts/2026/2026-01-04-performance-testing-in-the-cloud-best-practices-and-real-world-examples.md) - Jan 4, 2026
-- [Stress Testing Strategies: A Comprehensive Guide for 2026](posts/2026/2026-01-04-stress-testing-strategies-a-comprehensive-guide-for-2026.md) - Jan 4, 2026
-- [Contract Testing with Pact Explained: Everything You Need to Know](posts/2026/2026-01-04-contract-testing-with-pact-explained-everything-you-need-to-know.md) - Jan 4, 2026
-- [Service Virtualization for Testing: Tools, Tips, and Industry Insights](posts/2026/2026-01-04-service-virtualization-for-testing-tools-tips-and-industry-insights.md) - Jan 4, 2026
-- ...and 398 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
-- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
+- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
+- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
 - [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
+- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
