@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (405 posts)
+### Engineering (406 posts)
 
+- [The Ultimate Guide to Smoke Test Case Selection](posts/2026/2026-01-05-the-ultimate-guide-to-smoke-test-case-selection.md) - Jan 5, 2026
 - [Sanity Testing Automation: A Comprehensive Guide for 2026](posts/2026/2026-01-05-sanity-testing-automation-a-comprehensive-guide-for-2026.md) - Jan 5, 2026
 - [The Ultimate Guide to Unit Testing Anti-Patterns to Avoid](posts/2026/2026-01-05-the-ultimate-guide-to-unit-testing-anti-patterns-to-avoid.md) - Jan 5, 2026
 - [How to Implement Optimizing E2E Test Suites Successfully](posts/2026/2026-01-05-how-to-implement-optimizing-e2e-test-suites-successfully.md) - Jan 5, 2026
 - [Performance Testing in the Cloud: Best Practices and Real-World Examples](posts/2026/2026-01-04-performance-testing-in-the-cloud-best-practices-and-real-world-examples.md) - Jan 4, 2026
-- [Stress Testing Strategies: A Comprehensive Guide for 2026](posts/2026/2026-01-04-stress-testing-strategies-a-comprehensive-guide-for-2026.md) - Jan 4, 2026
-- ...and 400 more
+- ...and 401 more
 
 ### Community (69 posts)
 
