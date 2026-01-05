@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (402 posts)
+### Engineering (403 posts)
 
+- [How to Implement Optimizing E2E Test Suites Successfully](posts/2026/2026-01-05-how-to-implement-optimizing-e2e-test-suites-successfully.md) - Jan 5, 2026
 - [Performance Testing in the Cloud: Best Practices and Real-World Examples](posts/2026/2026-01-04-performance-testing-in-the-cloud-best-practices-and-real-world-examples.md) - Jan 4, 2026
 - [Stress Testing Strategies: A Comprehensive Guide for 2026](posts/2026/2026-01-04-stress-testing-strategies-a-comprehensive-guide-for-2026.md) - Jan 4, 2026
 - [Contract Testing with Pact Explained: Everything You Need to Know](posts/2026/2026-01-04-contract-testing-with-pact-explained-everything-you-need-to-know.md) - Jan 4, 2026
 - [Service Virtualization for Testing: Tools, Tips, and Industry Insights](posts/2026/2026-01-04-service-virtualization-for-testing-tools-tips-and-industry-insights.md) - Jan 4, 2026
-- [Advanced Contract Testing with Pact Techniques for Modern Development](posts/2026/2026-01-04-advanced-contract-testing-with-pact-techniques-for-modern-development.md) - Jan 4, 2026
-- ...and 397 more
+- ...and 398 more
 
 ### Community (68 posts)
 
