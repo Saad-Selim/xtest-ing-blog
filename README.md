@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (411 posts)
+
+- [Unit Testing Anti-Patterns to Avoid: Tools, Tips, and Industry Insights](posts/2026/2026-01-06-unit-testing-anti-patterns-to-avoid-tools-tips-and-industry-insights.md) - Jan 6, 2026
+- [OS Compatibility Testing: Tools, Tips, and Industry Insights](posts/2026/2026-01-06-os-compatibility-testing-tools-tips-and-industry-insights.md) - Jan 6, 2026
+- [Unit Testing in Microservices: A Comprehensive Guide for 2026](posts/2026/2026-01-05-unit-testing-in-microservices-a-comprehensive-guide-for-2026.md) - Jan 5, 2026
+- [Why Continuous Testing Implementation Matters More Than Ever in 2026](posts/2026/2026-01-05-why-continuous-testing-implementation-matters-more-than-ever-in-2026.md) - Jan 5, 2026
+- [Quick Sanity Checks: Tools, Tips, and Industry Insights](posts/2026/2026-01-05-quick-sanity-checks-tools-tips-and-industry-insights.md) - Jan 5, 2026
+- ...and 406 more
+
 ### Community (70 posts)
 
 - [Why Color Contrast Testing Matters More Than Ever in 2026](posts/2026/2026-01-06-why-color-contrast-testing-matters-more-than-ever-in-2026.md) - Jan 6, 2026
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Keyboard Navigation Testing: Best Practices and Real-World Examples](posts/2025/2025-12-29-keyboard-navigation-testing-best-practices-and-real-world-examples.md) - Dec 29, 2025
 - ...and 65 more
 
-### Engineering (410 posts)
-
-- [OS Compatibility Testing: Tools, Tips, and Industry Insights](posts/2026/2026-01-06-os-compatibility-testing-tools-tips-and-industry-insights.md) - Jan 6, 2026
-- [Unit Testing in Microservices: A Comprehensive Guide for 2026](posts/2026/2026-01-05-unit-testing-in-microservices-a-comprehensive-guide-for-2026.md) - Jan 5, 2026
-- [Why Continuous Testing Implementation Matters More Than Ever in 2026](posts/2026/2026-01-05-why-continuous-testing-implementation-matters-more-than-ever-in-2026.md) - Jan 5, 2026
-- [Quick Sanity Checks: Tools, Tips, and Industry Insights](posts/2026/2026-01-05-quick-sanity-checks-tools-tips-and-industry-insights.md) - Jan 5, 2026
-- [The Ultimate Guide to Smoke Test Case Selection](posts/2026/2026-01-05-the-ultimate-guide-to-smoke-test-case-selection.md) - Jan 5, 2026
-- ...and 405 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
-- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
-- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
+- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
+- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
