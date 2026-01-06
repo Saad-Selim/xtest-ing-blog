@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (409 posts)
+### Engineering (410 posts)
 
+- [OS Compatibility Testing: Tools, Tips, and Industry Insights](posts/2026/2026-01-06-os-compatibility-testing-tools-tips-and-industry-insights.md) - Jan 6, 2026
 - [Unit Testing in Microservices: A Comprehensive Guide for 2026](posts/2026/2026-01-05-unit-testing-in-microservices-a-comprehensive-guide-for-2026.md) - Jan 5, 2026
 - [Why Continuous Testing Implementation Matters More Than Ever in 2026](posts/2026/2026-01-05-why-continuous-testing-implementation-matters-more-than-ever-in-2026.md) - Jan 5, 2026
 - [Quick Sanity Checks: Tools, Tips, and Industry Insights](posts/2026/2026-01-05-quick-sanity-checks-tools-tips-and-industry-insights.md) - Jan 5, 2026
 - [The Ultimate Guide to Smoke Test Case Selection](posts/2026/2026-01-05-the-ultimate-guide-to-smoke-test-case-selection.md) - Jan 5, 2026
-- [Sanity Testing Automation: A Comprehensive Guide for 2026](posts/2026/2026-01-05-sanity-testing-automation-a-comprehensive-guide-for-2026.md) - Jan 5, 2026
-- ...and 404 more
+- ...and 405 more
 
 ### Community (69 posts)
 
