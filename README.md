@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Community (71 posts)
+### Community (72 posts)
 
+- [Mastering Manual vs Automated Testing Balance: Expert Tips and Strategies](posts/2026/2026-01-07-mastering-manual-vs-automated-testing-balance-expert-tips-and-strategies.md) - Jan 7, 2026
 - [How to Implement User Acceptance Testing Guide Successfully](posts/2026/2026-01-06-how-to-implement-user-acceptance-testing-guide-successfully.md) - Jan 6, 2026
 - [Why Color Contrast Testing Matters More Than Ever in 2026](posts/2026/2026-01-06-why-color-contrast-testing-matters-more-than-ever-in-2026.md) - Jan 6, 2026
 - [Mastering Bug Reporting Best Practices: Expert Tips and Strategies](posts/2026/2026-01-05-mastering-bug-reporting-best-practices-expert-tips-and-strategies.md) - Jan 5, 2026
 - [Advanced Bug Reporting Best Practices Techniques for Modern Development](posts/2026/2026-01-01-advanced-bug-reporting-best-practices-techniques-for-modern-development.md) - Jan 1, 2026
-- [Advanced Manual Testing in Agile Teams Techniques for Modern Development](posts/2025/2025-12-30-advanced-manual-testing-in-agile-teams-techniques-for-modern-development.md) - Dec 30, 2025
-- ...and 66 more
+- ...and 67 more
 
 ### Engineering (411 posts)
 
@@ -26,9 +26,9 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
 - [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
-- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
