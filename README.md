@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (412 posts)
+### Engineering (413 posts)
 
+- [Why Smoke Testing Best Practices Matters More Than Ever in 2026](posts/2026/2026-01-07-why-smoke-testing-best-practices-matters-more-than-ever-in-2026.md) - Jan 7, 2026
 - [Build Verification Testing Explained: Everything You Need to Know](posts/2026/2026-01-07-build-verification-testing-explained-everything-you-need-to-know.md) - Jan 7, 2026
 - [Unit Testing Anti-Patterns to Avoid: Tools, Tips, and Industry Insights](posts/2026/2026-01-06-unit-testing-anti-patterns-to-avoid-tools-tips-and-industry-insights.md) - Jan 6, 2026
 - [OS Compatibility Testing: Tools, Tips, and Industry Insights](posts/2026/2026-01-06-os-compatibility-testing-tools-tips-and-industry-insights.md) - Jan 6, 2026
 - [Unit Testing in Microservices: A Comprehensive Guide for 2026](posts/2026/2026-01-05-unit-testing-in-microservices-a-comprehensive-guide-for-2026.md) - Jan 5, 2026
-- [Why Continuous Testing Implementation Matters More Than Ever in 2026](posts/2026/2026-01-05-why-continuous-testing-implementation-matters-more-than-ever-in-2026.md) - Jan 5, 2026
-- ...and 407 more
+- ...and 408 more
 
 ### Community (72 posts)
 
