@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (74 posts)
+
+- [Accessibility Testing Tools: Best Practices and Real-World Examples](posts/2026/2026-01-08-accessibility-testing-tools-best-practices-and-real-world-examples.md) - Jan 8, 2026
+- [Keyboard Navigation Testing Explained: Everything You Need to Know](posts/2026/2026-01-07-keyboard-navigation-testing-explained-everything-you-need-to-know.md) - Jan 7, 2026
+- [Mastering Manual vs Automated Testing Balance: Expert Tips and Strategies](posts/2026/2026-01-07-mastering-manual-vs-automated-testing-balance-expert-tips-and-strategies.md) - Jan 7, 2026
+- [How to Implement User Acceptance Testing Guide Successfully](posts/2026/2026-01-06-how-to-implement-user-acceptance-testing-guide-successfully.md) - Jan 6, 2026
+- [Why Color Contrast Testing Matters More Than Ever in 2026](posts/2026/2026-01-06-why-color-contrast-testing-matters-more-than-ever-in-2026.md) - Jan 6, 2026
+- ...and 69 more
+
 ### Engineering (416 posts)
 
 - [Why API Version Compatibility Matters More Than Ever in 2026](posts/2026/2026-01-08-why-api-version-compatibility-matters-more-than-ever-in-2026.md) - Jan 8, 2026
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Build Verification Testing Explained: Everything You Need to Know](posts/2026/2026-01-07-build-verification-testing-explained-everything-you-need-to-know.md) - Jan 7, 2026
 - ...and 411 more
 
-### Community (73 posts)
-
-- [Keyboard Navigation Testing Explained: Everything You Need to Know](posts/2026/2026-01-07-keyboard-navigation-testing-explained-everything-you-need-to-know.md) - Jan 7, 2026
-- [Mastering Manual vs Automated Testing Balance: Expert Tips and Strategies](posts/2026/2026-01-07-mastering-manual-vs-automated-testing-balance-expert-tips-and-strategies.md) - Jan 7, 2026
-- [How to Implement User Acceptance Testing Guide Successfully](posts/2026/2026-01-06-how-to-implement-user-acceptance-testing-guide-successfully.md) - Jan 6, 2026
-- [Why Color Contrast Testing Matters More Than Ever in 2026](posts/2026/2026-01-06-why-color-contrast-testing-matters-more-than-ever-in-2026.md) - Jan 6, 2026
-- [Mastering Bug Reporting Best Practices: Expert Tips and Strategies](posts/2026/2026-01-05-mastering-bug-reporting-best-practices-expert-tips-and-strategies.md) - Jan 5, 2026
-- ...and 68 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
-- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
 - [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
+- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
+- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
+- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
