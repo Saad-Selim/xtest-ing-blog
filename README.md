@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (422 posts)
+### Engineering (423 posts)
 
+- [How to Implement Regression Test Suite Optimization Successfully](posts/2026/2026-01-09-how-to-implement-regression-test-suite-optimization-successfully.md) - Jan 9, 2026
 - [Performance Testing in the Cloud: Common Pitfalls and How to Avoid Them](posts/2026/2026-01-09-performance-testing-in-the-cloud-common-pitfalls-and-how-to-avoid-them.md) - Jan 9, 2026
 - [Mock vs Stub vs Spy: When to Use What Explained: Everything You Need to Know](posts/2026/2026-01-09-mock-vs-stub-vs-spy-when-to-use-what-explained-everything-you-need-to-know.md) - Jan 9, 2026
 - [Release Sanity Testing Explained: Everything You Need to Know](posts/2026/2026-01-09-release-sanity-testing-explained-everything-you-need-to-know.md) - Jan 9, 2026
 - [How to Implement Smoke Testing in CI/CD Successfully](posts/2026/2026-01-08-how-to-implement-smoke-testing-in-cicd-successfully.md) - Jan 8, 2026
-- [Mastering Performance Testing in CI/CD: Expert Tips and Strategies](posts/2026/2026-01-08-mastering-performance-testing-in-cicd-expert-tips-and-strategies.md) - Jan 8, 2026
-- ...and 417 more
+- ...and 418 more
 
 ### Community (75 posts)
 
