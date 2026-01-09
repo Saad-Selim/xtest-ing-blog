@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (419 posts)
+### Engineering (420 posts)
 
+- [Release Sanity Testing Explained: Everything You Need to Know](posts/2026/2026-01-09-release-sanity-testing-explained-everything-you-need-to-know.md) - Jan 9, 2026
 - [How to Implement Smoke Testing in CI/CD Successfully](posts/2026/2026-01-08-how-to-implement-smoke-testing-in-cicd-successfully.md) - Jan 8, 2026
 - [Mastering Performance Testing in CI/CD: Expert Tips and Strategies](posts/2026/2026-01-08-mastering-performance-testing-in-cicd-expert-tips-and-strategies.md) - Jan 8, 2026
 - [Mobile Device Compatibility Testing: Common Pitfalls and How to Avoid Them](posts/2026/2026-01-08-mobile-device-compatibility-testing-common-pitfalls-and-how-to-avoid-them.md) - Jan 8, 2026
 - [Why API Version Compatibility Matters More Than Ever in 2026](posts/2026/2026-01-08-why-api-version-compatibility-matters-more-than-ever-in-2026.md) - Jan 8, 2026
-- [Cross-Browser E2E Testing: Best Practices and Real-World Examples](posts/2026/2026-01-07-cross-browser-e2e-testing-best-practices-and-real-world-examples.md) - Jan 7, 2026
-- ...and 414 more
+- ...and 415 more
 
 ### Community (74 posts)
 
