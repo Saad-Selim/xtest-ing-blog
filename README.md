@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (421 posts)
+
+- [Mock vs Stub vs Spy: When to Use What Explained: Everything You Need to Know](posts/2026/2026-01-09-mock-vs-stub-vs-spy-when-to-use-what-explained-everything-you-need-to-know.md) - Jan 9, 2026
+- [Release Sanity Testing Explained: Everything You Need to Know](posts/2026/2026-01-09-release-sanity-testing-explained-everything-you-need-to-know.md) - Jan 9, 2026
+- [How to Implement Smoke Testing in CI/CD Successfully](posts/2026/2026-01-08-how-to-implement-smoke-testing-in-cicd-successfully.md) - Jan 8, 2026
+- [Mastering Performance Testing in CI/CD: Expert Tips and Strategies](posts/2026/2026-01-08-mastering-performance-testing-in-cicd-expert-tips-and-strategies.md) - Jan 8, 2026
+- [Mobile Device Compatibility Testing: Common Pitfalls and How to Avoid Them](posts/2026/2026-01-08-mobile-device-compatibility-testing-common-pitfalls-and-how-to-avoid-them.md) - Jan 8, 2026
+- ...and 416 more
+
 ### Community (75 posts)
 
 - [Manual Testing in Agile Teams: A Comprehensive Guide for 2026](posts/2026/2026-01-09-manual-testing-in-agile-teams-a-comprehensive-guide-for-2026.md) - Jan 9, 2026
@@ -12,15 +21,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Mastering Manual vs Automated Testing Balance: Expert Tips and Strategies](posts/2026/2026-01-07-mastering-manual-vs-automated-testing-balance-expert-tips-and-strategies.md) - Jan 7, 2026
 - [How to Implement User Acceptance Testing Guide Successfully](posts/2026/2026-01-06-how-to-implement-user-acceptance-testing-guide-successfully.md) - Jan 6, 2026
 - ...and 70 more
-
-### Engineering (420 posts)
-
-- [Release Sanity Testing Explained: Everything You Need to Know](posts/2026/2026-01-09-release-sanity-testing-explained-everything-you-need-to-know.md) - Jan 9, 2026
-- [How to Implement Smoke Testing in CI/CD Successfully](posts/2026/2026-01-08-how-to-implement-smoke-testing-in-cicd-successfully.md) - Jan 8, 2026
-- [Mastering Performance Testing in CI/CD: Expert Tips and Strategies](posts/2026/2026-01-08-mastering-performance-testing-in-cicd-expert-tips-and-strategies.md) - Jan 8, 2026
-- [Mobile Device Compatibility Testing: Common Pitfalls and How to Avoid Them](posts/2026/2026-01-08-mobile-device-compatibility-testing-common-pitfalls-and-how-to-avoid-them.md) - Jan 8, 2026
-- [Why API Version Compatibility Matters More Than Ever in 2026](posts/2026/2026-01-08-why-api-version-compatibility-matters-more-than-ever-in-2026.md) - Jan 8, 2026
-- ...and 415 more
 
 ### Security (12 posts)
 
