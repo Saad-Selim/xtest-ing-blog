@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (425 posts)
+### Engineering (426 posts)
 
+- [Automated Regression Testing: Best Practices and Real-World Examples](posts/2026/2026-01-10-automated-regression-testing-best-practices-and-real-world-examples.md) - Jan 10, 2026
 - [Test Automation Framework Design: Tools, Tips, and Industry Insights](posts/2026/2026-01-10-test-automation-framework-design-tools-tips-and-industry-insights.md) - Jan 10, 2026
 - [Mock vs Stub vs Spy: When to Use What: Best Practices and Real-World Examples](posts/2026/2026-01-10-mock-vs-stub-vs-spy-when-to-use-what-best-practices-and-real-world-examples.md) - Jan 10, 2026
 - [How to Implement Regression Test Suite Optimization Successfully](posts/2026/2026-01-09-how-to-implement-regression-test-suite-optimization-successfully.md) - Jan 9, 2026
 - [Performance Testing in the Cloud: Common Pitfalls and How to Avoid Them](posts/2026/2026-01-09-performance-testing-in-the-cloud-common-pitfalls-and-how-to-avoid-them.md) - Jan 9, 2026
-- [Mock vs Stub vs Spy: When to Use What Explained: Everything You Need to Know](posts/2026/2026-01-09-mock-vs-stub-vs-spy-when-to-use-what-explained-everything-you-need-to-know.md) - Jan 9, 2026
-- ...and 420 more
+- ...and 421 more
 
 ### Community (76 posts)
 
@@ -25,10 +25,10 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
+- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
-- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
+- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
+- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
