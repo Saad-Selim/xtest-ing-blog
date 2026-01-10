@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (426 posts)
+### Engineering (427 posts)
 
+- [Mobile E2E Testing Strategies Explained: Everything You Need to Know](posts/2026/2026-01-10-mobile-e2e-testing-strategies-explained-everything-you-need-to-know.md) - Jan 10, 2026
 - [Automated Regression Testing: Best Practices and Real-World Examples](posts/2026/2026-01-10-automated-regression-testing-best-practices-and-real-world-examples.md) - Jan 10, 2026
 - [Test Automation Framework Design: Tools, Tips, and Industry Insights](posts/2026/2026-01-10-test-automation-framework-design-tools-tips-and-industry-insights.md) - Jan 10, 2026
 - [Mock vs Stub vs Spy: When to Use What: Best Practices and Real-World Examples](posts/2026/2026-01-10-mock-vs-stub-vs-spy-when-to-use-what-best-practices-and-real-world-examples.md) - Jan 10, 2026
 - [How to Implement Regression Test Suite Optimization Successfully](posts/2026/2026-01-09-how-to-implement-regression-test-suite-optimization-successfully.md) - Jan 9, 2026
-- [Performance Testing in the Cloud: Common Pitfalls and How to Avoid Them](posts/2026/2026-01-09-performance-testing-in-the-cloud-common-pitfalls-and-how-to-avoid-them.md) - Jan 9, 2026
-- ...and 421 more
+- ...and 422 more
 
 ### Community (76 posts)
 
