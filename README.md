@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (77 posts)
+
+- [Exploratory Testing Techniques Explained: Everything You Need to Know](posts/2026/2026-01-11-exploratory-testing-techniques-explained-everything-you-need-to-know.md) - Jan 11, 2026
+- [How to Implement Color Contrast Testing Successfully](posts/2026/2026-01-09-how-to-implement-color-contrast-testing-successfully.md) - Jan 9, 2026
+- [Manual Testing in Agile Teams: A Comprehensive Guide for 2026](posts/2026/2026-01-09-manual-testing-in-agile-teams-a-comprehensive-guide-for-2026.md) - Jan 9, 2026
+- [Accessibility Testing Tools: Best Practices and Real-World Examples](posts/2026/2026-01-08-accessibility-testing-tools-best-practices-and-real-world-examples.md) - Jan 8, 2026
+- [Keyboard Navigation Testing Explained: Everything You Need to Know](posts/2026/2026-01-07-keyboard-navigation-testing-explained-everything-you-need-to-know.md) - Jan 7, 2026
+- ...and 72 more
+
 ### Engineering (427 posts)
 
 - [Mobile E2E Testing Strategies Explained: Everything You Need to Know](posts/2026/2026-01-10-mobile-e2e-testing-strategies-explained-everything-you-need-to-know.md) - Jan 10, 2026
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [How to Implement Regression Test Suite Optimization Successfully](posts/2026/2026-01-09-how-to-implement-regression-test-suite-optimization-successfully.md) - Jan 9, 2026
 - ...and 422 more
 
-### Community (76 posts)
-
-- [How to Implement Color Contrast Testing Successfully](posts/2026/2026-01-09-how-to-implement-color-contrast-testing-successfully.md) - Jan 9, 2026
-- [Manual Testing in Agile Teams: A Comprehensive Guide for 2026](posts/2026/2026-01-09-manual-testing-in-agile-teams-a-comprehensive-guide-for-2026.md) - Jan 9, 2026
-- [Accessibility Testing Tools: Best Practices and Real-World Examples](posts/2026/2026-01-08-accessibility-testing-tools-best-practices-and-real-world-examples.md) - Jan 8, 2026
-- [Keyboard Navigation Testing Explained: Everything You Need to Know](posts/2026/2026-01-07-keyboard-navigation-testing-explained-everything-you-need-to-know.md) - Jan 7, 2026
-- [Mastering Manual vs Automated Testing Balance: Expert Tips and Strategies](posts/2026/2026-01-07-mastering-manual-vs-automated-testing-balance-expert-tips-and-strategies.md) - Jan 7, 2026
-- ...and 71 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
+- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
 - [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
-- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
+- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
+- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
