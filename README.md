@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (434 posts)
+### Engineering (435 posts)
 
+- [E2E Testing in Production Explained: Everything You Need to Know](posts/2026/2026-01-13-e2e-testing-in-production-explained-everything-you-need-to-know.md) - Jan 13, 2026
 - [The Ultimate Guide to E2E Testing Frameworks Comparison](posts/2026/2026-01-13-the-ultimate-guide-to-e2e-testing-frameworks-comparison.md) - Jan 13, 2026
 - [Test-Driven Development (TDD) Guide: Best Practices and Real-World Examples](posts/2026/2026-01-12-test-driven-development-tdd-guide-best-practices-and-real-world-examples.md) - Jan 12, 2026
 - [Advanced Mock vs Stub vs Spy: When to Use What Techniques for Modern Development](posts/2026/2026-01-12-advanced-mock-vs-stub-vs-spy-when-to-use-what-techniques-for-modern-development.md) - Jan 12, 2026
 - [The Ultimate Guide to Code Coverage Metrics That Matter](posts/2026/2026-01-12-the-ultimate-guide-to-code-coverage-metrics-that-matter.md) - Jan 12, 2026
-- [Cross-Browser E2E Testing: A Comprehensive Guide for 2026](posts/2026/2026-01-12-cross-browser-e2e-testing-a-comprehensive-guide-for-2026.md) - Jan 12, 2026
-- ...and 429 more
+- ...and 430 more
 
 ### Community (78 posts)
 
