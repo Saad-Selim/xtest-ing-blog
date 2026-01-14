@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (437 posts)
+### Engineering (438 posts)
 
+- [Continuous Testing Implementation Explained: Everything You Need to Know](posts/2026/2026-01-14-continuous-testing-implementation-explained-everything-you-need-to-know.md) - Jan 14, 2026
 - [Build Verification Testing: Tools, Tips, and Industry Insights](posts/2026/2026-01-14-build-verification-testing-tools-tips-and-industry-insights.md) - Jan 14, 2026
 - [E2E Testing Frameworks Comparison: A Comprehensive Guide for 2026](posts/2026/2026-01-13-e2e-testing-frameworks-comparison-a-comprehensive-guide-for-2026.md) - Jan 13, 2026
 - [E2E Testing in Production Explained: Everything You Need to Know](posts/2026/2026-01-13-e2e-testing-in-production-explained-everything-you-need-to-know.md) - Jan 13, 2026
 - [The Ultimate Guide to E2E Testing Frameworks Comparison](posts/2026/2026-01-13-the-ultimate-guide-to-e2e-testing-frameworks-comparison.md) - Jan 13, 2026
-- [Test-Driven Development (TDD) Guide: Best Practices and Real-World Examples](posts/2026/2026-01-12-test-driven-development-tdd-guide-best-practices-and-real-world-examples.md) - Jan 12, 2026
-- ...and 432 more
+- ...and 433 more
 
 ### Community (78 posts)
 
