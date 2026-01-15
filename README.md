@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (442 posts)
+
+- [Regression Testing in Agile: Tools, Tips, and Industry Insights](posts/2026/2026-01-15-regression-testing-in-agile-tools-tips-and-industry-insights.md) - Jan 15, 2026
+- [Microservices Integration Testing: Tools, Tips, and Industry Insights](posts/2026/2026-01-14-microservices-integration-testing-tools-tips-and-industry-insights.md) - Jan 14, 2026
+- [The Ultimate Guide to Production Sanity Testing](posts/2026/2026-01-14-the-ultimate-guide-to-production-sanity-testing.md) - Jan 14, 2026
+- [Advanced Regression Testing Metrics Techniques for Modern Development](posts/2026/2026-01-14-advanced-regression-testing-metrics-techniques-for-modern-development.md) - Jan 14, 2026
+- [Continuous Testing Implementation Explained: Everything You Need to Know](posts/2026/2026-01-14-continuous-testing-implementation-explained-everything-you-need-to-know.md) - Jan 14, 2026
+- ...and 437 more
+
 ### Community (79 posts)
 
 - [User Acceptance Testing Guide: A Comprehensive Guide for 2026](posts/2026/2026-01-14-user-acceptance-testing-guide-a-comprehensive-guide-for-2026.md) - Jan 14, 2026
@@ -12,15 +21,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [How to Implement Color Contrast Testing Successfully](posts/2026/2026-01-09-how-to-implement-color-contrast-testing-successfully.md) - Jan 9, 2026
 - [Manual Testing in Agile Teams: A Comprehensive Guide for 2026](posts/2026/2026-01-09-manual-testing-in-agile-teams-a-comprehensive-guide-for-2026.md) - Jan 9, 2026
 - ...and 74 more
-
-### Engineering (441 posts)
-
-- [Microservices Integration Testing: Tools, Tips, and Industry Insights](posts/2026/2026-01-14-microservices-integration-testing-tools-tips-and-industry-insights.md) - Jan 14, 2026
-- [The Ultimate Guide to Production Sanity Testing](posts/2026/2026-01-14-the-ultimate-guide-to-production-sanity-testing.md) - Jan 14, 2026
-- [Advanced Regression Testing Metrics Techniques for Modern Development](posts/2026/2026-01-14-advanced-regression-testing-metrics-techniques-for-modern-development.md) - Jan 14, 2026
-- [Continuous Testing Implementation Explained: Everything You Need to Know](posts/2026/2026-01-14-continuous-testing-implementation-explained-everything-you-need-to-know.md) - Jan 14, 2026
-- [Build Verification Testing: Tools, Tips, and Industry Insights](posts/2026/2026-01-14-build-verification-testing-tools-tips-and-industry-insights.md) - Jan 14, 2026
-- ...and 436 more
 
 ### Security (12 posts)
 
