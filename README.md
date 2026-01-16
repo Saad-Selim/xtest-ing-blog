@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (445 posts)
+### Engineering (446 posts)
 
+- [Mastering Automated Regression Testing: Expert Tips and Strategies](posts/2026/2026-01-16-mastering-automated-regression-testing-expert-tips-and-strategies.md) - Jan 16, 2026
 - [How to Implement Database Compatibility Testing Successfully](posts/2026/2026-01-16-how-to-implement-database-compatibility-testing-successfully.md) - Jan 16, 2026
 - [The Ultimate Guide to Mobile E2E Testing Strategies](posts/2026/2026-01-15-the-ultimate-guide-to-mobile-e2e-testing-strategies.md) - Jan 15, 2026
 - [E2E Testing in Production: Best Practices and Real-World Examples](posts/2026/2026-01-15-e2e-testing-in-production-best-practices-and-real-world-examples.md) - Jan 15, 2026
 - [Regression Testing in Agile: Tools, Tips, and Industry Insights](posts/2026/2026-01-15-regression-testing-in-agile-tools-tips-and-industry-insights.md) - Jan 15, 2026
-- [Microservices Integration Testing: Tools, Tips, and Industry Insights](posts/2026/2026-01-14-microservices-integration-testing-tools-tips-and-industry-insights.md) - Jan 14, 2026
-- ...and 440 more
+- ...and 441 more
 
 ### Community (79 posts)
 
