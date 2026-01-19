@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (454 posts)
+
+- [Why Unit Testing in Microservices Matters More Than Ever in 2026](posts/2026/2026-01-19-why-unit-testing-in-microservices-matters-more-than-ever-in-2026.md) - Jan 19, 2026
+- [Why Automated Regression Testing Matters More Than Ever in 2026](posts/2026/2026-01-19-why-automated-regression-testing-matters-more-than-ever-in-2026.md) - Jan 19, 2026
+- [How to Implement Regression Testing Metrics Successfully](posts/2026/2026-01-19-how-to-implement-regression-testing-metrics-successfully.md) - Jan 19, 2026
+- [Advanced Visual Regression Testing Techniques for Modern Development](posts/2026/2026-01-18-advanced-visual-regression-testing-techniques-for-modern-development.md) - Jan 18, 2026
+- [Smoke Testing in CI/CD Explained: Everything You Need to Know](posts/2026/2026-01-18-smoke-testing-in-cicd-explained-everything-you-need-to-know.md) - Jan 18, 2026
+- ...and 449 more
+
 ### Community (81 posts)
 
 - [Accessibility Testing Tools: Tools, Tips, and Industry Insights](posts/2026/2026-01-19-accessibility-testing-tools-tools-tips-and-industry-insights.md) - Jan 19, 2026
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Exploratory Testing Techniques Explained: Everything You Need to Know](posts/2026/2026-01-11-exploratory-testing-techniques-explained-everything-you-need-to-know.md) - Jan 11, 2026
 - ...and 76 more
 
-### Engineering (453 posts)
-
-- [Why Automated Regression Testing Matters More Than Ever in 2026](posts/2026/2026-01-19-why-automated-regression-testing-matters-more-than-ever-in-2026.md) - Jan 19, 2026
-- [How to Implement Regression Testing Metrics Successfully](posts/2026/2026-01-19-how-to-implement-regression-testing-metrics-successfully.md) - Jan 19, 2026
-- [Advanced Visual Regression Testing Techniques for Modern Development](posts/2026/2026-01-18-advanced-visual-regression-testing-techniques-for-modern-development.md) - Jan 18, 2026
-- [Smoke Testing in CI/CD Explained: Everything You Need to Know](posts/2026/2026-01-18-smoke-testing-in-cicd-explained-everything-you-need-to-know.md) - Jan 18, 2026
-- [Service Virtualization for Testing: A Comprehensive Guide for 2026](posts/2026/2026-01-17-service-virtualization-for-testing-a-comprehensive-guide-for-2026.md) - Jan 17, 2026
-- ...and 448 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
 - [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
+- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
-- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
