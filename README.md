@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (82 posts)
+
+- [Screen Reader Testing Guide: A Comprehensive Guide for 2026](posts/2026/2026-01-20-screen-reader-testing-guide-a-comprehensive-guide-for-2026.md) - Jan 20, 2026
+- [Accessibility Testing Tools: Tools, Tips, and Industry Insights](posts/2026/2026-01-19-accessibility-testing-tools-tools-tips-and-industry-insights.md) - Jan 19, 2026
+- [WCAG 2.1 Compliance Testing: A Comprehensive Guide for 2026](posts/2026/2026-01-18-wcag-21-compliance-testing-a-comprehensive-guide-for-2026.md) - Jan 18, 2026
+- [User Acceptance Testing Guide: A Comprehensive Guide for 2026](posts/2026/2026-01-14-user-acceptance-testing-guide-a-comprehensive-guide-for-2026.md) - Jan 14, 2026
+- [Why Usability Testing Methods Matters More Than Ever in 2026](posts/2026/2026-01-12-why-usability-testing-methods-matters-more-than-ever-in-2026.md) - Jan 12, 2026
+- ...and 77 more
+
 ### Engineering (456 posts)
 
 - [Smoke Testing Best Practices: A Comprehensive Guide for 2026](posts/2026/2026-01-20-smoke-testing-best-practices-a-comprehensive-guide-for-2026.md) - Jan 20, 2026
@@ -12,15 +21,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Why Automated Regression Testing Matters More Than Ever in 2026](posts/2026/2026-01-19-why-automated-regression-testing-matters-more-than-ever-in-2026.md) - Jan 19, 2026
 - [How to Implement Regression Testing Metrics Successfully](posts/2026/2026-01-19-how-to-implement-regression-testing-metrics-successfully.md) - Jan 19, 2026
 - ...and 451 more
-
-### Community (81 posts)
-
-- [Accessibility Testing Tools: Tools, Tips, and Industry Insights](posts/2026/2026-01-19-accessibility-testing-tools-tools-tips-and-industry-insights.md) - Jan 19, 2026
-- [WCAG 2.1 Compliance Testing: A Comprehensive Guide for 2026](posts/2026/2026-01-18-wcag-21-compliance-testing-a-comprehensive-guide-for-2026.md) - Jan 18, 2026
-- [User Acceptance Testing Guide: A Comprehensive Guide for 2026](posts/2026/2026-01-14-user-acceptance-testing-guide-a-comprehensive-guide-for-2026.md) - Jan 14, 2026
-- [Why Usability Testing Methods Matters More Than Ever in 2026](posts/2026/2026-01-12-why-usability-testing-methods-matters-more-than-ever-in-2026.md) - Jan 12, 2026
-- [Exploratory Testing Techniques Explained: Everything You Need to Know](posts/2026/2026-01-11-exploratory-testing-techniques-explained-everything-you-need-to-know.md) - Jan 11, 2026
-- ...and 76 more
 
 ### Security (12 posts)
 
