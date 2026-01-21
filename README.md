@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (457 posts)
+### Engineering (458 posts)
 
+- [Continuous Testing Implementation: Tools, Tips, and Industry Insights](posts/2026/2026-01-21-continuous-testing-implementation-tools-tips-and-industry-insights.md) - Jan 21, 2026
 - [Backward Compatibility Testing: A Comprehensive Guide for 2026](posts/2026/2026-01-21-backward-compatibility-testing-a-comprehensive-guide-for-2026.md) - Jan 21, 2026
 - [Smoke Testing Best Practices: A Comprehensive Guide for 2026](posts/2026/2026-01-20-smoke-testing-best-practices-a-comprehensive-guide-for-2026.md) - Jan 20, 2026
 - [Test Automation Framework Design: A Comprehensive Guide for 2026](posts/2026/2026-01-20-test-automation-framework-design-a-comprehensive-guide-for-2026.md) - Jan 20, 2026
 - [Why Unit Testing in Microservices Matters More Than Ever in 2026](posts/2026/2026-01-19-why-unit-testing-in-microservices-matters-more-than-ever-in-2026.md) - Jan 19, 2026
-- [Why Automated Regression Testing Matters More Than Ever in 2026](posts/2026/2026-01-19-why-automated-regression-testing-matters-more-than-ever-in-2026.md) - Jan 19, 2026
-- ...and 452 more
+- ...and 453 more
 
 ### Community (82 posts)
 
