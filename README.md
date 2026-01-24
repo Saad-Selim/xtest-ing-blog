@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (462 posts)
+### Engineering (463 posts)
 
+- [Why Smoke Testing in CI/CD Matters More Than Ever in 2026](posts/2026/2026-01-24-why-smoke-testing-in-cicd-matters-more-than-ever-in-2026.md) - Jan 24, 2026
 - [Why Test Automation Framework Design Matters More Than Ever in 2026](posts/2026/2026-01-24-why-test-automation-framework-design-matters-more-than-ever-in-2026.md) - Jan 24, 2026
 - [How to Implement Continuous Testing Implementation Successfully](posts/2026/2026-01-23-how-to-implement-continuous-testing-implementation-successfully.md) - Jan 23, 2026
 - [Performance Testing Metrics: Tools, Tips, and Industry Insights](posts/2026/2026-01-22-performance-testing-metrics-tools-tips-and-industry-insights.md) - Jan 22, 2026
 - [JMeter vs Gatling vs K6: A Comprehensive Guide for 2026](posts/2026/2026-01-22-jmeter-vs-gatling-vs-k6-a-comprehensive-guide-for-2026.md) - Jan 22, 2026
-- [Continuous Testing Implementation: Tools, Tips, and Industry Insights](posts/2026/2026-01-21-continuous-testing-implementation-tools-tips-and-industry-insights.md) - Jan 21, 2026
-- ...and 457 more
+- ...and 458 more
 
 ### Community (82 posts)
 
