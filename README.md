@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (467 posts)
+### Engineering (468 posts)
 
+- [Advanced Performance Testing in CI/CD Techniques for Modern Development](posts/2026/2026-01-26-advanced-performance-testing-in-cicd-techniques-for-modern-development.md) - Jan 26, 2026
 - [Sanity Test Checklist: Common Pitfalls and How to Avoid Them](posts/2026/2026-01-26-sanity-test-checklist-common-pitfalls-and-how-to-avoid-them.md) - Jan 26, 2026
 - [Mastering Database Compatibility Testing: Expert Tips and Strategies](posts/2026/2026-01-26-mastering-database-compatibility-testing-expert-tips-and-strategies.md) - Jan 26, 2026
 - [Advanced Build Verification Testing Techniques for Modern Development](posts/2026/2026-01-26-advanced-build-verification-testing-techniques-for-modern-development.md) - Jan 26, 2026
 - [Performance Testing in the Cloud: A Comprehensive Guide for 2026](posts/2026/2026-01-26-performance-testing-in-the-cloud-a-comprehensive-guide-for-2026.md) - Jan 26, 2026
-- [Why Smoke Testing in CI/CD Matters More Than Ever in 2026](posts/2026/2026-01-24-why-smoke-testing-in-cicd-matters-more-than-ever-in-2026.md) - Jan 24, 2026
-- ...and 462 more
+- ...and 463 more
 
 ### Community (82 posts)
 
