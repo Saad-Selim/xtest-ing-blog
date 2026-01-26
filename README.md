@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (466 posts)
+### Engineering (467 posts)
 
+- [Sanity Test Checklist: Common Pitfalls and How to Avoid Them](posts/2026/2026-01-26-sanity-test-checklist-common-pitfalls-and-how-to-avoid-them.md) - Jan 26, 2026
 - [Mastering Database Compatibility Testing: Expert Tips and Strategies](posts/2026/2026-01-26-mastering-database-compatibility-testing-expert-tips-and-strategies.md) - Jan 26, 2026
 - [Advanced Build Verification Testing Techniques for Modern Development](posts/2026/2026-01-26-advanced-build-verification-testing-techniques-for-modern-development.md) - Jan 26, 2026
 - [Performance Testing in the Cloud: A Comprehensive Guide for 2026](posts/2026/2026-01-26-performance-testing-in-the-cloud-a-comprehensive-guide-for-2026.md) - Jan 26, 2026
 - [Why Smoke Testing in CI/CD Matters More Than Ever in 2026](posts/2026/2026-01-24-why-smoke-testing-in-cicd-matters-more-than-ever-in-2026.md) - Jan 24, 2026
-- [Why Test Automation Framework Design Matters More Than Ever in 2026](posts/2026/2026-01-24-why-test-automation-framework-design-matters-more-than-ever-in-2026.md) - Jan 24, 2026
-- ...and 461 more
+- ...and 462 more
 
 ### Community (82 posts)
 
@@ -25,10 +25,10 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
+- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
 - [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
-- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
+- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
