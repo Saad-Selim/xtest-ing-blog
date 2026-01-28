@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (470 posts)
+### Engineering (471 posts)
 
+- [Continuous Testing Implementation: A Comprehensive Guide for 2026](posts/2026/2026-01-28-continuous-testing-implementation-a-comprehensive-guide-for-2026.md) - Jan 28, 2026
 - [Why Load Testing Best Practices Matters More Than Ever in 2026](posts/2026/2026-01-27-why-load-testing-best-practices-matters-more-than-ever-in-2026.md) - Jan 27, 2026
 - [Why Service Virtualization for Testing Matters More Than Ever in 2026](posts/2026/2026-01-27-why-service-virtualization-for-testing-matters-more-than-ever-in-2026.md) - Jan 27, 2026
 - [Advanced Performance Testing in CI/CD Techniques for Modern Development](posts/2026/2026-01-26-advanced-performance-testing-in-cicd-techniques-for-modern-development.md) - Jan 26, 2026
 - [Sanity Test Checklist: Common Pitfalls and How to Avoid Them](posts/2026/2026-01-26-sanity-test-checklist-common-pitfalls-and-how-to-avoid-them.md) - Jan 26, 2026
-- [Mastering Database Compatibility Testing: Expert Tips and Strategies](posts/2026/2026-01-26-mastering-database-compatibility-testing-expert-tips-and-strategies.md) - Jan 26, 2026
-- ...and 465 more
+- ...and 466 more
 
 ### Community (82 posts)
 
@@ -26,9 +26,9 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
 - [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
-- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
+- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
