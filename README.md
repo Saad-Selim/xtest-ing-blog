@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (474 posts)
+### Engineering (475 posts)
 
+- [E2E Testing Frameworks Comparison: Common Pitfalls and How to Avoid Them](posts/2026/2026-01-28-e2e-testing-frameworks-comparison-common-pitfalls-and-how-to-avoid-them.md) - Jan 28, 2026
 - [Smoke Testing in CI/CD: Best Practices and Real-World Examples](posts/2026/2026-01-28-smoke-testing-in-cicd-best-practices-and-real-world-examples.md) - Jan 28, 2026
 - [The Ultimate Guide to Quick Sanity Checks](posts/2026/2026-01-28-the-ultimate-guide-to-quick-sanity-checks.md) - Jan 28, 2026
 - [Build Verification Testing: Best Practices and Real-World Examples](posts/2026/2026-01-28-build-verification-testing-best-practices-and-real-world-examples.md) - Jan 28, 2026
 - [Continuous Testing Implementation: A Comprehensive Guide for 2026](posts/2026/2026-01-28-continuous-testing-implementation-a-comprehensive-guide-for-2026.md) - Jan 28, 2026
-- [Why Load Testing Best Practices Matters More Than Ever in 2026](posts/2026/2026-01-27-why-load-testing-best-practices-matters-more-than-ever-in-2026.md) - Jan 27, 2026
-- ...and 469 more
+- ...and 470 more
 
 ### Community (82 posts)
 
