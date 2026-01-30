@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (83 posts)
+
+- [Why Manual vs Automated Testing Balance Matters More Than Ever in 2026](posts/2026/2026-01-30-why-manual-vs-automated-testing-balance-matters-more-than-ever-in-2026.md) - Jan 30, 2026
+- [Screen Reader Testing Guide: A Comprehensive Guide for 2026](posts/2026/2026-01-20-screen-reader-testing-guide-a-comprehensive-guide-for-2026.md) - Jan 20, 2026
+- [Accessibility Testing Tools: Tools, Tips, and Industry Insights](posts/2026/2026-01-19-accessibility-testing-tools-tools-tips-and-industry-insights.md) - Jan 19, 2026
+- [WCAG 2.1 Compliance Testing: A Comprehensive Guide for 2026](posts/2026/2026-01-18-wcag-21-compliance-testing-a-comprehensive-guide-for-2026.md) - Jan 18, 2026
+- [User Acceptance Testing Guide: A Comprehensive Guide for 2026](posts/2026/2026-01-14-user-acceptance-testing-guide-a-comprehensive-guide-for-2026.md) - Jan 14, 2026
+- ...and 78 more
+
 ### Engineering (480 posts)
 
 - [Why Visual Regression Testing Tools Matters More Than Ever in 2026](posts/2026/2026-01-30-why-visual-regression-testing-tools-matters-more-than-ever-in-2026.md) - Jan 30, 2026
@@ -12,15 +21,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Risk-Based Regression Testing: A Comprehensive Guide for 2026](posts/2026/2026-01-28-risk-based-regression-testing-a-comprehensive-guide-for-2026.md) - Jan 28, 2026
 - [Sanity Testing Strategies: Tools, Tips, and Industry Insights](posts/2026/2026-01-28-sanity-testing-strategies-tools-tips-and-industry-insights.md) - Jan 28, 2026
 - ...and 475 more
-
-### Community (82 posts)
-
-- [Screen Reader Testing Guide: A Comprehensive Guide for 2026](posts/2026/2026-01-20-screen-reader-testing-guide-a-comprehensive-guide-for-2026.md) - Jan 20, 2026
-- [Accessibility Testing Tools: Tools, Tips, and Industry Insights](posts/2026/2026-01-19-accessibility-testing-tools-tools-tips-and-industry-insights.md) - Jan 19, 2026
-- [WCAG 2.1 Compliance Testing: A Comprehensive Guide for 2026](posts/2026/2026-01-18-wcag-21-compliance-testing-a-comprehensive-guide-for-2026.md) - Jan 18, 2026
-- [User Acceptance Testing Guide: A Comprehensive Guide for 2026](posts/2026/2026-01-14-user-acceptance-testing-guide-a-comprehensive-guide-for-2026.md) - Jan 14, 2026
-- [Why Usability Testing Methods Matters More Than Ever in 2026](posts/2026/2026-01-12-why-usability-testing-methods-matters-more-than-ever-in-2026.md) - Jan 12, 2026
-- ...and 77 more
 
 ### Security (12 posts)
 
