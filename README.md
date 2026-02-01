@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (485 posts)
+### Engineering (486 posts)
 
+- [How to Implement Cross-Browser E2E Testing Successfully](posts/2026/2026-02-01-how-to-implement-cross-browser-e2e-testing-successfully.md) - Feb 1, 2026
 - [Advanced Sanity Testing Strategies Techniques for Modern Development](posts/2026/2026-01-31-advanced-sanity-testing-strategies-techniques-for-modern-development.md) - Jan 31, 2026
 - [How to Implement E2E Testing Frameworks Comparison Successfully](posts/2026/2026-01-31-how-to-implement-e2e-testing-frameworks-comparison-successfully.md) - Jan 31, 2026
 - [The Ultimate Guide to Risk-Based Regression Testing](posts/2026/2026-01-31-the-ultimate-guide-to-risk-based-regression-testing.md) - Jan 31, 2026
 - [Sanity Testing Automation: Best Practices and Real-World Examples](posts/2026/2026-01-31-sanity-testing-automation-best-practices-and-real-world-examples.md) - Jan 31, 2026
-- [Microservices Integration Testing Explained: Everything You Need to Know](posts/2026/2026-01-30-microservices-integration-testing-explained-everything-you-need-to-know.md) - Jan 30, 2026
-- ...and 480 more
+- ...and 481 more
 
 ### Community (83 posts)
 
