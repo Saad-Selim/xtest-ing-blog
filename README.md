@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (505 posts)
+
+- [Why Integration Testing in Cloud Environments Matters More Than Ever in 2026](posts/2026/2026-02-09-why-integration-testing-in-cloud-environments-matters-more-than-ever-in-2026.md) - Feb 9, 2026
+- [Sanity Testing Strategies: A Comprehensive Guide for 2026](posts/2026/2026-02-08-sanity-testing-strategies-a-comprehensive-guide-for-2026.md) - Feb 8, 2026
+- [The Ultimate Guide to JMeter vs Gatling vs K6](posts/2026/2026-02-07-the-ultimate-guide-to-jmeter-vs-gatling-vs-k6.md) - Feb 7, 2026
+- [How to Implement Automated Regression Testing Successfully](posts/2026/2026-02-07-how-to-implement-automated-regression-testing-successfully.md) - Feb 7, 2026
+- [Advanced Sanity Testing Automation Techniques for Modern Development](posts/2026/2026-02-07-advanced-sanity-testing-automation-techniques-for-modern-development.md) - Feb 7, 2026
+- ...and 500 more
+
 ### Community (85 posts)
 
 - [Advanced Screen Reader Testing Guide Techniques for Modern Development](posts/2026/2026-02-09-advanced-screen-reader-testing-guide-techniques-for-modern-development.md) - Feb 9, 2026
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Accessibility Testing Tools: Tools, Tips, and Industry Insights](posts/2026/2026-01-19-accessibility-testing-tools-tools-tips-and-industry-insights.md) - Jan 19, 2026
 - ...and 80 more
 
-### Engineering (504 posts)
-
-- [Sanity Testing Strategies: A Comprehensive Guide for 2026](posts/2026/2026-02-08-sanity-testing-strategies-a-comprehensive-guide-for-2026.md) - Feb 8, 2026
-- [The Ultimate Guide to JMeter vs Gatling vs K6](posts/2026/2026-02-07-the-ultimate-guide-to-jmeter-vs-gatling-vs-k6.md) - Feb 7, 2026
-- [How to Implement Automated Regression Testing Successfully](posts/2026/2026-02-07-how-to-implement-automated-regression-testing-successfully.md) - Feb 7, 2026
-- [Advanced Sanity Testing Automation Techniques for Modern Development](posts/2026/2026-02-07-advanced-sanity-testing-automation-techniques-for-modern-development.md) - Feb 7, 2026
-- [Integration Testing in Cloud Environments: Best Practices and Real-World Examples](posts/2026/2026-02-07-integration-testing-in-cloud-environments-best-practices-and-real-world-examples.md) - Feb 7, 2026
-- ...and 499 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
-- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
-- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
+- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
+- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
+- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
