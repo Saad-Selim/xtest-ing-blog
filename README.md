@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (506 posts)
+### Engineering (507 posts)
 
+- [Risk-Based Regression Testing: Best Practices and Real-World Examples](posts/2026/2026-02-10-risk-based-regression-testing-best-practices-and-real-world-examples.md) - Feb 10, 2026
 - [The Ultimate Guide to Microservices Integration Testing](posts/2026/2026-02-09-the-ultimate-guide-to-microservices-integration-testing.md) - Feb 9, 2026
 - [Why Integration Testing in Cloud Environments Matters More Than Ever in 2026](posts/2026/2026-02-09-why-integration-testing-in-cloud-environments-matters-more-than-ever-in-2026.md) - Feb 9, 2026
 - [Sanity Testing Strategies: A Comprehensive Guide for 2026](posts/2026/2026-02-08-sanity-testing-strategies-a-comprehensive-guide-for-2026.md) - Feb 8, 2026
 - [The Ultimate Guide to JMeter vs Gatling vs K6](posts/2026/2026-02-07-the-ultimate-guide-to-jmeter-vs-gatling-vs-k6.md) - Feb 7, 2026
-- [How to Implement Automated Regression Testing Successfully](posts/2026/2026-02-07-how-to-implement-automated-regression-testing-successfully.md) - Feb 7, 2026
-- ...and 501 more
+- ...and 502 more
 
 ### Community (85 posts)
 
@@ -25,10 +25,10 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
+- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
 - [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
-- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
-- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
+- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
+- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
