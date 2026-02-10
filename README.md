@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (86 posts)
+
+- [Why User Acceptance Testing Guide Matters More Than Ever in 2026](posts/2026/2026-02-10-why-user-acceptance-testing-guide-matters-more-than-ever-in-2026.md) - Feb 10, 2026
+- [Advanced Screen Reader Testing Guide Techniques for Modern Development](posts/2026/2026-02-09-advanced-screen-reader-testing-guide-techniques-for-modern-development.md) - Feb 9, 2026
+- [Exploratory Testing Techniques: Common Pitfalls and How to Avoid Them](posts/2026/2026-02-03-exploratory-testing-techniques-common-pitfalls-and-how-to-avoid-them.md) - Feb 3, 2026
+- [Why Manual vs Automated Testing Balance Matters More Than Ever in 2026](posts/2026/2026-01-30-why-manual-vs-automated-testing-balance-matters-more-than-ever-in-2026.md) - Jan 30, 2026
+- [Screen Reader Testing Guide: A Comprehensive Guide for 2026](posts/2026/2026-01-20-screen-reader-testing-guide-a-comprehensive-guide-for-2026.md) - Jan 20, 2026
+- ...and 81 more
+
 ### Engineering (507 posts)
 
 - [Risk-Based Regression Testing: Best Practices and Real-World Examples](posts/2026/2026-02-10-risk-based-regression-testing-best-practices-and-real-world-examples.md) - Feb 10, 2026
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [The Ultimate Guide to JMeter vs Gatling vs K6](posts/2026/2026-02-07-the-ultimate-guide-to-jmeter-vs-gatling-vs-k6.md) - Feb 7, 2026
 - ...and 502 more
 
-### Community (85 posts)
-
-- [Advanced Screen Reader Testing Guide Techniques for Modern Development](posts/2026/2026-02-09-advanced-screen-reader-testing-guide-techniques-for-modern-development.md) - Feb 9, 2026
-- [Exploratory Testing Techniques: Common Pitfalls and How to Avoid Them](posts/2026/2026-02-03-exploratory-testing-techniques-common-pitfalls-and-how-to-avoid-them.md) - Feb 3, 2026
-- [Why Manual vs Automated Testing Balance Matters More Than Ever in 2026](posts/2026/2026-01-30-why-manual-vs-automated-testing-balance-matters-more-than-ever-in-2026.md) - Jan 30, 2026
-- [Screen Reader Testing Guide: A Comprehensive Guide for 2026](posts/2026/2026-01-20-screen-reader-testing-guide-a-comprehensive-guide-for-2026.md) - Jan 20, 2026
-- [Accessibility Testing Tools: Tools, Tips, and Industry Insights](posts/2026/2026-01-19-accessibility-testing-tools-tools-tips-and-industry-insights.md) - Jan 19, 2026
-- ...and 80 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
 - [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
+- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
 - [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
-- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
