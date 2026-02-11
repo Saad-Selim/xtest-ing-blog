@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (511 posts)
+### Engineering (512 posts)
 
+- [Unit Testing Anti-Patterns to Avoid: A Comprehensive Guide for 2026](posts/2026/2026-02-11-unit-testing-anti-patterns-to-avoid-a-comprehensive-guide-for-2026.md) - Feb 11, 2026
 - [Mastering Visual Regression Testing Tools: Expert Tips and Strategies](posts/2026/2026-02-11-mastering-visual-regression-testing-tools-expert-tips-and-strategies.md) - Feb 11, 2026
 - [Why Selenium vs Playwright vs Cypress Matters More Than Ever in 2026](posts/2026/2026-02-11-why-selenium-vs-playwright-vs-cypress-matters-more-than-ever-in-2026.md) - Feb 11, 2026
 - [Mastering Unit Testing Anti-Patterns to Avoid: Expert Tips and Strategies](posts/2026/2026-02-10-mastering-unit-testing-anti-patterns-to-avoid-expert-tips-and-strategies.md) - Feb 10, 2026
 - [Why E2E Testing Frameworks Comparison Matters More Than Ever in 2026](posts/2026/2026-02-10-why-e2e-testing-frameworks-comparison-matters-more-than-ever-in-2026.md) - Feb 10, 2026
-- [Risk-Based Regression Testing: Best Practices and Real-World Examples](posts/2026/2026-02-10-risk-based-regression-testing-best-practices-and-real-world-examples.md) - Feb 10, 2026
-- ...and 506 more
+- ...and 507 more
 
 ### Community (87 posts)
 
@@ -25,10 +25,10 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
-- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
+- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
+- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
