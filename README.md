@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (88 posts)
+
+- [Usability Testing Methods: Tools, Tips, and Industry Insights](posts/2026/2026-02-12-usability-testing-methods-tools-tips-and-industry-insights.md) - Feb 12, 2026
+- [Advanced Keyboard Navigation Testing Techniques for Modern Development](posts/2026/2026-02-10-advanced-keyboard-navigation-testing-techniques-for-modern-development.md) - Feb 10, 2026
+- [Why User Acceptance Testing Guide Matters More Than Ever in 2026](posts/2026/2026-02-10-why-user-acceptance-testing-guide-matters-more-than-ever-in-2026.md) - Feb 10, 2026
+- [Advanced Screen Reader Testing Guide Techniques for Modern Development](posts/2026/2026-02-09-advanced-screen-reader-testing-guide-techniques-for-modern-development.md) - Feb 9, 2026
+- [Exploratory Testing Techniques: Common Pitfalls and How to Avoid Them](posts/2026/2026-02-03-exploratory-testing-techniques-common-pitfalls-and-how-to-avoid-them.md) - Feb 3, 2026
+- ...and 83 more
+
 ### Engineering (514 posts)
 
 - [Smoke Testing in CI/CD: Tools, Tips, and Industry Insights](posts/2026/2026-02-12-smoke-testing-in-cicd-tools-tips-and-industry-insights.md) - Feb 12, 2026
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Why Selenium vs Playwright vs Cypress Matters More Than Ever in 2026](posts/2026/2026-02-11-why-selenium-vs-playwright-vs-cypress-matters-more-than-ever-in-2026.md) - Feb 11, 2026
 - ...and 509 more
 
-### Community (87 posts)
-
-- [Advanced Keyboard Navigation Testing Techniques for Modern Development](posts/2026/2026-02-10-advanced-keyboard-navigation-testing-techniques-for-modern-development.md) - Feb 10, 2026
-- [Why User Acceptance Testing Guide Matters More Than Ever in 2026](posts/2026/2026-02-10-why-user-acceptance-testing-guide-matters-more-than-ever-in-2026.md) - Feb 10, 2026
-- [Advanced Screen Reader Testing Guide Techniques for Modern Development](posts/2026/2026-02-09-advanced-screen-reader-testing-guide-techniques-for-modern-development.md) - Feb 9, 2026
-- [Exploratory Testing Techniques: Common Pitfalls and How to Avoid Them](posts/2026/2026-02-03-exploratory-testing-techniques-common-pitfalls-and-how-to-avoid-them.md) - Feb 3, 2026
-- [Why Manual vs Automated Testing Balance Matters More Than Ever in 2026](posts/2026/2026-01-30-why-manual-vs-automated-testing-balance-matters-more-than-ever-in-2026.md) - Jan 30, 2026
-- ...and 82 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
-- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
-- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
+- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
+- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
