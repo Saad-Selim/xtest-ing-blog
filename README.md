@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (516 posts)
+
+- [Why Code Coverage Metrics That Matter Matters More Than Ever in 2026](posts/2026/2026-02-13-why-code-coverage-metrics-that-matter-matters-more-than-ever-in-2026.md) - Feb 13, 2026
+- [The Ultimate Guide to API Integration Testing Strategies](posts/2026/2026-02-13-the-ultimate-guide-to-api-integration-testing-strategies.md) - Feb 13, 2026
+- [Smoke Testing in CI/CD: Tools, Tips, and Industry Insights](posts/2026/2026-02-12-smoke-testing-in-cicd-tools-tips-and-industry-insights.md) - Feb 12, 2026
+- [Sanity Testing Strategies: Best Practices and Real-World Examples](posts/2026/2026-02-12-sanity-testing-strategies-best-practices-and-real-world-examples.md) - Feb 12, 2026
+- [Unit Testing Anti-Patterns to Avoid: A Comprehensive Guide for 2026](posts/2026/2026-02-11-unit-testing-anti-patterns-to-avoid-a-comprehensive-guide-for-2026.md) - Feb 11, 2026
+- ...and 511 more
+
 ### Community (89 posts)
 
 - [Color Contrast Testing: A Comprehensive Guide for 2026](posts/2026/2026-02-13-color-contrast-testing-a-comprehensive-guide-for-2026.md) - Feb 13, 2026
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Advanced Screen Reader Testing Guide Techniques for Modern Development](posts/2026/2026-02-09-advanced-screen-reader-testing-guide-techniques-for-modern-development.md) - Feb 9, 2026
 - ...and 84 more
 
-### Engineering (515 posts)
-
-- [The Ultimate Guide to API Integration Testing Strategies](posts/2026/2026-02-13-the-ultimate-guide-to-api-integration-testing-strategies.md) - Feb 13, 2026
-- [Smoke Testing in CI/CD: Tools, Tips, and Industry Insights](posts/2026/2026-02-12-smoke-testing-in-cicd-tools-tips-and-industry-insights.md) - Feb 12, 2026
-- [Sanity Testing Strategies: Best Practices and Real-World Examples](posts/2026/2026-02-12-sanity-testing-strategies-best-practices-and-real-world-examples.md) - Feb 12, 2026
-- [Unit Testing Anti-Patterns to Avoid: A Comprehensive Guide for 2026](posts/2026/2026-02-11-unit-testing-anti-patterns-to-avoid-a-comprehensive-guide-for-2026.md) - Feb 11, 2026
-- [Mastering Visual Regression Testing Tools: Expert Tips and Strategies](posts/2026/2026-02-11-mastering-visual-regression-testing-tools-expert-tips-and-strategies.md) - Feb 11, 2026
-- ...and 510 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
+- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
-- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
