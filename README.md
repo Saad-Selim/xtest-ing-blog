@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (519 posts)
+### Engineering (520 posts)
 
+- [Why Regression Testing in Agile Matters More Than Ever in 2026](posts/2026/2026-02-16-why-regression-testing-in-agile-matters-more-than-ever-in-2026.md) - Feb 16, 2026
 - [Advanced Mobile E2E Testing Strategies Techniques for Modern Development](posts/2026/2026-02-16-advanced-mobile-e2e-testing-strategies-techniques-for-modern-development.md) - Feb 16, 2026
 - [Why Performance Testing in the Cloud Matters More Than Ever in 2026](posts/2026/2026-02-15-why-performance-testing-in-the-cloud-matters-more-than-ever-in-2026.md) - Feb 15, 2026
 - [Why Regression Test Suite Optimization Matters More Than Ever in 2026](posts/2026/2026-02-14-why-regression-test-suite-optimization-matters-more-than-ever-in-2026.md) - Feb 14, 2026
 - [Why Code Coverage Metrics That Matter Matters More Than Ever in 2026](posts/2026/2026-02-13-why-code-coverage-metrics-that-matter-matters-more-than-ever-in-2026.md) - Feb 13, 2026
-- [The Ultimate Guide to API Integration Testing Strategies](posts/2026/2026-02-13-the-ultimate-guide-to-api-integration-testing-strategies.md) - Feb 13, 2026
-- ...and 514 more
+- ...and 515 more
 
 ### Community (91 posts)
 
@@ -26,9 +26,9 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
 - [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
-- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
