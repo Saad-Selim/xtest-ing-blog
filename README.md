@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (93 posts)
+
+- [Usability Testing Methods: Best Practices and Real-World Examples](posts/2026/2026-02-20-usability-testing-methods-best-practices-and-real-world-examples.md) - Feb 20, 2026
+- [Manual Testing in Agile Teams: Common Pitfalls and How to Avoid Them](posts/2026/2026-02-17-manual-testing-in-agile-teams-common-pitfalls-and-how-to-avoid-them.md) - Feb 17, 2026
+- [Automated Accessibility Testing: A Comprehensive Guide for 2026](posts/2026/2026-02-15-automated-accessibility-testing-a-comprehensive-guide-for-2026.md) - Feb 15, 2026
+- [Automated Accessibility Testing: Common Pitfalls and How to Avoid Them](posts/2026/2026-02-14-automated-accessibility-testing-common-pitfalls-and-how-to-avoid-them.md) - Feb 14, 2026
+- [Color Contrast Testing: A Comprehensive Guide for 2026](posts/2026/2026-02-13-color-contrast-testing-a-comprehensive-guide-for-2026.md) - Feb 13, 2026
+- ...and 88 more
+
 ### Engineering (527 posts)
 
 - [Visual Regression Testing: Tools, Tips, and Industry Insights](posts/2026/2026-02-20-visual-regression-testing-tools-tips-and-industry-insights.md) - Feb 20, 2026
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [The Ultimate Guide to Test Automation ROI Calculation](posts/2026/2026-02-17-the-ultimate-guide-to-test-automation-roi-calculation.md) - Feb 17, 2026
 - ...and 522 more
 
-### Community (92 posts)
-
-- [Manual Testing in Agile Teams: Common Pitfalls and How to Avoid Them](posts/2026/2026-02-17-manual-testing-in-agile-teams-common-pitfalls-and-how-to-avoid-them.md) - Feb 17, 2026
-- [Automated Accessibility Testing: A Comprehensive Guide for 2026](posts/2026/2026-02-15-automated-accessibility-testing-a-comprehensive-guide-for-2026.md) - Feb 15, 2026
-- [Automated Accessibility Testing: Common Pitfalls and How to Avoid Them](posts/2026/2026-02-14-automated-accessibility-testing-common-pitfalls-and-how-to-avoid-them.md) - Feb 14, 2026
-- [Color Contrast Testing: A Comprehensive Guide for 2026](posts/2026/2026-02-13-color-contrast-testing-a-comprehensive-guide-for-2026.md) - Feb 13, 2026
-- [Usability Testing Methods: Tools, Tips, and Industry Insights](posts/2026/2026-02-12-usability-testing-methods-tools-tips-and-industry-insights.md) - Feb 12, 2026
-- ...and 87 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
-- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
+- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
+- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
 - [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
-- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
+- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
