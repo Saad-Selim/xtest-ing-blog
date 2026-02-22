@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (530 posts)
+### Engineering (531 posts)
 
+- [Why Smoke Test Case Selection Matters More Than Ever in 2026](posts/2026/2026-02-22-why-smoke-test-case-selection-matters-more-than-ever-in-2026.md) - Feb 22, 2026
 - [Database Compatibility Testing: Best Practices and Real-World Examples](posts/2026/2026-02-22-database-compatibility-testing-best-practices-and-real-world-examples.md) - Feb 22, 2026
 - [Code Coverage Metrics That Matter: A Comprehensive Guide for 2026](posts/2026/2026-02-22-code-coverage-metrics-that-matter-a-comprehensive-guide-for-2026.md) - Feb 22, 2026
 - [How to Implement Production Sanity Testing Successfully](posts/2026/2026-02-21-how-to-implement-production-sanity-testing-successfully.md) - Feb 21, 2026
 - [Visual Regression Testing: Tools, Tips, and Industry Insights](posts/2026/2026-02-20-visual-regression-testing-tools-tips-and-industry-insights.md) - Feb 20, 2026
-- [The Ultimate Guide to Load Testing Best Practices](posts/2026/2026-02-19-the-ultimate-guide-to-load-testing-best-practices.md) - Feb 19, 2026
-- ...and 525 more
+- ...and 526 more
 
 ### Community (94 posts)
 
@@ -28,7 +28,7 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
 - [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
 - [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
