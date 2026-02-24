@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (537 posts)
+### Engineering (538 posts)
 
+- [Advanced Production Sanity Testing Techniques for Modern Development](posts/2026/2026-02-24-advanced-production-sanity-testing-techniques-for-modern-development.md) - Feb 24, 2026
 - [Production Sanity Testing Explained: Everything You Need to Know](posts/2026/2026-02-24-production-sanity-testing-explained-everything-you-need-to-know.md) - Feb 24, 2026
 - [The Ultimate Guide to Database Integration Testing](posts/2026/2026-02-24-the-ultimate-guide-to-database-integration-testing.md) - Feb 24, 2026
 - [API Test Automation Strategies: A Comprehensive Guide for 2026](posts/2026/2026-02-24-api-test-automation-strategies-a-comprehensive-guide-for-2026.md) - Feb 24, 2026
 - [Automated Smoke Test Suites: Common Pitfalls and How to Avoid Them](posts/2026/2026-02-24-automated-smoke-test-suites-common-pitfalls-and-how-to-avoid-them.md) - Feb 24, 2026
-- [Why Contract Testing with Pact Matters More Than Ever in 2026](posts/2026/2026-02-23-why-contract-testing-with-pact-matters-more-than-ever-in-2026.md) - Feb 23, 2026
-- ...and 532 more
+- ...and 533 more
 
 ### Community (94 posts)
 
