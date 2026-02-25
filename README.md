@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (539 posts)
+
+- [Production Sanity Testing: Tools, Tips, and Industry Insights](posts/2026/2026-02-25-production-sanity-testing-tools-tips-and-industry-insights.md) - Feb 25, 2026
+- [Advanced Production Sanity Testing Techniques for Modern Development](posts/2026/2026-02-24-advanced-production-sanity-testing-techniques-for-modern-development.md) - Feb 24, 2026
+- [Production Sanity Testing Explained: Everything You Need to Know](posts/2026/2026-02-24-production-sanity-testing-explained-everything-you-need-to-know.md) - Feb 24, 2026
+- [The Ultimate Guide to Database Integration Testing](posts/2026/2026-02-24-the-ultimate-guide-to-database-integration-testing.md) - Feb 24, 2026
+- [API Test Automation Strategies: A Comprehensive Guide for 2026](posts/2026/2026-02-24-api-test-automation-strategies-a-comprehensive-guide-for-2026.md) - Feb 24, 2026
+- ...and 534 more
+
 ### Community (95 posts)
 
 - [Why WCAG 2.1 Compliance Testing Matters More Than Ever in 2026](posts/2026/2026-02-24-why-wcag-21-compliance-testing-matters-more-than-ever-in-2026.md) - Feb 24, 2026
@@ -12,15 +21,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Manual Testing in Agile Teams: Common Pitfalls and How to Avoid Them](posts/2026/2026-02-17-manual-testing-in-agile-teams-common-pitfalls-and-how-to-avoid-them.md) - Feb 17, 2026
 - [Automated Accessibility Testing: A Comprehensive Guide for 2026](posts/2026/2026-02-15-automated-accessibility-testing-a-comprehensive-guide-for-2026.md) - Feb 15, 2026
 - ...and 90 more
-
-### Engineering (538 posts)
-
-- [Advanced Production Sanity Testing Techniques for Modern Development](posts/2026/2026-02-24-advanced-production-sanity-testing-techniques-for-modern-development.md) - Feb 24, 2026
-- [Production Sanity Testing Explained: Everything You Need to Know](posts/2026/2026-02-24-production-sanity-testing-explained-everything-you-need-to-know.md) - Feb 24, 2026
-- [The Ultimate Guide to Database Integration Testing](posts/2026/2026-02-24-the-ultimate-guide-to-database-integration-testing.md) - Feb 24, 2026
-- [API Test Automation Strategies: A Comprehensive Guide for 2026](posts/2026/2026-02-24-api-test-automation-strategies-a-comprehensive-guide-for-2026.md) - Feb 24, 2026
-- [Automated Smoke Test Suites: Common Pitfalls and How to Avoid Them](posts/2026/2026-02-24-automated-smoke-test-suites-common-pitfalls-and-how-to-avoid-them.md) - Feb 24, 2026
-- ...and 533 more
 
 ### Security (12 posts)
 
