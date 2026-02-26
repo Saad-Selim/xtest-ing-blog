@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (541 posts)
+
+- [Mastering JMeter vs Gatling vs K6: Expert Tips and Strategies](posts/2026/2026-02-26-mastering-jmeter-vs-gatling-vs-k6-expert-tips-and-strategies.md) - Feb 26, 2026
+- [Regression Testing Metrics: A Comprehensive Guide for 2026](posts/2026/2026-02-25-regression-testing-metrics-a-comprehensive-guide-for-2026.md) - Feb 25, 2026
+- [Production Sanity Testing: Tools, Tips, and Industry Insights](posts/2026/2026-02-25-production-sanity-testing-tools-tips-and-industry-insights.md) - Feb 25, 2026
+- [Advanced Production Sanity Testing Techniques for Modern Development](posts/2026/2026-02-24-advanced-production-sanity-testing-techniques-for-modern-development.md) - Feb 24, 2026
+- [Production Sanity Testing Explained: Everything You Need to Know](posts/2026/2026-02-24-production-sanity-testing-explained-everything-you-need-to-know.md) - Feb 24, 2026
+- ...and 536 more
+
 ### Community (96 posts)
 
 - [How to Implement Automated Accessibility Testing Successfully](posts/2026/2026-02-26-how-to-implement-automated-accessibility-testing-successfully.md) - Feb 26, 2026
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Manual Testing in Agile Teams: Common Pitfalls and How to Avoid Them](posts/2026/2026-02-17-manual-testing-in-agile-teams-common-pitfalls-and-how-to-avoid-them.md) - Feb 17, 2026
 - ...and 91 more
 
-### Engineering (540 posts)
-
-- [Regression Testing Metrics: A Comprehensive Guide for 2026](posts/2026/2026-02-25-regression-testing-metrics-a-comprehensive-guide-for-2026.md) - Feb 25, 2026
-- [Production Sanity Testing: Tools, Tips, and Industry Insights](posts/2026/2026-02-25-production-sanity-testing-tools-tips-and-industry-insights.md) - Feb 25, 2026
-- [Advanced Production Sanity Testing Techniques for Modern Development](posts/2026/2026-02-24-advanced-production-sanity-testing-techniques-for-modern-development.md) - Feb 24, 2026
-- [Production Sanity Testing Explained: Everything You Need to Know](posts/2026/2026-02-24-production-sanity-testing-explained-everything-you-need-to-know.md) - Feb 24, 2026
-- [The Ultimate Guide to Database Integration Testing](posts/2026/2026-02-24-the-ultimate-guide-to-database-integration-testing.md) - Feb 24, 2026
-- ...and 535 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
+- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
+- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
 - [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
-- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
