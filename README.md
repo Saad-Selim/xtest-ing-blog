@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (97 posts)
+
+- [How to Implement Bug Reporting Best Practices Successfully](posts/2026/2026-02-27-how-to-implement-bug-reporting-best-practices-successfully.md) - Feb 27, 2026
+- [How to Implement Automated Accessibility Testing Successfully](posts/2026/2026-02-26-how-to-implement-automated-accessibility-testing-successfully.md) - Feb 26, 2026
+- [Why WCAG 2.1 Compliance Testing Matters More Than Ever in 2026](posts/2026/2026-02-24-why-wcag-21-compliance-testing-matters-more-than-ever-in-2026.md) - Feb 24, 2026
+- [Keyboard Navigation Testing: Common Pitfalls and How to Avoid Them](posts/2026/2026-02-21-keyboard-navigation-testing-common-pitfalls-and-how-to-avoid-them.md) - Feb 21, 2026
+- [Usability Testing Methods: Best Practices and Real-World Examples](posts/2026/2026-02-20-usability-testing-methods-best-practices-and-real-world-examples.md) - Feb 20, 2026
+- ...and 92 more
+
 ### Engineering (542 posts)
 
 - [How to Implement Code Coverage Metrics That Matter Successfully](posts/2026/2026-02-27-how-to-implement-code-coverage-metrics-that-matter-successfully.md) - Feb 27, 2026
@@ -12,15 +21,6 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Production Sanity Testing: Tools, Tips, and Industry Insights](posts/2026/2026-02-25-production-sanity-testing-tools-tips-and-industry-insights.md) - Feb 25, 2026
 - [Advanced Production Sanity Testing Techniques for Modern Development](posts/2026/2026-02-24-advanced-production-sanity-testing-techniques-for-modern-development.md) - Feb 24, 2026
 - ...and 537 more
-
-### Community (96 posts)
-
-- [How to Implement Automated Accessibility Testing Successfully](posts/2026/2026-02-26-how-to-implement-automated-accessibility-testing-successfully.md) - Feb 26, 2026
-- [Why WCAG 2.1 Compliance Testing Matters More Than Ever in 2026](posts/2026/2026-02-24-why-wcag-21-compliance-testing-matters-more-than-ever-in-2026.md) - Feb 24, 2026
-- [Keyboard Navigation Testing: Common Pitfalls and How to Avoid Them](posts/2026/2026-02-21-keyboard-navigation-testing-common-pitfalls-and-how-to-avoid-them.md) - Feb 21, 2026
-- [Usability Testing Methods: Best Practices and Real-World Examples](posts/2026/2026-02-20-usability-testing-methods-best-practices-and-real-world-examples.md) - Feb 20, 2026
-- [Manual Testing in Agile Teams: Common Pitfalls and How to Avoid Them](posts/2026/2026-02-17-manual-testing-in-agile-teams-common-pitfalls-and-how-to-avoid-them.md) - Feb 17, 2026
-- ...and 91 more
 
 ### Security (12 posts)
 
