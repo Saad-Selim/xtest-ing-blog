@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (543 posts)
+### Engineering (544 posts)
 
+- [Advanced Unit Testing Anti-Patterns to Avoid Techniques for Modern Development](posts/2026/2026-02-28-advanced-unit-testing-anti-patterns-to-avoid-techniques-for-modern-development.md) - Feb 28, 2026
 - [Why Mobile Device Compatibility Testing Matters More Than Ever in 2026](posts/2026/2026-02-28-why-mobile-device-compatibility-testing-matters-more-than-ever-in-2026.md) - Feb 28, 2026
 - [How to Implement Code Coverage Metrics That Matter Successfully](posts/2026/2026-02-27-how-to-implement-code-coverage-metrics-that-matter-successfully.md) - Feb 27, 2026
 - [Mastering JMeter vs Gatling vs K6: Expert Tips and Strategies](posts/2026/2026-02-26-mastering-jmeter-vs-gatling-vs-k6-expert-tips-and-strategies.md) - Feb 26, 2026
 - [Regression Testing Metrics: A Comprehensive Guide for 2026](posts/2026/2026-02-25-regression-testing-metrics-a-comprehensive-guide-for-2026.md) - Feb 25, 2026
-- [Production Sanity Testing: Tools, Tips, and Industry Insights](posts/2026/2026-02-25-production-sanity-testing-tools-tips-and-industry-insights.md) - Feb 25, 2026
-- ...and 538 more
+- ...and 539 more
 
 ### Community (97 posts)
 
