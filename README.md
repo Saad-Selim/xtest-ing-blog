@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Community (99 posts)
+
+- [Advanced Usability Testing Methods Techniques for Modern Development](posts/2026/2026-03-03-advanced-usability-testing-methods-techniques-for-modern-development.md) - Mar 3, 2026
+- [How to Implement Exploratory Testing Techniques Successfully](posts/2026/2026-02-28-how-to-implement-exploratory-testing-techniques-successfully.md) - Feb 28, 2026
+- [How to Implement Bug Reporting Best Practices Successfully](posts/2026/2026-02-27-how-to-implement-bug-reporting-best-practices-successfully.md) - Feb 27, 2026
+- [How to Implement Automated Accessibility Testing Successfully](posts/2026/2026-02-26-how-to-implement-automated-accessibility-testing-successfully.md) - Feb 26, 2026
+- [Why WCAG 2.1 Compliance Testing Matters More Than Ever in 2026](posts/2026/2026-02-24-why-wcag-21-compliance-testing-matters-more-than-ever-in-2026.md) - Feb 24, 2026
+- ...and 94 more
+
 ### Engineering (548 posts)
 
 - [Advanced Smoke Testing in CI/CD Techniques for Modern Development](posts/2026/2026-03-02-advanced-smoke-testing-in-cicd-techniques-for-modern-development.md) - Mar 2, 2026
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Advanced Unit Testing Anti-Patterns to Avoid Techniques for Modern Development](posts/2026/2026-02-28-advanced-unit-testing-anti-patterns-to-avoid-techniques-for-modern-development.md) - Feb 28, 2026
 - ...and 543 more
 
-### Community (98 posts)
-
-- [How to Implement Exploratory Testing Techniques Successfully](posts/2026/2026-02-28-how-to-implement-exploratory-testing-techniques-successfully.md) - Feb 28, 2026
-- [How to Implement Bug Reporting Best Practices Successfully](posts/2026/2026-02-27-how-to-implement-bug-reporting-best-practices-successfully.md) - Feb 27, 2026
-- [How to Implement Automated Accessibility Testing Successfully](posts/2026/2026-02-26-how-to-implement-automated-accessibility-testing-successfully.md) - Feb 26, 2026
-- [Why WCAG 2.1 Compliance Testing Matters More Than Ever in 2026](posts/2026/2026-02-24-why-wcag-21-compliance-testing-matters-more-than-ever-in-2026.md) - Feb 24, 2026
-- [Keyboard Navigation Testing: Common Pitfalls and How to Avoid Them](posts/2026/2026-02-21-keyboard-navigation-testing-common-pitfalls-and-how-to-avoid-them.md) - Feb 21, 2026
-- ...and 93 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
-- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
-- [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
-- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
+- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
