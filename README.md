@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (549 posts)
+### Engineering (550 posts)
 
+- [How to Implement Performance Testing in the Cloud Successfully](posts/2026/2026-03-04-how-to-implement-performance-testing-in-the-cloud-successfully.md) - Mar 4, 2026
 - [API Integration Testing Strategies: Best Practices and Real-World Examples](posts/2026/2026-03-04-api-integration-testing-strategies-best-practices-and-real-world-examples.md) - Mar 4, 2026
 - [Advanced Smoke Testing in CI/CD Techniques for Modern Development](posts/2026/2026-03-02-advanced-smoke-testing-in-cicd-techniques-for-modern-development.md) - Mar 2, 2026
 - [The Ultimate Guide to Regression Testing in Agile](posts/2026/2026-03-02-the-ultimate-guide-to-regression-testing-in-agile.md) - Mar 2, 2026
 - [Why Visual Regression Testing Matters More Than Ever in 2026](posts/2026/2026-03-02-why-visual-regression-testing-matters-more-than-ever-in-2026.md) - Mar 2, 2026
-- [Why OS Compatibility Testing Matters More Than Ever in 2026](posts/2026/2026-03-01-why-os-compatibility-testing-matters-more-than-ever-in-2026.md) - Mar 1, 2026
-- ...and 544 more
+- ...and 545 more
 
 ### Community (99 posts)
 
@@ -25,10 +25,10 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
+- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
 - [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
-- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
