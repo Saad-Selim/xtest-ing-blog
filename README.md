@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (549 posts)
+
+- [API Integration Testing Strategies: Best Practices and Real-World Examples](posts/2026/2026-03-04-api-integration-testing-strategies-best-practices-and-real-world-examples.md) - Mar 4, 2026
+- [Advanced Smoke Testing in CI/CD Techniques for Modern Development](posts/2026/2026-03-02-advanced-smoke-testing-in-cicd-techniques-for-modern-development.md) - Mar 2, 2026
+- [The Ultimate Guide to Regression Testing in Agile](posts/2026/2026-03-02-the-ultimate-guide-to-regression-testing-in-agile.md) - Mar 2, 2026
+- [Why Visual Regression Testing Matters More Than Ever in 2026](posts/2026/2026-03-02-why-visual-regression-testing-matters-more-than-ever-in-2026.md) - Mar 2, 2026
+- [Why OS Compatibility Testing Matters More Than Ever in 2026](posts/2026/2026-03-01-why-os-compatibility-testing-matters-more-than-ever-in-2026.md) - Mar 1, 2026
+- ...and 544 more
+
 ### Community (99 posts)
 
 - [Advanced Usability Testing Methods Techniques for Modern Development](posts/2026/2026-03-03-advanced-usability-testing-methods-techniques-for-modern-development.md) - Mar 3, 2026
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [Why WCAG 2.1 Compliance Testing Matters More Than Ever in 2026](posts/2026/2026-02-24-why-wcag-21-compliance-testing-matters-more-than-ever-in-2026.md) - Feb 24, 2026
 - ...and 94 more
 
-### Engineering (548 posts)
-
-- [Advanced Smoke Testing in CI/CD Techniques for Modern Development](posts/2026/2026-03-02-advanced-smoke-testing-in-cicd-techniques-for-modern-development.md) - Mar 2, 2026
-- [The Ultimate Guide to Regression Testing in Agile](posts/2026/2026-03-02-the-ultimate-guide-to-regression-testing-in-agile.md) - Mar 2, 2026
-- [Why Visual Regression Testing Matters More Than Ever in 2026](posts/2026/2026-03-02-why-visual-regression-testing-matters-more-than-ever-in-2026.md) - Mar 2, 2026
-- [Why OS Compatibility Testing Matters More Than Ever in 2026](posts/2026/2026-03-01-why-os-compatibility-testing-matters-more-than-ever-in-2026.md) - Mar 1, 2026
-- [Advanced Unit Testing Anti-Patterns to Avoid Techniques for Modern Development](posts/2026/2026-02-28-advanced-unit-testing-anti-patterns-to-avoid-techniques-for-modern-development.md) - Feb 28, 2026
-- ...and 543 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
 - [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
-- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
+- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
+- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
