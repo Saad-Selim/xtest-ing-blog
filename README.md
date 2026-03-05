@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (552 posts)
+### Engineering (553 posts)
 
+- [Automated Regression Testing Explained: Everything You Need to Know](posts/2026/2026-03-05-automated-regression-testing-explained-everything-you-need-to-know.md) - Mar 5, 2026
 - [Smoke Testing in CI/CD: A Comprehensive Guide for 2026](posts/2026/2026-03-05-smoke-testing-in-cicd-a-comprehensive-guide-for-2026.md) - Mar 5, 2026
 - [Mastering Cross-Browser E2E Testing: Expert Tips and Strategies](posts/2026/2026-03-05-mastering-cross-browser-e2e-testing-expert-tips-and-strategies.md) - Mar 5, 2026
 - [How to Implement Performance Testing in the Cloud Successfully](posts/2026/2026-03-04-how-to-implement-performance-testing-in-the-cloud-successfully.md) - Mar 4, 2026
 - [API Integration Testing Strategies: Best Practices and Real-World Examples](posts/2026/2026-03-04-api-integration-testing-strategies-best-practices-and-real-world-examples.md) - Mar 4, 2026
-- [Advanced Smoke Testing in CI/CD Techniques for Modern Development](posts/2026/2026-03-02-advanced-smoke-testing-in-cicd-techniques-for-modern-development.md) - Mar 2, 2026
-- ...and 547 more
+- ...and 548 more
 
 ### Community (99 posts)
 
