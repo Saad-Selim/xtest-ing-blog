@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (557 posts)
+
+- [Why Stress Testing Strategies Matters More Than Ever in 2026](posts/2026/2026-03-07-why-stress-testing-strategies-matters-more-than-ever-in-2026.md) - Mar 7, 2026
+- [Mastering Smoke Test Case Selection: Expert Tips and Strategies](posts/2026/2026-03-07-mastering-smoke-test-case-selection-expert-tips-and-strategies.md) - Mar 7, 2026
+- [The Ultimate Guide to Test Automation Framework Design](posts/2026/2026-03-07-the-ultimate-guide-to-test-automation-framework-design.md) - Mar 7, 2026
+- [Advanced Unit Testing Best Practices in 2025 Techniques for Modern Development](posts/2026/2026-03-07-advanced-unit-testing-best-practices-in-2025-techniques-for-modern-development.md) - Mar 7, 2026
+- [Automated Regression Testing Explained: Everything You Need to Know](posts/2026/2026-03-05-automated-regression-testing-explained-everything-you-need-to-know.md) - Mar 5, 2026
+- ...and 552 more
+
 ### Community (101 posts)
 
 - [Bug Reporting Best Practices: A Comprehensive Guide for 2026](posts/2026/2026-03-07-bug-reporting-best-practices-a-comprehensive-guide-for-2026.md) - Mar 7, 2026
@@ -13,21 +22,12 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [How to Implement Bug Reporting Best Practices Successfully](posts/2026/2026-02-27-how-to-implement-bug-reporting-best-practices-successfully.md) - Feb 27, 2026
 - ...and 96 more
 
-### Engineering (556 posts)
-
-- [Mastering Smoke Test Case Selection: Expert Tips and Strategies](posts/2026/2026-03-07-mastering-smoke-test-case-selection-expert-tips-and-strategies.md) - Mar 7, 2026
-- [The Ultimate Guide to Test Automation Framework Design](posts/2026/2026-03-07-the-ultimate-guide-to-test-automation-framework-design.md) - Mar 7, 2026
-- [Advanced Unit Testing Best Practices in 2025 Techniques for Modern Development](posts/2026/2026-03-07-advanced-unit-testing-best-practices-in-2025-techniques-for-modern-development.md) - Mar 7, 2026
-- [Automated Regression Testing Explained: Everything You Need to Know](posts/2026/2026-03-05-automated-regression-testing-explained-everything-you-need-to-know.md) - Mar 5, 2026
-- [Smoke Testing in CI/CD: A Comprehensive Guide for 2026](posts/2026/2026-03-05-smoke-testing-in-cicd-a-comprehensive-guide-for-2026.md) - Mar 5, 2026
-- ...and 551 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
+- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
-- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
-- [Zero Trust Security Testing: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-zero-trust-security-testing-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
 - [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
 - ...and 7 more
 
