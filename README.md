@@ -4,6 +4,15 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
+### Engineering (554 posts)
+
+- [Advanced Unit Testing Best Practices in 2025 Techniques for Modern Development](posts/2026/2026-03-07-advanced-unit-testing-best-practices-in-2025-techniques-for-modern-development.md) - Mar 7, 2026
+- [Automated Regression Testing Explained: Everything You Need to Know](posts/2026/2026-03-05-automated-regression-testing-explained-everything-you-need-to-know.md) - Mar 5, 2026
+- [Smoke Testing in CI/CD: A Comprehensive Guide for 2026](posts/2026/2026-03-05-smoke-testing-in-cicd-a-comprehensive-guide-for-2026.md) - Mar 5, 2026
+- [Mastering Cross-Browser E2E Testing: Expert Tips and Strategies](posts/2026/2026-03-05-mastering-cross-browser-e2e-testing-expert-tips-and-strategies.md) - Mar 5, 2026
+- [How to Implement Performance Testing in the Cloud Successfully](posts/2026/2026-03-04-how-to-implement-performance-testing-in-the-cloud-successfully.md) - Mar 4, 2026
+- ...and 549 more
+
 ### Community (100 posts)
 
 - [WCAG 2.1 Compliance Testing: Common Pitfalls and How to Avoid Them](posts/2026/2026-03-06-wcag-21-compliance-testing-common-pitfalls-and-how-to-avoid-them.md) - Mar 6, 2026
@@ -13,22 +22,13 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 - [How to Implement Automated Accessibility Testing Successfully](posts/2026/2026-02-26-how-to-implement-automated-accessibility-testing-successfully.md) - Feb 26, 2026
 - ...and 95 more
 
-### Engineering (553 posts)
-
-- [Automated Regression Testing Explained: Everything You Need to Know](posts/2026/2026-03-05-automated-regression-testing-explained-everything-you-need-to-know.md) - Mar 5, 2026
-- [Smoke Testing in CI/CD: A Comprehensive Guide for 2026](posts/2026/2026-03-05-smoke-testing-in-cicd-a-comprehensive-guide-for-2026.md) - Mar 5, 2026
-- [Mastering Cross-Browser E2E Testing: Expert Tips and Strategies](posts/2026/2026-03-05-mastering-cross-browser-e2e-testing-expert-tips-and-strategies.md) - Mar 5, 2026
-- [How to Implement Performance Testing in the Cloud Successfully](posts/2026/2026-03-04-how-to-implement-performance-testing-in-the-cloud-successfully.md) - Mar 4, 2026
-- [API Integration Testing Strategies: Best Practices and Real-World Examples](posts/2026/2026-03-04-api-integration-testing-strategies-best-practices-and-real-world-examples.md) - Mar 4, 2026
-- ...and 548 more
-
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
-- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
+- [Cloud Security Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-cloud-security-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [How to Implement Penetration Testing Automation Successfully](posts/2025/2025-07-22-how-to-implement-penetration-testing-automation-successfully.md) - Jul 22, 2025
 - [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
-- [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
+- [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
