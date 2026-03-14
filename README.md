@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (568 posts)
+### Engineering (569 posts)
 
+- [Why ML Model Testing Strategies Matters More Than Ever in 2026](posts/2026/2026-03-14-why-ml-model-testing-strategies-matters-more-than-ever-in-2026.md) - Mar 14, 2026
 - [Why AI-Powered Test Generation Matters More Than Ever in 2026](posts/2026/2026-03-13-why-ai-powered-test-generation-matters-more-than-ever-in-2026.md) - Mar 13, 2026
 - [Why Intelligent Test Case Selection Matters More Than Ever in 2026](posts/2026/2026-03-12-why-intelligent-test-case-selection-matters-more-than-ever-in-2026.md) - Mar 12, 2026
 - [Why Computer Vision for Visual Testing Matters More Than Ever in 2026](posts/2026/2026-03-12-why-computer-vision-for-visual-testing-matters-more-than-ever-in-2026.md) - Mar 12, 2026
 - [Why Predictive Test Analytics Matters More Than Ever in 2026](posts/2026/2026-03-11-why-predictive-test-analytics-matters-more-than-ever-in-2026.md) - Mar 11, 2026
-- [Predictive Test Analytics: A Comprehensive Guide for 2026](posts/2026/2026-03-11-predictive-test-analytics-a-comprehensive-guide-for-2026.md) - Mar 11, 2026
-- ...and 563 more
+- ...and 564 more
 
 ### Community (101 posts)
 
@@ -25,10 +25,10 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
-- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [Advanced Security in CI/CD Pipelines Techniques for Modern Development](posts/2025/2025-07-22-advanced-security-in-cicd-pipelines-techniques-for-modern-development.md) - Jul 22, 2025
+- [How to Implement API Security Testing Successfully](posts/2025/2025-07-22-how-to-implement-api-security-testing-successfully.md) - Jul 22, 2025
+- [Mastering Zero Trust Security Testing: Expert Tips and Strategies](posts/2025/2025-07-22-mastering-zero-trust-security-testing-expert-tips-and-strategies.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
