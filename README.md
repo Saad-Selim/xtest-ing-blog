@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (572 posts)
+### Engineering (573 posts)
 
+- [Computer Vision for Visual Testing: A Comprehensive Guide for 2026](posts/2026/2026-03-20-computer-vision-for-visual-testing-a-comprehensive-guide-for-2026.md) - Mar 20, 2026
 - [Why Natural Language Processing in Testing Matters More Than Ever in 2026](posts/2026/2026-03-20-why-natural-language-processing-in-testing-matters-more-than-ever-in-2026.md) - Mar 20, 2026
 - [Machine Learning for Test Prioritization: A Comprehensive Guide for 2026](posts/2026/2026-03-17-machine-learning-for-test-prioritization-a-comprehensive-guide-for-2026.md) - Mar 17, 2026
 - [Self-Healing Test Automation: A Comprehensive Guide for 2026](posts/2026/2026-03-15-self-healing-test-automation-a-comprehensive-guide-for-2026.md) - Mar 15, 2026
 - [Why ML Model Testing Strategies Matters More Than Ever in 2026](posts/2026/2026-03-14-why-ml-model-testing-strategies-matters-more-than-ever-in-2026.md) - Mar 14, 2026
-- [Why AI-Powered Test Generation Matters More Than Ever in 2026](posts/2026/2026-03-13-why-ai-powered-test-generation-matters-more-than-ever-in-2026.md) - Mar 13, 2026
-- ...and 567 more
+- ...and 568 more
 
 ### Community (101 posts)
 
