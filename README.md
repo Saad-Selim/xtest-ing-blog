@@ -4,14 +4,14 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 
 ## 📚 Categories
 
-### Engineering (579 posts)
+### Engineering (580 posts)
 
+- [Why Machine Learning for Test Prioritization Matters More Than Ever in 2026](posts/2026/2026-04-04-why-machine-learning-for-test-prioritization-matters-more-than-ever-in-2026.md) - Apr 4, 2026
 - [Intelligent Test Case Selection: A Comprehensive Guide for 2026](posts/2026/2026-03-30-intelligent-test-case-selection-a-comprehensive-guide-for-2026.md) - Mar 30, 2026
 - [Natural Language Processing in Testing: A Comprehensive Guide for 2026](posts/2026/2026-03-27-natural-language-processing-in-testing-a-comprehensive-guide-for-2026.md) - Mar 27, 2026
 - [Why Test Data Generation with AI Matters More Than Ever in 2026](posts/2026/2026-03-24-why-test-data-generation-with-ai-matters-more-than-ever-in-2026.md) - Mar 24, 2026
 - [Why Self-Healing Test Automation Matters More Than Ever in 2026](posts/2026/2026-03-23-why-self-healing-test-automation-matters-more-than-ever-in-2026.md) - Mar 23, 2026
-- [AI-Powered Test Generation: A Comprehensive Guide for 2026](posts/2026/2026-03-22-ai-powered-test-generation-a-comprehensive-guide-for-2026.md) - Mar 22, 2026
-- ...and 574 more
+- ...and 575 more
 
 ### Community (101 posts)
 
@@ -25,10 +25,10 @@ Welcome to the Xtest blog repository! This repository contains all our blog post
 ### Security (12 posts)
 
 - [Penetration Testing Automation Explained: Everything You Need to Know](posts/2025/2025-08-11-penetration-testing-automation-explained-everything-you-need-to-know.md) - Aug 11, 2025
-- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
 - [Advanced Container Security Testing Techniques for Modern Development](posts/2025/2025-07-22-advanced-container-security-testing-techniques-for-modern-development.md) - Jul 22, 2025
+- [Data Privacy Compliance Testing: A Comprehensive Guide for 2025](posts/2025/2025-07-22-data-privacy-compliance-testing-a-comprehensive-guide-for-2025.md) - Jul 22, 2025
+- [Security Testing Best Practices: Common Pitfalls and How to Avoid Them](posts/2025/2025-07-22-security-testing-best-practices-common-pitfalls-and-how-to-avoid-them.md) - Jul 22, 2025
 - [Security-First Testing: Integrating Cybersecurity Throughout Your Test Pipeline: Best Practices and Real-World Examples](posts/2025/2025-07-22-security-first-testing-integrating-cybersecurity-throughout-your-test-pipeline-best-practices-and-real-world-examples.md) - Jul 22, 2025
-- [The Ultimate Guide to API Security Testing](posts/2025/2025-07-22-the-ultimate-guide-to-api-security-testing.md) - Jul 22, 2025
 - ...and 7 more
 
 ## ⭐ Featured Posts
